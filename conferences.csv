@@ -1,0 +1,13 @@
+field,subfield,conference
+systems,hpc,hpdc
+systems,os,fast
+inter,hci,ubicomp
+systems,security,ccs 
+systems,measurement,imc
+systems,security,ndss
+systems,security,pets
+systems,security,usenixsec
+systems,proglang,pldi
+systems,proglang,popl
+systems,eda,dac
+ai,ml,kdd
