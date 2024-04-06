@@ -358,22 +358,26 @@ function App() {
             onChange={(e) => setEndYear(parseInt(e.target.value))}
           />
 
-          <select
-            value={sortInstitutionsBy}
-            onChange={(e) => setSortInstitutionsBy(e.target.value)}
-          >
-            <option value="size">Size</option>
-            <option value="pubs">Pubs</option>
-            <option value="adjPubs">Adj Pubs</option>
-          </select>
+          {!toggleGroupByInstitution && (
+            <select
+              value={sortInstitutionsBy}
+              onChange={(e) => setSortInstitutionsBy(e.target.value)}
+            >
+              <option value="size">Size</option>
+              <option value="pubs">Pubs</option>
+              <option value="adjPubs">Adj Pubs</option>
+            </select>
+          )}
 
-          <select
-            value={sortAuthorsBy}
-            onChange={(e) => setSortAuthorsBy(e.target.value)}
-          >
-            <option value="count">Count</option>
-            <option value="adj">Adj</option>
-          </select>
+          {toggleGroupByInstitution && (
+            <select
+              value={sortAuthorsBy}
+              onChange={(e) => setSortAuthorsBy(e.target.value)}
+            >
+              <option value="count">Count</option>
+              <option value="adj">Adj</option>
+            </select>
+          )}
 
           {/* {generatedAuthorInfo &&
             Object.keys(generatedAuthorInfo).map((dept) => (
