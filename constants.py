@@ -1,8 +1,11 @@
-CONFERENCES = {
+PUBLICATION_VENUES = {
     "HPDC": "hpdc",
     "FAST": "fast",
     "UbiComp": "ubicomp",
     "Ubicomp": "ubicomp",
+    "Pervasive": "ubicomp",
+    "IMWUT": "ubicomp",
+    "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.": "ubicomp",
     "CCS": "ccs",
     "IMC": "imc",
     "NDSS": "ndss",
@@ -19,6 +22,7 @@ CONFERENCES = {
 
 AUTHORS = {
     "Arnab Kumar Paul",
+    "Arnab K. Paul",
     "Sougata Sen",
     "Devashish Gosain",
     "Dhananjay M. Dhamdhere",
