@@ -270,6 +270,21 @@ PUBLICATION_VENUES = {  # (long_name: short_name)
     "LICS": "lics",
     "CSL-LICS": "lics",
     ## IEEE Transactions
+    "IEEE Transactions on Neural Networks and Learning Systems": "tnnls",
+    "IEEE Transactions on Robotics": "trob",
+    "IEEE Transactions on Information Forensics and Security": "tifs",
+    "IEEE Transactions on Mobile Computing": "tmc",
+    "IEEE Transactions on Control of Network Systems": "tcns",
+    "IEEE Transactions on Parallel and Distributed Systems": "tpds",
+    "IEEE Transactions on Software Engineering": "tse",
+    "IEEE Transactions on Network and Service Management": "tnsm",
+    "IEEE Transactions on Green Communications and Networking": "tgc",
+    "IEEE Transactions on Network Science and Engineering": "tnse",
+    "IEEE Transactions on Artificial Intelligence": "tai",
+    "IEEE Transactions on Signal and Information Processing over Networks": "tsipn",
+    "IEEE Transactions on Computational Social Systems": "tcss",
+    "IEEE Transactions on Dependable and Secure Computing": "tdsc",
+    "IEEE Transactions on Affective Computing": "taffc",
     ##
 }
 
