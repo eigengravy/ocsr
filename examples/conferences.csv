@@ -92,3 +92,9 @@ systems,networks,tsipn
 inter,hci,tcss
 systems,security,tdsc
 inter,hci,taffc
+systems,hpc,podc
+ai,ml,colt
+systems,networks,infocom
+ai,web,icdm
+inter,hci,percom
+ai,ai,aamas
