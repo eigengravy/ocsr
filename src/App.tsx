@@ -31,21 +31,50 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import { arch } from "os";
 
 const displayNames = {
   all: "All Areas",
   systems: "Systems",
   ai: "Artificial Intelligence",
-  security: "Security",
+  security: "Computer Security",
   hpc: "High Performance Computing",
   ml: "Machine Learning",
-  ccs: "CCS",
-  ndss: "NDSS",
-  sc: "SC",
-  hpdc: "HPDC",
-  nips: "NIPS",
-  kdd: "KDD",
-  icml: "ICML",
+  cv: "Computer Vision",
+  nlp: "Natural Language Processing",
+  web: "The Web & Information Retrieval",
+  theory: "Theory",
+  arch: "Computer Architecture",
+  networks: "Computer Networks",
+  databases: "Databases",
+  design: "Design Automation",
+  embedded: "Embedded & Real-Time Systems",
+  mobile: "Mobile Computing",
+  measurement: "Measurement & Performance Analysis",
+  os: "Operating Systems",
+  languages: "Programming Languages",
+  software: "Software Engineering",
+  algorithms: "Algorithms & Complexity",
+  crypto: "Cryptography",
+  logic: "Logic & Verification",
+  graphics: "Computer Graphics",
+  inter: "Interdisciplinary Area",
+  bio: "Computational Biology & Bioinformatics",
+  education: "Computer Science Education",
+  econ: "Economics & Computation",
+  hci: "Human-Computer Interaction",
+  robotics: "Robotics",
+  vis: "Visualization",
+};
+
+const confsByArea = {
+  systems: {
+    security: ["ccs", "ndss"],
+    hpc: ["sc", "hpdc"],
+  },
+  ai: {
+    ml: ["nips", "kdd", "icml"],
+  },
 };
 
 const transform = (data, parent) => {
@@ -201,22 +230,40 @@ function App() {
   const [endYear, setEndYear] = useState(2024);
   const [areas, setAreas] = useState<any>({
     all: {
-      systems: {
-        security: {
-          ccs: false,
-          ndss: false,
-        },
-        hpc: {
-          sc: false,
-          hpdc: true,
-        },
-      },
       ai: {
-        ml: {
-          nips: false,
-          kdd: false,
-          icml: false,
-        },
+        ml: true,
+        ai: false,
+        cv: false,
+        nlp: false,
+        web: false,
+      },
+      systems: {
+        arch: false,
+        networks: false,
+        security: true,
+        databases: false,
+        design: false,
+        embedded: false,
+        hpc: false,
+        mobile: false,
+        measurement: false,
+        os: false,
+        languages: false,
+        software: false,
+      },
+      theory: {
+        algorithms: false,
+        crypto: false,
+        logic: false,
+      },
+      inter: {
+        bio: false,
+        graphics: false,
+        education: false,
+        econ: false,
+        hci: false,
+        robotics: false,
+        vis: false,
       },
     },
   });
@@ -236,13 +283,12 @@ function App() {
     let activeConfs: SetStateAction<any[]> = [];
     Object.keys(areas["all"]).forEach((area) => {
       Object.keys(areas["all"][area]).forEach((subarea) => {
-        Object.keys(areas["all"][area][subarea]).forEach((conf) => {
-          if (areas["all"][area][subarea][conf]) {
-            activeConfs.push(conf);
-          }
-        });
+        if (areas["all"][area][subarea]) {
+          activeConfs.push(...confsByArea[area][subarea]);
+        }
       });
     });
+
     setConfs(activeConfs);
   }, [areas]);
 
@@ -335,99 +381,11 @@ function App() {
   }, [generatedAuthorInfo, startYear, endYear, confs]);
 
   return (
-    <div className="flex flex-col p-2">
-      <div className="text-5xl w-full pl-5">Open CS Rankings 🇮🇳</div>
+    <div className="flex flex-col pl-20 pr-20 pt-5">
+      <div className="text-5xl w-full">Open CS Rankings 🇮🇳</div>
       {!loadingData && (
         <div className="flex flex-row w-full justify-between">
           <div className="flex flex-col gap-5 w-100 pt-5 pl-5">
-            <div className="flex flex-row gap-5 align-bottom">
-              <Switch
-                id="toggleGroupByInstitution"
-                checked={toggleGroupByInstitution}
-                onCheckedChange={() =>
-                  setToggleGroupByInstitution(!toggleGroupByInstitution)
-                }
-              />
-              <p>
-                {toggleGroupByInstitution
-                  ? "List Institutions"
-                  : "List Authors"}
-              </p>
-            </div>
-
-            {!toggleGroupByInstitution && (
-              <div className="flex flex-row gap-3 w-full justify-between align-bottom">
-                <Select
-                  value={sortInstitutionsBy}
-                  onValueChange={(e) => setSortInstitutionsBy(e)}
-                >
-                  <SelectTrigger className="w-[180px]">
-                    <SelectValue placeholder="" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="size">Count</SelectItem>
-                    <SelectItem value="pubs">Pubs</SelectItem>
-                    <SelectItem value="adjPubs">Adj Pubs</SelectItem>
-                  </SelectContent>
-                </Select>
-                <p className="align-middle">Sort Authors By</p>
-              </div>
-            )}
-
-            {toggleGroupByInstitution && (
-              <div className="flex flex-row gap-3 w-full justify-between align-bottom">
-                <Select
-                  value={sortAuthorsBy}
-                  onValueChange={(e) => setSortAuthorsBy(e)}
-                >
-                  <SelectTrigger className="w-[180px]">
-                    <SelectValue placeholder={endYear} />
-                  </SelectTrigger>
-                  <SelectContent>
-                    <SelectItem value="count">Count</SelectItem>
-                    <SelectItem value="adj">Adj</SelectItem>
-                  </SelectContent>
-                </Select>
-                <p className="align-middle">Sort Institutions By</p>
-              </div>
-            )}
-
-            <div className="flex flex-row gap-3 w-full  justify-start align-bottom">
-              <p>Start Year</p>
-              <Select
-                value={startYear.toString()}
-                onValueChange={(e) => setStartYear(parseInt(e))}
-                defaultValue="2014"
-              >
-                <SelectTrigger className="w-[180px]">
-                  <SelectValue placeholder={startYear} />
-                </SelectTrigger>
-                <SelectContent>
-                  {range(1970, new Date().getFullYear() + 1).map((year) => (
-                    <SelectItem value={year.toString()}>{year}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
-
-            <div className="flex flex-row gap-3 justify-start align-bottom">
-              <p>End Year</p>
-              <Select
-                value={endYear.toString()}
-                onValueChange={(e) => setStartYear(parseInt(e))}
-                defaultValue="2024"
-              >
-                <SelectTrigger className="w-[180px]">
-                  <SelectValue placeholder={endYear} />
-                </SelectTrigger>
-                <SelectContent>
-                  {range(1980, new Date().getFullYear() + 1).map((year) => (
-                    <SelectItem value={year.toString()}>{year}</SelectItem>
-                  ))}
-                </SelectContent>
-              </Select>
-            </div>
-
             <div>
               <p className="text-2xl pb-3">Domains</p>
               <NestedCheckbox data={areas} setAreas={setAreas} />
@@ -435,6 +393,99 @@ function App() {
           </div>
 
           <div>
+            <div className="flex flex-row justify-between pb-5">
+              <div className="flex flex-col gap-3">
+                <div className="flex flex-row gap-3">
+                  <p className="w-[80px]">Start Year</p>
+                  <Select
+                    value={startYear.toString()}
+                    onValueChange={(e) => setStartYear(parseInt(e))}
+                    defaultValue="2014"
+                  >
+                    <SelectTrigger className="w-[180px]">
+                      <SelectValue placeholder={startYear} />
+                    </SelectTrigger>
+                    <SelectContent>
+                      {range(1970, new Date().getFullYear() + 1).map((year) => (
+                        <SelectItem value={year.toString()}>{year}</SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="flex flex-row gap-3">
+                  <p className="w-[80px]">End Year</p>
+                  <Select
+                    value={endYear.toString()}
+                    onValueChange={(e) => setStartYear(parseInt(e))}
+                    defaultValue="2024"
+                  >
+                    <SelectTrigger className="w-[180px]">
+                      <SelectValue placeholder={endYear} />
+                    </SelectTrigger>
+                    <SelectContent>
+                      {range(1980, new Date().getFullYear() + 1).map((year) => (
+                        <SelectItem value={year.toString()}>{year}</SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
+              </div>
+              <div className="flex flex-col gap-3 justify-between">
+                <div className="flex flex-row gap-3">
+                  <p className="w-[200px]">
+                    {toggleGroupByInstitution
+                      ? "List Institutions"
+                      : "List Authors"}
+                  </p>
+                  <Switch
+                    id="toggleGroupByInstitution"
+                    checked={toggleGroupByInstitution}
+                    onCheckedChange={() =>
+                      setToggleGroupByInstitution(!toggleGroupByInstitution)
+                    }
+                  />
+                </div>
+                {!toggleGroupByInstitution && (
+                  <div className="flex flex-row gap-5 align-bottom">
+                    <p className="align-middle w-[150px]">Sort Authors By</p>
+                    <Select
+                      value={sortInstitutionsBy}
+                      onValueChange={(e) => setSortInstitutionsBy(e)}
+                    >
+                      <SelectTrigger className="w-[180px]">
+                        <SelectValue placeholder="" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value="size">Count</SelectItem>
+                        <SelectItem value="pubs">Pubs</SelectItem>
+                        <SelectItem value="adjPubs">Adj Pubs</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
+                )}
+                {toggleGroupByInstitution && (
+                  <div className="flex flex-row gap-5 align-bottom">
+                    <p className="align-middle w-[150px]">
+                      Sort Institutions By
+                    </p>
+                    <Select
+                      value={sortAuthorsBy}
+                      onValueChange={(e) => setSortAuthorsBy(e)}
+                    >
+                      <SelectTrigger className="w-[180px]">
+                        <SelectValue placeholder={endYear} />
+                      </SelectTrigger>
+                      <SelectContent>
+                        <SelectItem value="count">Count</SelectItem>
+                        <SelectItem value="adj">Adj</SelectItem>
+                      </SelectContent>
+                    </Select>
+                  </div>
+                )}
+              </div>
+            </div>
+
             {authors && toggleGroupByInstitution && (
               <ScrollArea className="h-[85vh] w-[50vw] rounded-md border p-4">
                 <AuthorList authors={authors} />
@@ -478,7 +529,7 @@ function App() {
         </div>
       )}
 
-      <footer className="w-full text-sm text-gray-500 text-center dark:text-gray-400 mt-6">
+      <footer className="w-full text-sm text-gray-500 text-center dark:text-gray-400 m-6">
         2024, Open CS Rankings
       </footer>
     </div>
