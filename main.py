@@ -24,7 +24,7 @@ import aliases
 from constants import AUTHORS, PUBLICATION_VENUES
 
 DEBUG = True # DEBUG mode enabled / disabled
-limit = 1 # time limit in minutes
+limit = 5 # time limit in minutes
 
 count = 0 # Internal count variable
 
