@@ -158,7 +158,7 @@ const findNode = (nodes, label, ancestors) => {
 };
 
 const NestedCheckbox = ({ data, setAreas }) => {
-  const initialNodes = transform(data);
+  const initialNodes = transform(data, null);
   const [nodes, setNodes] = useState(initialNodes);
 
   useEffect(() => {
