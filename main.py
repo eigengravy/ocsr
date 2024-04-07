@@ -1,5 +1,6 @@
 import gzip
 import sys
+
 from pprint import pprint
 from typing import List
 
@@ -179,4 +180,6 @@ xmltodict.parse(
 )
 
 print(f"Total records found: {count}")
-print(df)
+print(df.head())
+
+df.to_csv("output-generated-authors.csv", index=False)

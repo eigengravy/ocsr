@@ -1,7 +1,8 @@
 import pandas as pd
+import sys
 
 df_core = pd.DataFrame(columns=['name', 'short-name'])
-df = pd.read_csv("./examples/CORE.csv")
+df = pd.read_csv("../resources/CORE.csv")
 for index, row in df.iterrows():
     # Check if rank is A* or A
     if(row["rank"] == "A*"):
