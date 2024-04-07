@@ -2,12 +2,12 @@ import pandas as pd
 
 df_alias = pd.DataFrame(columns=["alias", "name", "dept"])
 df_affiliation = None
+df_ind_affiliation = pd.DataFrame(columns=["name", "affiliation", "homepage", "scholarid"])
 
 
 # Create affliation table
 def read_affliations():
-    return pd.read_csv("./examples/affiliations.csv")
-
+    return pd.read_csv("./example/affiliations.csv")
 
 def generate_aliases():
     global df_alias, df_affiliation
