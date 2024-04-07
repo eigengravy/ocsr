@@ -7,7 +7,7 @@ df_ind_affiliation = pd.DataFrame(columns=["name", "affiliation", "homepage", "s
 
 # Create affliation table
 def read_affliations():
-    return pd.read_csv("./example/affiliations.csv")
+    return pd.read_csv("./examples/affiliations.csv")
 
 def generate_aliases():
     global df_alias, df_affiliation
