@@ -1,13 +1,40 @@
+"""
+This Python script generates a table of aliases for researchers based on affiliations and scholar IDs. 
+It reads an affiliation table, iterates through it, and identifies researchers with the same homepage or
+scholar ID (potentially indicating the same person). It then creates a new table containing aliases 
+(other names for the same researcher) and saves it to a CSV file.
+"""
+
 import pandas as pd
 
 df_alias = pd.DataFrame(columns=["alias", "name", "dept"])
 df_affiliation = None
-df_ind_affiliation = pd.DataFrame(columns=["name", "affiliation", "homepage", "scholarid"])
+# df_ind_affiliation = pd.DataFrame(columns=["name", "affiliation", "homepage", "scholarid"])
 
 
 # Create affliation table
 def read_affliations():
     return pd.read_csv("./examples/affiliations.csv")
+
+# def read_ind_affliations():
+#     indian_inst = [
+#         "BITS Pilani",
+#         "BITS Pilani-Goa",
+#         "CMI",
+#         "IIIT Bangalore",
+#         "IISc Bangalore",
+#         "IIT Bombay",
+#         "IMSc",
+#         "ISI Kolkata",
+#         "National Institute of Technology Warangal",
+#         "Tata Inst. of Fundamental Research",
+#     ]
+    
+#     for index, row in df_affiliation.iterrows():
+#         if row["affiliation"] in indian_inst:
+#             df_ind_affiliation.loc[len(df_ind_affiliation)] = [row["name"], row["affiliation"], row["homepage"], row["scholarid"]]
+            
+#     return df_ind_affiliation
 
 def generate_aliases():
     global df_alias, df_affiliation
@@ -44,3 +71,8 @@ def start_gen():
     df_alias.to_csv("aliases.csv", index=False)
     # print("Aliases generation has successfully completed.")
     return df_alias
+
+# df_affiliation = read_affliations()
+# df_ind_affiliation = read_ind_affliations()
+
+# df_ind_affiliation.to_csv("affiliations.csv", index=False)

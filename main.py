@@ -6,6 +6,7 @@ from typing import List
 
 import pandas as pd
 import xmltodict
+import time
 
 # User scripts
 import aliases
@@ -14,9 +15,12 @@ from constants import AUTHORS, PUBLICATION_VENUES
 DEBUG = True
 
 count = 0
+limit = 10 # time limit in minutes
 
 # Generate aliases
 df_aliases = aliases.start_gen()
+
+startTime = time.time()
 
 df = pd.DataFrame(columns=["name", "dept", "area", "count", "adjustedcount", "year"])
 
@@ -24,7 +28,9 @@ df = pd.DataFrame(columns=["name", "dept", "area", "count", "adjustedcount", "ye
 def process_multiple_authors(authors: list, year: int, area: str) -> [str]:
     processed_authors: List[str] = []
     for author in authors:
-        processed_authors += process_single_author(author, year, area)
+        single_author = process_single_author(author, year, area)
+        if single_author is not None:
+            processed_authors += single_author
     return processed_authors
 
 
@@ -39,61 +45,59 @@ def process_single_author(author_entity: str | dict, year: int, area: str):
         print("Error: Unknown type")
         raise ValueError(type(author_entity))
 
-    if DEBUG:
-        if x in AUTHORS and area in PUBLICATION_VENUES:
-            # Procure the name of the author and university from the alias table
-            if not (
-                df_aliases.loc[df_aliases["alias"] == x].empty
-                and df_aliases.loc[df_aliases["dept"] == x].empty
-            ):
-                x = df_aliases.loc[df_aliases["alias"] == x, ["name"]].values[0][0]
-                dept = df_aliases.loc[df_aliases["alias"] == x, ["dept"]].values[0][0]
-                print("Author found in alias table: ", x)
-            else:  # This case should never happen ideally
-                x = "Unknown"
-                dept = "Unknown"
+    #if DEBUG:
+        #if x in AUTHORS and area in PUBLICATION_VENUES:
+    # Procure the name of the author and university from the alias table
+    if not (
+        df_aliases.loc[df_aliases["alias"] == x].empty
+        and df_aliases.loc[df_aliases["dept"] == x].empty
+    ):
+        x = df_aliases.loc[df_aliases["alias"] == x, ["name"]].values[0][0]
+        dept = df_aliases.loc[df_aliases["alias"] == x, ["dept"]].values[0][0]
+        print("Author found in alias table: ", x)
+    else:  # This case should never happen ideally
+        return None
 
-            # Increase the count of the author in df for that year (if exists, if not, initialize to 1)
-            if df.loc[
+    # Increase the count of the author in df for that year (if exists, if not, initialize to 1)
+    if df.loc[
+        (df["name"] == x)
+        & (df["year"] == year)
+        & (df["area"] == area)
+        & (df["dept"] == dept)
+    ].empty:
+        df.loc[len(df)] = [x, dept, area, 1, 0.0, year]
+        if DEBUG:
+            print(
+                "Count for author "
+                + x
+                + " for year "
+                + year
+                + " has been set to 1."
+            )
+    else:
+        df.loc[
+            (df["name"] == x)
+            & (df["year"] == year)
+            & (df["area"] == area)
+            & (df["dept"] == dept),
+            "count",
+        ] += 1
+        print(
+            "Count for author " + x + " for year " + year + " increased to: ",
+            df.loc[
                 (df["name"] == x)
                 & (df["year"] == year)
                 & (df["area"] == area)
-                & (df["dept"] == dept)
-            ].empty:
-                df.loc[len(df)] = [x, dept, area, 1, 0.0, year]
-                if DEBUG:
-                    print(
-                        "Count for author "
-                        + x
-                        + " for year "
-                        + year
-                        + " has been set to 1."
-                    )
-            else:
-                df.loc[
-                    (df["name"] == x)
-                    & (df["year"] == year)
-                    & (df["area"] == area)
-                    & (df["dept"] == dept),
-                    "count",
-                ] += 1
-            if DEBUG:
-                print(
-                    "Count for author " + x + " for year " + year + " increased to: ",
-                    df.loc[
-                        (df["name"] == x)
-                        & (df["year"] == year)
-                        & (df["area"] == area)
-                        & (df["dept"] == dept),
-                        ["count"],
-                    ].values[0][0],
-                )
+                & (df["dept"] == dept),
+                ["count"],
+            ].values[0][0],
+        )
 
     return [x]
 
 
 def xml_print(key, val):
-    global count, df
+    global count, df, limit
 
     item_type = key[1][0]
 
@@ -110,17 +114,24 @@ def xml_print(key, val):
             return True
 
         if authors is None:  # Skip if no authors
-            return True
+            return True        
 
         if isinstance(authors, list):  # multiple authors
             processed_authors = process_multiple_authors(authors, year, area)
         else:  # single author
             processed_authors = process_single_author(authors, year, area)
+            
+        if processed_authors is None:
+            return True
 
         author_count = len(processed_authors)
 
         # x = key[1]
         x = val.get("author")
+        
+        if(time.time() - startTime > limit*60):
+            df.to_csv("output-generated-authors.csv", index=False)
+            sys.exit(0)
 
         # DEBUG ONLY
         if DEBUG:
@@ -140,35 +151,35 @@ def xml_print(key, val):
             print(PUBLICATION_VENUES.get(area))
             pprint(processed_authors)
 
-            # Increase the adjusted count of the author in df by adding the inverse of the author count
-            for author in processed_authors:
-                if author in AUTHORS and area in PUBLICATION_VENUES:
-                    dept = df_aliases.loc[
-                        df_aliases["name"] == author, ["dept"]
-                    ].values[0][0]
-                    df.loc[
-                        (df["name"] == author)
-                        & (df["year"] == year)
-                        & (df["area"] == area)
-                        & (df["dept"] == dept),
-                        "adjustedcount",
-                    ] += (
-                        1 / author_count
-                    )
-                    print(
-                        f"Adjusted count for author {author} for year {year} increased to: ",
-                        df.loc[
-                            (df["name"] == author)
-                            & (df["year"] == year)
-                            & (df["area"] == area)
-                            & (df["dept"] == dept),
-                            ["adjustedcount"],
-                        ].values[0][0],
-                    )
-        if DEBUG:
-            print(author_count)
-            print()
+        # Increase the adjusted count of the author in df by adding the inverse of the author count
+        for author in processed_authors:
+            #if author in AUTHORS and area in PUBLICATION_VENUES:
+            dept = df_aliases.loc[
+                df_aliases["name"] == author, ["dept"]
+            ].values[0][0]
+            df.loc[
+                (df["name"] == author)
+                & (df["year"] == year)
+                & (df["area"] == area)
+                & (df["dept"] == dept),
+                "adjustedcount",
+            ] += (
+                1 / author_count
+            )
+            print(
+                f"Adjusted count for author {author} for year {year} increased to: ",
+                df.loc[
+                    (df["name"] == author)
+                    & (df["year"] == year)
+                    & (df["area"] == area)
+                    & (df["dept"] == dept),
+                    ["adjustedcount"],
+                ].values[0][0],
+            )
 
+        print(author_count)
+        print()
+        if DEBUG:
             if count >= 32:
                 sys.exit(0)
 

@@ -1,0 +1,2271 @@
+name,dept,area,count,adjustedcount,year
+Ansuman Banerjee,ISI Kolkata,DAC,1,0.0,2006
+Sumit K. Mandal,IISc Bangalore,DAC,1,0.0,2020
+Goutam Paul 0001,ISI Kolkata,DAC,1,1.0,2013
+Susmita Sur-Kolay,ISI Kolkata,DAC,1,0.0,1992
+Ansuman Banerjee,ISI Kolkata,DAC,1,0.0,2002
+Srinath R. Naidu,IIIT Bangalore,DAC,1,0.0,2003
+Krishna Shankara Narayanan,IIT Bombay,DAC,1,0.0,2015
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,DAC,1,0.0,2008
+Supratik Chakraborty,IIT Bombay,DAC,1,0.0,2014
+Sravan Danda,BITS Pilani-Goa,IGARSS,2,0.0,2016
+Aditya Challa,BITS Pilani-Goa,IGARSS,2,0.0,2016
+Aditya Challa,BITS Pilani-Goa,IGARSS,1,0.0,2018
+Sravan Danda,BITS Pilani-Goa,IGARSS,1,0.0,2018
+Ashish Ghosh,ISI Kolkata,IGARSS,1,0.0,2020
+Sarbani Palit,ISI Kolkata,IGARSS,1,0.0,2023
+Ashish Ghosh,ISI Kolkata,IGARSS,1,0.0,2003
+Nikhil R. Pal,ISI Kolkata,IGARSS,1,0.0,2003
+Aditya Challa,BITS Pilani-Goa,IGARSS,1,0.0,2017
+Sravan Danda,BITS Pilani-Goa,IGARSS,1,0.0,2017
+Varsha Apte,IIT Bombay,WCNC,1,0.0,2006
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WCNC,1,0.0,2013
+Varsha Apte,IIT Bombay,WCNC,1,0.0,2009
+Debabrata Das,IIIT Bangalore,WCNC,2,0.0,2018
+Sasthi C. Ghosh 0001,ISI Kolkata,WCNC,1,0.0,2008
+Debabrata Das,IIIT Bangalore,WCNC,1,0.0,2019
+Kameswari Chebrolu,IIT Bombay,WCNC,1,0.0,2000
+G. N. Srinivasa Prasanna,IIIT Bangalore,WCNC,1,0.0,2022
+Debabrata Das,IIIT Bangalore,WCNC,1,0.0,2022
+Debabrata Das,IIIT Bangalore,WCNC,1,0.0,2020
+G. N. Srinivasa Prasanna,IIIT Bangalore,WCNC Workshops,1,0.0,2020
+Debabrata Das,IIIT Bangalore,WCNC Workshops,1,0.0,2020
+Siddhartha Chaudhuri,IIT Bombay,WCNC,1,0.0,2005
+Kameswari Chebrolu,IIT Bombay,WCNC,1,0.0,2002
+Chetan D. Parikh,IIIT Bangalore,ISED,1,0.0,2019
+Subhajit Sen,IIIT Bangalore,ISED,1,0.0,2019
+Ansuman Banerjee,ISI Kolkata,ISED,1,0.0,2013
+Ansuman Banerjee,ISI Kolkata,ISED,3,0.0,2017
+Pushpak Bhattacharya,IIT Bombay,ISED,1,0.0,2016
+Ansuman Banerjee,ISI Kolkata,ISED,1,0.0,2012
+Susmita Sur-Kolay,ISI Kolkata,ISED,1,0.0,2013
+Ganesh Ramakrishnan,IIT Bombay,SMIR@SIGIR,1,0.0,2014
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2005
+Debapriyo Majumdar,ISI Kolkata,SIGIR,1,0.0,2011
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,1997
+Abir De,IIT Bombay,SIGIR,1,0.0,2020
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2020
+Manish Gupta 0001,IIIT Bangalore,KG4IR@SIGIR,1,0.0,2017
+Manish Gupta 0001,IIIT Bangalore,ERD@SIGIR,1,0.0,2014
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2020
+Ganesh Ramakrishnan,IIT Bombay,ERD@SIGIR,1,0.0,2014
+Manish Gupta 0001,IIIT Bangalore,SIGIR,2,0.0,2015
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2001
+Pushpak Bhattacharya,IIT Bombay,SIGIR,2,0.0,2022
+Shirish K. Shevade,IISc Bangalore,SIGIR,1,0.0,2021
+Manish Gupta 0001,IIIT Bangalore,SIGIR,2,0.0,2014
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2009
+Ganesh Ramakrishnan,IIT Bombay,SIGIR,1,0.0,2009
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2023
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,1996
+Debapriyo Majumdar,ISI Kolkata,SIGIR,1,0.0,2005
+Pushpak Bhattacharya,IIT Bombay,SIGIR,1,0.0,2010
+Krithi Ramamritham,IIT Bombay,SIGIR,1,0.0,1996
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2016
+Preethi Jyothi,IIT Bombay,SIGIR,1,0.0,2021
+Ganesh Ramakrishnan,IIT Bombay,SIGIR,1,0.0,2021
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2021
+Soumen Chakrabarti,IIT Bombay,SIGIR,2,0.0,2018
+Manish Gupta 0001,IIIT Bangalore,SIGIR,1,0.0,2016
+Soumen Chakrabarti,IIT Bombay,SIGIR,1,0.0,2022
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2015
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2019
+Aditya Kanade,IISc Bangalore,SIGIR,1,0.0,2011
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,1998
+Utpal Garain,ISI Kolkata,SIGIR,1,0.0,2008
+Mandar Mitra,ISI Kolkata,SIGIR,1,0.0,2008
+R. Padmavathy,National Institute of Technology Warangal,ARTCom,1,0.0,2009
+Kanchan Manna,BITS Pilani-Goa,ARTCom,1,0.0,2009
+Jagtap Pushpak,IISc Bangalore,ADHS,1,0.0,2018
+Shishir Kolathaya,IISc Bangalore,ADHS,1,0.0,2015
+Shrisha Rao 0001,IIIT Bangalore,SoSE,1,0.0,2012
+Kuntal Ghosh,ISI Kolkata,BioADIT,1,0.0,2006
+Kamal Lodaya,IMSc,WG,1,0.0,2013
+Saket Saurabh 0001,IMSc,WG,1,0.0,2013
+Geevarghese Philip,CMI,WG,1,0.0,2010
+Kamal Lodaya,IMSc,WG,1,0.0,2010
+Saket Saurabh 0001,IMSc,WG,1,0.0,2009
+Kamal Lodaya,IMSc,WG,1,0.0,2016
+Saket Saurabh 0001,IMSc,WG,1,0.0,2021
+Prajakta Nimbhorkar,CMI,WG,1,0.0,2019
+L. Sunil Chandran,IISc Bangalore,WG,1,0.0,2014
+Prajakta Nimbhorkar,CMI,WG,1,0.0,2023
+Arijit Bishnu,ISI Kolkata,WG,1,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WG,1,0.0,2018
+Arijit Ghosh,ISI Kolkata,WG,1,0.0,2016
+Prajakta Nimbhorkar,CMI,WG,1,0.0,2021
+Geevarghese Philip,CMI,WG,1,0.0,2021
+Kamal Lodaya,IMSc,WG,1,0.0,2020
+Sandip Das 0001,ISI Kolkata,WG,1,0.0,2019
+Kamal Lodaya,IMSc,WG,1,0.0,2012
+Saket Saurabh 0001,IMSc,WG,1,0.0,2012
+L. Sunil Chandran,IISc Bangalore,WG,1,0.0,2022
+Saket Saurabh 0001,IMSc,WG,1,0.0,2011
+Kamal Lodaya,IMSc,WG,1,0.0,2022
+Vinay J. Ribeiro,IIT Bombay,Blockchain,1,0.0,2021
+Sujit Das,National Institute of Technology Warangal,CIFEr,2,0.0,2012
+Kamal Lodaya,IMSc,CSL,1,0.0,2018
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,CSL,1,0.0,2018
+K. Narayan Kumar,CMI,CSL-LICS,1,0.0,2014
+Meena Mahajan,IMSc,CSL,1,0.0,2017
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,CSL,1,0.0,1995
+M. Praveen,CMI,CSL-LICS,1,0.0,2014
+Rushikesh Joshi,IIT Bombay,SCAM,1,0.0,2013
+Virendra Singh,IIT Bombay,VTS,1,0.0,2011
+Virendra Singh,IIT Bombay,VTS,1,0.0,2012
+Virendra Singh,IIT Bombay,VTS,1,0.0,2022
+Krithi Ramamritham,IIT Bombay,DEXA Workshops,1,0.0,2003
+Amitabha Sanyal,IIT Bombay,DEXA Workshop,1,0.0,1998
+Sravan Danda,BITS Pilani-Goa,DEXA Workshops,1,0.0,2021
+Snehanshu Saha,BITS Pilani-Goa,DEXA Workshops,1,0.0,2021
+Durvasula V. L. N. Somayajulu,National Institute of Technology Warangal,DEXA Workshop,1,0.0,1998
+U. Pal 0001,ISI Kolkata,MMM (2),1,0.0,2019
+Pushpak Bhattacharya,IIT Bombay,INLG,1,0.0,2021
+Manish Gupta 0001,IIIT Bangalore,INLG,1,0.0,2023
+Utpal Garain,ISI Kolkata,INLG,1,0.0,2021
+A. Baskar,BITS Pilani-Goa,WCI,2,0.0,2015
+Snehanshu Saha,BITS Pilani-Goa,WCI,2,0.0,2015
+Sanjay K. Sahay,BITS Pilani-Goa,WCI,1,0.0,2015
+Sriram G. Sanjeevi,National Institute of Technology Warangal,WCI,1,0.0,2015
+Shishir Kolathaya,IISc Bangalore,ACOMP,1,0.0,2021
+Ashish Ghosh,ISI Kolkata,ICTCS,1,0.0,2016
+Ansuman Banerjee,ISI Kolkata,ICACS,1,0.0,2023
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ICNC,1,0.0,2020
+Amitabha Sanyal,IIT Bombay,ICNC,1,0.0,2016
+Uday Bondhugula,IISc Bangalore,POPL,1,0.0,2011
+Amitabha Sanyal,IIT Bombay,POPL,1,0.0,2015
+Amitabha Sanyal,IIT Bombay,POPL,1,0.0,1993
+Uday P. Khedker,IIT Bombay,POPL,1,0.0,1993
+Uday Bondhugula,IISc Bangalore,POPL,1,0.0,2016
+Aditya Kanade,IISc Bangalore,POPL,1,0.0,1989
+Raghavan Komondoor,IISc Bangalore,POPL,1,0.0,2000
+Amitabha Sanyal,IIT Bombay,POPL,1,0.0,2008
+Amitabha Sanyal,IIT Bombay,POPL,1,0.0,2011
+Virendra Singh,IIT Bombay,ISPASS,1,0.0,2020
+Biswa,IIT Bombay,ISPASS,1,0.0,2022
+Arkaprava Basu,IISc Bangalore,ISPASS,1,0.0,2016
+Jagtap Pushpak,IISc Bangalore,CDC,1,0.0,2016
+Shishir Kolathaya,IISc Bangalore,CDC,1,0.0,2016
+Ashish Choudhary,IIIT Bangalore,CDC,1,0.0,2006
+Gugan Thoppe,IISc Bangalore,CDC,1,0.0,2023
+Shalabh Bhatnagar,IISc Bangalore,CDC,2,0.0,2006
+Shalabh Bhatnagar,IISc Bangalore,CDC,2,0.0,2014
+Sandeep Juneja,Tata Inst. of Fundamental Research,CDC,1,0.0,2018
+Jagtap Pushpak,IISc Bangalore,CDC,3,0.0,2023
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2018
+Jagtap Pushpak,IISc Bangalore,CDC,1,0.0,2022
+Jagtap Pushpak,IISc Bangalore,CDC,1,0.0,2021
+Shalabh Bhatnagar,IISc Bangalore,CDC,3,0.0,2007
+Ashish Choudhary,IIIT Bangalore,CDC,1,0.0,2003
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2009
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2023
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2016
+Shishir Kolathaya,IISc Bangalore,CDC,1,0.0,2023
+Shivaram Kalyanakrishnan,IIT Bombay,CDC,1,0.0,2020
+Jagtap Pushpak,IISc Bangalore,CDC,1,0.0,2020
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2019
+Shalabh Bhatnagar,IISc Bangalore,CDC,1,0.0,2004
+Jagtap Pushpak,IISc Bangalore,CDC,1,0.0,2019
+Kunal Korgaonkar,BITS Pilani-Goa,APPT,1,0.0,2011
+R. Govindarajan,IISc Bangalore,ICS,1,0.0,2008
+Uday Bondhugula,IISc Bangalore,ICS,1,0.0,2014
+Arkaprava Basu,IISc Bangalore,ICS,1,0.0,2018
+R. Govindarajan,IISc Bangalore,ICS,1,0.0,2012
+R. Govindarajan,IISc Bangalore,ICS,1,0.0,2006
+R. Govindarajan,IISc Bangalore,ICS,1,0.0,2005
+Uday Bondhugula,IISc Bangalore,ICS,1,0.0,2019
+Uday Bondhugula,IISc Bangalore,ICS,1,0.0,2021
+Arkaprava Basu,IISc Bangalore,ICS,1,0.0,2011
+Uday Bondhugula,IISc Bangalore,ICS,1,0.0,2008
+R. Govindarajan,IISc Bangalore,International Conference on Supercomputing,1,0.0,1999
+Sumit K. Mandal,IISc Bangalore,SLIP,1,0.0,2020
+Madhav Rao,IIIT Bangalore,AIMLSystems,1,0.0,2022
+Abir De,IIT Bombay,AIMLSystems,1,0.0,2021
+Hemant Rathore,BITS Pilani-Goa,AIMLSystems,1,0.0,2022
+Vinay J. Ribeiro,IIT Bombay,AIMLSystems,1,0.0,2021
+Biswa,IIT Bombay,AIMLSystems,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,AIMLSystems,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,EuroIMSA,1,0.0,2005
+Pushpak Bhattacharya,IIT Bombay,LaTeCH@ACL,1,0.0,2016
+Aditya Kanade,IISc Bangalore,APCHI,1,0.0,2013
+Goutam Paul 0001,ISI Kolkata,APCHI,2,0.0,2013
+Abhiram G. Ranade,IIT Bombay,APCHI,1,0.0,2013
+Virendra Singh,IIT Bombay,LATW,1,0.0,2011
+Virendra Singh,IIT Bombay,LATS,3,0.0,2017
+Virendra Singh,IIT Bombay,LATS,2,0.0,2023
+Swagatam Das,ISI Kolkata,HAIS,2,0.0,2009
+Mandar Mitra,ISI Kolkata,AICS,1,0.0,2020
+Deepak D'Souza,IISc Bangalore,ESORICS,1,0.0,2012
+Manoj M. Prabhakaran,IIT Bombay,ESORICS (1),1,0.0,2020
+Chaya Ganesh,IISc Bangalore,DPM/CBT@ESORICS,1,0.0,2021
+Manoj M. Prabhakaran,IIT Bombay,ESORICS,1,0.0,2009
+Subhamoy Maitra,ISI Kolkata,IWDW,1,0.0,2004
+Krithi Ramamritham,IIT Bombay,RTCSA,1,0.0,2013
+Krithi Ramamritham,IIT Bombay,RTCSA,1,0.0,1999
+Vinayak Naik,BITS Pilani-Goa,RTCSA,1,0.0,2005
+Krithi Ramamritham,IIT Bombay,RTCSA,1,0.0,2006
+Swagatam Das,ISI Kolkata,MENDEL,3,0.0,2015
+Srinath Srinivasa,IIIT Bangalore,PAAMS,2,0.0,2023
+Snehanshu Saha,BITS Pilani-Goa,PAAMS,1,0.0,2022
+Amitabha Sanyal,IIT Bombay,COM.Geo,1,0.0,2011
+Utpal Garain,ISI Kolkata,IALP,2,0.0,2014
+Utpal Garain,ISI Kolkata,IALP,1,0.0,2012
+Utpal Garain,ISI Kolkata,IALP,1,0.0,2017
+U. Pal 0001,ISI Kolkata,ICPRAI,3,0.0,2020
+U. Pal 0001,ISI Kolkata,ICPRAI (1),2,0.0,2022
+Kunal Korgaonkar,BITS Pilani-Goa,MobiCASE,1,0.0,2015
+Bhabatosh Chanda,ISI Kolkata,IITM,1,0.0,2010
+Aditya Kanade,IISc Bangalore,WEBIST (1),1,0.0,2006
+U. Pal 0001,ISI Kolkata,ANNPR,1,0.0,2014
+Kamal Lodaya,IMSc,CLIMA,1,0.0,2010
+Vinod Ganapathy,IISc Bangalore,MobiSys,1,0.0,2016
+Sougata Sen,BITS Pilani-Goa,MobiSys (Companion Volume),2,0.0,2016
+Bhaskaran Raman,IIT Bombay,MobiSys,1,0.0,2010
+Vinayak Naik,BITS Pilani-Goa,MobiSys,1,0.0,2012
+Bhaskaran Raman,IIT Bombay,MobiSys (Companion Volume),1,0.0,2016
+Sougata Sen,BITS Pilani-Goa,WPA@MobiSys,1,0.0,2017
+Vinayak Naik,BITS Pilani-Goa,MobiSys (Companion Volume),2,0.0,2016
+Kameswari Chebrolu,IIT Bombay,MobiSys,1,0.0,2008
+Bhaskaran Raman,IIT Bombay,MobiSys,1,0.0,2008
+Vinod Ganapathy,IISc Bangalore,MobiSys,1,0.0,2011
+Shalabh Bhatnagar,IISc Bangalore,ISGT,1,0.0,2024
+Krishna Shankara Narayanan,IIT Bombay,WMC-CdeA,1,0.0,2002
+Srinath Srinivasa,IIIT Bangalore,MEDES,1,0.0,2009
+Krithi Ramamritham,IIT Bombay,MEDES,1,0.0,2009
+Utpal Garain,ISI Kolkata,ICCCN,1,0.0,2010
+Sridhar Iyer,IIT Bombay,ICCCN,1,0.0,2003
+R. Govindarajan,IISc Bangalore,ICCCN,1,0.0,2009
+Debabrata Das,IIIT Bangalore,ICCCN,1,0.0,2006
+Tricha Anjali,IIIT Bangalore,ICCCN,2,0.0,2007
+Arijit Ghosh,ISI Kolkata,ICCCN,1,0.0,2009
+Devashish Gosain,BITS Pilani-Goa,ICCCN,1,0.0,2023
+Sasthi C. Ghosh 0001,ISI Kolkata,ICCCN,1,0.0,2008
+Ganesh Ramakrishnan,IIT Bombay,3DV,1,0.0,2019
+Siddhartha Chaudhuri,IIT Bombay,3DV,2,0.0,2020
+Siddhartha Chaudhuri,IIT Bombay,3DV,1,0.0,2018
+Abhiram G. Ranade,IIT Bombay,Heinz Nixdorf Symposium,1,0.0,1992
+Siddhartha Chaudhuri,IIT Bombay,Eurographics (Tutorials),1,0.0,2019
+Goutam Paul 0001,ISI Kolkata,IAAI,1,0.0,2003
+Shivaram Kalyanakrishnan,IIT Bombay,IAAI,1,0.0,2010
+Krishnendu Mukhopadhyaya,ISI Kolkata,SSS,1,0.0,2023
+Anisur Rahaman Molla,ISI Kolkata,SSS,1,0.0,2020
+Krishnendu Mukhopadhyaya,ISI Kolkata,SSS,1,0.0,2013
+Krishnendu Mukhopadhyaya,ISI Kolkata,SSS,1,0.0,2017
+Pushpak Bhattacharya,IIT Bombay,BEA@NAACL-HLT,1,0.0,2018
+Partha P. Talukdar,IISc Bangalore,BEA@NAACL-HLT,1,0.0,2012
+Pushpak Bhattacharya,IIT Bombay,BEA@ACL,1,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,2,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,4,0.0,2022
+Vinay J. Ribeiro,IIT Bombay,WiOpt,1,0.0,2009
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,4,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,2,0.0,2020
+Abhishek Sinha,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2018
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2010
+G. N. Srinivasa Prasanna,IIIT Bangalore,WiOpt,1,0.0,2015
+Debabrata Das,IIIT Bangalore,WiOpt,1,0.0,2015
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2014
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,2,0.0,2021
+Abhishek Sinha,Tata Inst. of Fundamental Research,WiOpt,2,0.0,2019
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2023
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2019
+Abhishek Sinha,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2012
+Vinayak Naik,BITS Pilani-Goa,WiOpt,1,0.0,2015
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,3,0.0,2015
+Vinay J. Ribeiro,IIT Bombay,WiOpt,1,0.0,2006
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2011
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WiOpt,1,0.0,2018
+Shubhangi K. Gawali,BITS Pilani-Goa,IFIPIoT (1),1,0.0,2023
+Neena Goveas,BITS Pilani-Goa,IFIPIoT (1),1,0.0,2023
+Debrup Chakraborty,ISI Kolkata,CIARP,1,0.0,2009
+G. N. Srinivasa Prasanna,IIIT Bangalore,ITCC (2),1,0.0,2005
+Arijit Bishnu,ISI Kolkata,ITCC,1,0.0,2002
+Umesh Bellur,IIT Bombay,ITCC (2),1,0.0,2005
+Balaji Parthasarathy,IIIT Bangalore,ICT4D,1,0.0,2017
+Janaki Srinivasan,IIIT Bangalore,ICT4D,1,0.0,2017
+Utpal Garain,ISI Kolkata,ICARIS,1,0.0,2006
+B. B. Amberker,National Institute of Technology Warangal,ITNG,3,0.0,2008
+G. Sivakumar,IIT Bombay,ITNG,1,0.0,2009
+Umesh Bellur,IIT Bombay,ITNG,1,0.0,2006
+Amitabha Sanyal,IIT Bombay,ITNG,1,0.0,2007
+Supratik Chakraborty,IIT Bombay,CACSD,1,0.0,2013
+Srinath Srinivasa,IIIT Bangalore,PAISI,1,0.0,2010
+Subhas C. Nandy,ISI Kolkata,ReTIS,1,0.0,2015
+Ujjwal Bhattacharya,ISI Kolkata,ReTIS,1,0.0,2015
+Ramprasad Joshi,BITS Pilani-Goa,RANLP,1,0.0,2023
+Pushpak Bhattacharya,IIT Bombay,RANLP,1,0.0,2015
+Pratik Narang,BITS Pilani,WACV,1,0.0,2021
+Bhabatosh Chanda,ISI Kolkata,WACV,1,0.0,2012
+Manish Gupta 0001,IIIT Bangalore,WACV,2,0.0,2021
+Aditya Kanade,IISc Bangalore,WACV,2,0.0,2019
+Sharat Chandran,IIT Bombay,WACV,1,0.0,2009
+Ganesh Ramakrishnan,IIT Bombay,WACV,3,0.0,2019
+Manish Gupta 0001,IIIT Bangalore,WACV,1,0.0,2023
+Sharat Chandran,IIT Bombay,WACV,1,0.0,2016
+Abhishek Sinha,Tata Inst. of Fundamental Research,WACV,1,0.0,2019
+Sharat Chandran,IIT Bombay,WACV,1,0.0,2002
+Ganesh Ramakrishnan,IIT Bombay,WACV,1,0.0,2021
+Suyash P. Awate,IIT Bombay,WACV,1,0.0,2022
+Kamlesh Tiwari,BITS Pilani,WACV,1,0.0,2022
+Ajit Rajwade 0001,IIT Bombay,WACV,1,0.0,2023
+Ganesh Ramakrishnan,IIT Bombay,WACV,1,0.0,2023
+Abhishek Sinha,Tata Inst. of Fundamental Research,WACV,1,0.0,2020
+Sharat Chandran,IIT Bombay,WACV,1,0.0,2015
+Ajit Rajwade 0001,IIT Bombay,WACV,1,0.0,2020
+Abhishek Sinha,Tata Inst. of Fundamental Research,AAAI,1,0.0,2024
+Shirish K. Shevade,IISc Bangalore,AAAI,2,0.0,2020
+Siddharth Barman,IISc Bangalore,AAAI,2,0.0,2023
+Arindam Khan 0001,IISc Bangalore,AAAI,2,0.0,2023
+Pushpak Bhattacharya,IIT Bombay,AAAI,2,0.0,2024
+Partha P. Talukdar,IISc Bangalore,AAAI,1,0.0,2015
+Aditya Kanade,IISc Bangalore,AAAI,2,0.0,2020
+Vinod Ganapathy,IISc Bangalore,AAAI,1,0.0,2020
+Supratik Chakraborty,IIT Bombay,AAAI Workshop: Beyond NP,1,0.0,2016
+G. Sivakumar,IIT Bombay,AAAI,1,0.0,1988
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2021
+Sunita Sarawagi,IIT Bombay,AAAI,1,0.0,2018
+Meena Mahajan,IMSc,AAAI,1,0.0,2024
+Partha P. Talukdar,IISc Bangalore,AAAI,1,0.0,2016
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2023
+Siddharth Barman,IISc Bangalore,AAAI,3,0.0,2019
+Pushpak Bhattacharya,IIT Bombay,AAAI,2,0.0,2015
+Ashish Ghosh,ISI Kolkata,AAAI,1,0.0,2019
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2013
+Aditya Kanade,IISc Bangalore,AAAI,4,0.0,2015
+Shalabh Bhatnagar,IISc Bangalore,AAAI,1,0.0,2020
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2024
+Aditya Kanade,IISc Bangalore,AAAI,3,0.0,2019
+Shirish K. Shevade,IISc Bangalore,AAAI,1,0.0,2019
+Pushpak Bhattacharya,IIT Bombay,AAAI,1,0.0,2021
+Pratik Narang,BITS Pilani,AAAI,1,0.0,2023
+Shivaram Kalyanakrishnan,IIT Bombay,AAAI,1,0.0,2020
+Soumen Chakrabarti,IIT Bombay,AAAI,1,0.0,2023
+Sunita Sarawagi,IIT Bombay,AAAI,1,0.0,2023
+Soumen Chakrabarti,IIT Bombay,AAAI,1,0.0,2019
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2016
+Sunita Sarawagi,IIT Bombay,AAAI,1,0.0,2016
+Siddharth Barman,IISc Bangalore,AAAI,1,0.0,2024
+Hariharan Narayanan,Tata Inst. of Fundamental Research,AAAI,1,0.0,2024
+Siddharth Barman,IISc Bangalore,AAAI,2,0.0,2018
+M. Narasimha Murty,IISc Bangalore,AAAI,1,0.0,2019
+Manish Gupta 0001,IIIT Bangalore,AAAI,1,0.0,2024
+Abir De,IIT Bombay,AAAI,2,0.0,2024
+Abir De,IIT Bombay,AAAI,3,0.0,2021
+Soumen Chakrabarti,IIT Bombay,AAAI,2,0.0,2021
+Mandar Mitra,ISI Kolkata,AAAI Workshop: Scholarly Big Data,1,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,AAAI,1,0.0,2018
+Siddharth Barman,IISc Bangalore,AAAI,2,0.0,2022
+Arindam Khan 0001,IISc Bangalore,AAAI,1,0.0,2022
+Kamal Lodaya,IMSc,AAAI,1,0.0,2010
+Saket Saurabh 0001,IMSc,AAAI,1,0.0,2010
+Pushpak Bhattacharya,IIT Bombay,AAAI,2,0.0,2017
+Swagatam Das,ISI Kolkata,AAAI,1,0.0,2023
+Saket Saurabh 0001,IMSc,AAAI,1,0.0,2023
+Partha P. Talukdar,IISc Bangalore,AAAI,2,0.0,2019
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2014
+Ashwin Srinivasan 0001,BITS Pilani-Goa,AAAI,1,0.0,2022
+Amitabha Sanyal,IIT Bombay,AAAI,1,0.0,2017
+Sourav Chakraborty 0001,ISI Kolkata,AAAI,1,0.0,2024
+Partha P. Talukdar,IISc Bangalore,AAAI,3,0.0,2020
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2012
+Swagatam Das,ISI Kolkata,AAAI,1,0.0,2021
+Pratik Narang,BITS Pilani,AAAI,1,0.0,2024
+Pushpak Bhattacharya,IIT Bombay,CONSTRAINT@AAAI,1,0.0,2021
+Abir De,IIT Bombay,AAAI,1,0.0,2019
+Supratik Chakraborty,IIT Bombay,AAAI,2,0.0,2024
+Abir De,IIT Bombay,AAAI,2,0.0,2022
+Sourav Chakraborty 0001,ISI Kolkata,AAAI,1,0.0,2019
+Gugan Thoppe,IISc Bangalore,AAAI,1,0.0,2018
+Gugan Thoppe,IISc Bangalore,AAAI,1,0.0,2020
+Shivaram Kalyanakrishnan,IIT Bombay,AAAI,1,0.0,2016
+Navneet Goyal,BITS Pilani,AAAI,2,0.0,2024
+Pratik Narang,BITS Pilani,AAAI,2,0.0,2021
+Amitabha Sanyal,IIT Bombay,AAAI,1,0.0,2012
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2012
+Pushpak Bhattacharya,IIT Bombay,AAAI,1,0.0,2010
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2017
+Shirish K. Shevade,IISc Bangalore,AAAI,1,0.0,2017
+Manish Gupta 0001,IIIT Bangalore,AffCon@AAAI,1,0.0,2019
+Soumen Chakrabarti,IIT Bombay,AAAI,1,0.0,2024
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2016
+Aditya Kanade,IISc Bangalore,AAAI,2,0.0,2021
+Saket Saurabh 0001,IMSc,AAAI,1,0.0,2012
+Soumen Chakrabarti,IIT Bombay,AAAI,1,0.0,2018
+Supratik Chakraborty,IIT Bombay,AAAI,1,0.0,2016
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2022
+Ashwin Srinivasan 0001,BITS Pilani-Goa,AAAI,1,0.0,2024
+Aditya Kanade,IISc Bangalore,AAAI,1,0.0,2018
+Preethi Jyothi,IIT Bombay,AAAI,1,0.0,2015
+Ganesh Ramakrishnan,IIT Bombay,AAAI,2,0.0,2018
+Amitabha Sanyal,IIT Bombay,AAAI,1,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,AAAI,2,0.0,2016
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2017
+Goutam Paul 0001,ISI Kolkata,AAAI,1,1.0,2004
+S. Akshay 0001,IIT Bombay,AAAI,1,0.0,2024
+Yashvardhan Sharma,BITS Pilani,CONSTRAINT@AAAI,1,0.0,2021
+M. Narasimha Murty,IISc Bangalore,AAAI,1,0.0,2018
+Shivaram Kalyanakrishnan,IIT Bombay,AAAI,1,0.0,2017
+Soumen Chakrabarti,IIT Bombay,AAAI,1,0.0,2022
+Ashwin Srinivasan 0001,BITS Pilani-Goa,AAAI,1,0.0,1993
+Krishna Shankara Narayanan,IIT Bombay,AAAI,1,0.0,2023
+Devarajan Sridharan,IISc Bangalore,AAAI,1,0.0,2019
+Abir De,IIT Bombay,AAAI,1,0.0,2020
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2020
+Sunita Sarawagi,IIT Bombay,AAAI,1,0.0,2020
+Shalabh Bhatnagar,IISc Bangalore,AAAI,1,0.0,2022
+Sunita Sarawagi,IIT Bombay,AAAI,1,0.0,2024
+U. Pal 0001,ISI Kolkata,AAAI,1,0.0,2024
+Manish Gupta 0001,IIIT Bangalore,AAAI,1,0.0,2018
+Supratik Chakraborty,IIT Bombay,AAAI,1,0.0,2019
+Shalabh Bhatnagar,IISc Bangalore,AAAI,1,0.0,2015
+Ganesh Ramakrishnan,IIT Bombay,AAAI,1,0.0,2023
+Supratik Chakraborty,IIT Bombay,AAAI,1,0.0,2014
+Pushpak Bhattacharya,IIT Bombay,AAAI Workshop: Knowledge Extraction from Text,1,0.0,2016
+Mandar Mitra,ISI Kolkata,RIAO,1,0.0,1997
+Supratim Biswas,IIT Bombay,PaCT,1,0.0,2019
+Nikhil R. Pal,ISI Kolkata,BIBE,1,0.0,2016
+Sujit Das,National Institute of Technology Warangal,FICTA,2,0.0,2015
+Yashvardhan Sharma,BITS Pilani,FICTA (1),1,0.0,2020
+Surya Narayana Raju Undi,National Institute of Technology Warangal,FICTA (1),1,0.0,2020
+Abhishek Mishra,BITS Pilani,FICTA (1),1,0.0,2023
+Anisur Rahaman Molla,ISI Kolkata,TAMC,1,0.0,2019
+Arijit Bishnu,ISI Kolkata,TAMC,1,0.0,2015
+Arijit Ghosh,ISI Kolkata,TAMC,1,0.0,2015
+Samir Datta,CMI,TAMC,1,0.0,2014
+Samir Datta,CMI,TAMC,2,0.0,2011
+Saket Saurabh 0001,IMSc,TAMC,1,0.0,2009
+Saket Saurabh 0001,IMSc,TAMC,1,0.0,2008
+Krishna Shankara Narayanan,IIT Bombay,TAMC,1,0.0,2015
+Samir Datta,CMI,TAMC,1,0.0,2012
+V. N. Muralidhara,IIIT Bangalore,TAMC,1,0.0,2019
+Samir Datta,CMI,TAMC,1,0.0,2015
+Virendra Singh,IIT Bombay,EAIS,1,0.0,2014
+Aditya Kanade,IISc Bangalore,TDIT (1),1,0.0,2022
+Aditya Kanade,IISc Bangalore,TDIT (2),1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,ICMLA,1,0.0,2016
+V. N. Muralidhara,IIIT Bangalore,ICMLA,1,0.0,2016
+Shalabh Bhatnagar,IISc Bangalore,ICMLA,1,0.0,2019
+Earnest Paul Ijjina,National Institute of Technology Warangal,ICMLA,4,0.0,2014
+Arun Chauhan 0002,BITS Pilani,ICMLA,1,0.0,2020
+Snehanshu Saha,BITS Pilani-Goa,ICMLA,1,0.0,2016
+Aditya Kanade,IISc Bangalore,ICMLA,1,0.0,2009
+Suyash P. Awate,IIT Bombay,ICMLA,1,0.0,2018
+Srinath Srinivasa,IIIT Bangalore,ICMLA,1,0.0,2017
+Shrisha Rao 0001,IIIT Bangalore,ICMLA (2),1,0.0,2012
+Palash Sarkar 0001,ISI Kolkata,GameSec,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WADS,1,0.0,2023
+Kamal Lodaya,IMSc,WADS,1,0.0,2015
+Saket Saurabh 0001,IMSc,WADS,2,0.0,2019
+Kamal Lodaya,IMSc,WADS,1,0.0,2003
+Saket Saurabh 0001,IMSc,WADS,1,0.0,2003
+Kamal Lodaya,IMSc,WADS,1,0.0,1999
+Saket Saurabh 0001,IMSc,WADS,1,0.0,2023
+Kamal Lodaya,IMSc,WADS,1,0.0,1989
+Saket Saurabh 0001,IMSc,WADS,2,0.0,2015
+Subhas C. Nandy,ISI Kolkata,WADS,1,0.0,2015
+Kamal Lodaya,IMSc,WADS,1,0.0,2023
+Anand Louis,IISc Bangalore,WADS,1,0.0,2021
+Saladi Rahul,IISc Bangalore,WADS,1,0.0,2019
+Saket Saurabh 0001,IMSc,WADS,2,0.0,2017
+Kamal Lodaya,IMSc,WADS,1,0.0,2001
+L. Sunil Chandran,IISc Bangalore,WADS,1,0.0,2011
+Subhas C. Nandy,ISI Kolkata,WADS,1,0.0,2017
+Sasanka Roy,ISI Kolkata,WADS,1,0.0,2017
+Kamal Lodaya,IMSc,WADS,1,0.0,1993
+G. N. Srinivasa Prasanna,IIIT Bangalore,WADS,1,0.0,1993
+Kamal Lodaya,IMSc,WADS,1,0.0,2017
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,WADS,1,0.0,2011
+Sandip Das 0001,ISI Kolkata,WADS,1,0.0,2021
+Kamal Lodaya,IMSc,WADS,1,0.0,1991
+Vinod Ganapathy,IISc Bangalore,Digital Identity Management,1,0.0,2009
+Aditya Kanade,IISc Bangalore,NLP-TEA@COLING,1,0.0,2016
+Pushpak Bhattacharya,IIT Bombay,NLP-TEA@ACL,1,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,NLP-TEA@IJCNLP,1,0.0,2017
+Dinesh Babu J.,IIIT Bangalore,HRI,2,0.0,2013
+Amitabha Sanyal,IIT Bombay,HRI,1,0.0,2017
+Pushpak Bhattacharya,IIT Bombay,JCDL,5,0.0,2019
+Mandar Mitra,ISI Kolkata,JCDL,1,0.0,2023
+Mandar Mitra,ISI Kolkata,JCDL,1,0.0,2022
+Pushpak Bhattacharya,IIT Bombay,JCDL,1,0.0,2018
+Sanjay K. Sahay,BITS Pilani-Goa,SKM,1,0.0,2019
+Sanjay K. Sahay,BITS Pilani-Goa,SKM,2,0.0,2021
+Hemant Rathore,BITS Pilani-Goa,SKM,2,0.0,2021
+Supratik Chakraborty,IIT Bombay,CP,1,0.0,2013
+Sourav Chakraborty 0001,ISI Kolkata,CP,1,0.0,2022
+Supratik Chakraborty,IIT Bombay,CP,2,0.0,2019
+S. Akshay 0001,IIT Bombay,CP,1,0.0,2019
+Ansuman Banerjee,ISI Kolkata,NSS,1,0.0,2018
+G. N. Srinivasa Prasanna,IIIT Bangalore,TOOLS (5),1,0.0,1991
+Swagatam Das,ISI Kolkata,CISIS,2,0.0,2008
+Amit Dua,BITS Pilani,CISIS,1,0.0,2022
+Swagatam Das,ISI Kolkata,SOCO,1,0.0,2010
+Swagatam Das,ISI Kolkata,SOCO,1,0.0,2012
+Nikhil R. Pal,ISI Kolkata,SOCO,1,0.0,2011
+Bhaskaran Raman,IIT Bombay,SIGCOMM,1,0.0,2010
+Kameswari Chebrolu,IIT Bombay,SIGCOMM,1,0.0,2010
+Puru Kulkarni,IIT Bombay,SIGCOMM,3,0.0,2010
+Mythili Vutukuru,IIT Bombay,SIGCOMM,1,0.0,2006
+Mythili Vutukuru,IIT Bombay,SIGCOMM,1,0.0,2009
+Sougata Sen,BITS Pilani-Goa,MCC@SIGCOMM,1,0.0,2012
+Abhishek Mishra,BITS Pilani,SIGCOMM,1,0.0,2011
+Kuntal Ghosh,ISI Kolkata,ICKG,1,0.0,2023
+Ashutosh Bhatia,BITS Pilani,ICBK,1,0.0,2018
+Aditya Kanade,IISc Bangalore,ICBK,1,0.0,2018
+Jayant R. Haritsa,IISc Bangalore,FIMI,1,0.0,2003
+Bharat Adsul,IIT Bombay,SAGT,2,0.0,2010
+Milind A. Sohoni,IIT Bombay,SAGT,2,0.0,2010
+Saket Saurabh 0001,IMSc,SAGT,1,0.0,2022
+Prajakta Nimbhorkar,CMI,SAGT,1,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SAGT,1,0.0,2023
+Siddharth Barman,IISc Bangalore,SAGT,1,0.0,2015
+Saket Saurabh 0001,IMSc,SAGT,1,0.0,2017
+Saket Saurabh 0001,IMSc,SAGT,1,0.0,2021
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,1,0.0,2010
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,4,0.0,2015
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,2,0.0,2021
+M. Narasimha Murty,IISc Bangalore,IJCNN,1,0.0,2006
+Aditya Kanade,IISc Bangalore,IJCNN,2,0.0,2016
+Shalabh Bhatnagar,IISc Bangalore,IJCNN,1,0.0,2020
+Kamlesh Tiwari,BITS Pilani,IJCNN,4,0.0,2022
+Swagatam Das,ISI Kolkata,IJCNN,1,0.0,2020
+Manish Gupta 0001,IIIT Bangalore,IJCNN,1,0.0,2019
+Shalabh Bhatnagar,IISc Bangalore,IJCNN,1,0.0,2022
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,1,0.0,2009
+U. Pal 0001,ISI Kolkata,IJCNN,1,0.0,2013
+Pushpak Bhattacharya,IIT Bombay,IJCNN,9,0.0,2021
+Aditya Kanade,IISc Bangalore,IJCNN,1,0.0,2007
+Sushmita Mitra,ISI Kolkata,IJCNN,1,0.0,2013
+Amit Dua,BITS Pilani,IJCNN,1,0.0,2023
+Pushpak Bhattacharya,IIT Bombay,IJCNN,7,0.0,2020
+Sujith Thomas,BITS Pilani-Goa,IJCNN,1,0.0,2021
+U. Pal 0001,ISI Kolkata,IJCNN,2,0.0,2016
+Pushpak Bhattacharya,IIT Bombay,IJCNN,3,0.0,2019
+Hemant Rathore,BITS Pilani-Goa,IJCNN,3,0.0,2021
+Sanjay K. Sahay,BITS Pilani-Goa,IJCNN,3,0.0,2021
+Bhabatosh Chanda,ISI Kolkata,IJCNN,1,0.0,2006
+Nikhil R. Pal,ISI Kolkata,IJCNN,1,0.0,2006
+Pushpak Bhattacharya,IIT Bombay,IJCNN,1,0.0,2018
+Aditya Kanade,IISc Bangalore,IJCNN,1,0.0,2023
+Snehanshu Saha,BITS Pilani-Goa,IJCNN,4,0.0,2021
+Dinesh Babu J.,IIIT Bangalore,IJCNN,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,IJCNN,1,0.0,2021
+Rajat K. De,ISI Kolkata,IJCNN,1,0.0,2006
+Shalabh Bhatnagar,IISc Bangalore,IJCNN,2,0.0,2017
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,2,0.0,2020
+Aditya Kanade,IISc Bangalore,IJCNN,1,0.0,2017
+U. Pal 0001,ISI Kolkata,IJCNN,3,0.0,2015
+Shirish K. Shevade,IISc Bangalore,IJCNN,1,0.0,2012
+Swagatam Das,ISI Kolkata,IJCNN,1,0.0,2023
+Kamlesh Tiwari,BITS Pilani,IJCNN,2,0.0,2023
+M. Srinivas,National Institute of Technology Warangal,IJCNN,1,0.0,2014
+U. Pal 0001,ISI Kolkata,IJCNN,1,0.0,2012
+Nikhil R. Pal,ISI Kolkata,IJCNN,1,0.0,2012
+Nikhil R. Pal,ISI Kolkata,IJCNN,1,0.0,2010
+Sanghamitra Bandyopadhyay,ISI Kolkata,IJCNN,1,0.0,2008
+Nikhil R. Pal,ISI Kolkata,IJCNN,1,0.0,2009
+U. Pal 0001,ISI Kolkata,IJCNN,2,0.0,2014
+M. Srinivas,National Institute of Technology Warangal,IJCNN,1,0.0,2010
+Swati Agarwal 0001,BITS Pilani-Goa,IJCNN,1,0.0,2021
+Shalabh Bhatnagar,IISc Bangalore,IJCNN,1,0.0,2016
+Pushpak Bhattacharya,IIT Bombay,IJCNN,1,0.0,2022
+Ashish Ghosh,ISI Kolkata,IJCNN,1,0.0,2016
+Nikhil R. Pal,ISI Kolkata,IJCNN,1,0.0,2008
+Ganesh Ramakrishnan,IIT Bombay,IJCNN,1,0.0,2021
+Kavi Arya,IIT Bombay,IJCNN,1,0.0,2021
+Shirish K. Shevade,IISc Bangalore,IJCNN,1,0.0,2013
+M. Narasimha Murty,IISc Bangalore,IJCNN,1,0.0,2013
+Snehanshu Saha,BITS Pilani-Goa,IJCNN,2,0.0,2020
+U. Pal 0001,ISI Kolkata,IJCNN,1,0.0,2018
+Shirish K. Shevade,IISc Bangalore,IJCNN,1,0.0,2016
+Basabdatta B. Sen,BITS Pilani-Goa,IJCNN,1,0.0,2022
+Madhav Rao,IIIT Bangalore,ISQED,5,0.0,2023
+Virendra Singh,IIT Bombay,ISQED,1,0.0,2011
+Virendra Singh,IIT Bombay,ISQED,1,0.0,2019
+Pratik Narang,BITS Pilani,ICAART (3),2,0.0,2023
+Vinayak Naik,BITS Pilani-Goa,ICAART (1),1,0.0,2023
+Yashvardhan Sharma,BITS Pilani,ICAART (3),1,0.0,2024
+Lavika Goel,BITS Pilani,ICAART (3),1,0.0,2024
+Shalabh Bhatnagar,IISc Bangalore,ICAART (2),1,0.0,2022
+Kavi Arya,IIT Bombay,ICAART (3),2,0.0,2022
+Vinayak Naik,BITS Pilani-Goa,ICAART (Revised Selected Paper),1,0.0,2023
+Navneet Goyal,BITS Pilani,ICAART (2),2,0.0,2024
+Kamal Lodaya,IMSc,ICAART (2),1,0.0,2017
+Sarbani Palit,ISI Kolkata,ICAART (2),1,0.0,2023
+Shalabh Bhatnagar,IISc Bangalore,ICAART (Revised Selected Paper,1,0.0,2022
+Pratik Narang,BITS Pilani,ICAART (2),1,0.0,2021
+Mukesh Kumar Rohil,BITS Pilani,ICAART (3),2,0.0,2024
+Yashvardhan Sharma,BITS Pilani,ICAART (2),1,0.0,2024
+Kamlesh Tiwari,BITS Pilani,ICAART (2),1,0.0,2024
+Sarbani Palit,ISI Kolkata,ICAART (2),1,0.0,2024
+Virendra Singh,IIT Bombay,ICAART (2),1,0.0,2024
+Umesh Bellur,IIT Bombay,APSEC,1,0.0,2008
+Santonu Sarkar,BITS Pilani-Goa,APSEC,1,0.0,2009
+Sridhar Iyer,IIT Bombay,APSEC,1,0.0,1997
+Ravichandra Sadam,National Institute of Technology Warangal,QuASoQ/SEED@APSEC,1,0.0,2022
+Umesh Bellur,IIT Bombay,APSEC,2,0.0,2006
+Santonu Sarkar,BITS Pilani-Goa,APSEC (1),1,0.0,2013
+Santonu Sarkar,BITS Pilani-Goa,APSEC,1,0.0,2005
+Sridhar Iyer,IIT Bombay,APSEC,1,0.0,2005
+Santonu Sarkar,BITS Pilani-Goa,APSEC,1,0.0,2006
+Raghavan Komondoor,IISc Bangalore,APSEC,1,0.0,2017
+Aditya Kanade,IISc Bangalore,APSEC,1,0.0,2007
+Rushikesh Joshi,IIT Bombay,APSEC,1,0.0,2006
+Mridul Nandi,ISI Kolkata,SIN,1,0.0,2013
+Virendra Singh,IIT Bombay,SIN,1,0.0,2012
+Pradipta Maji,ISI Kolkata,CAIP (1),1,0.0,2013
+Raju Bhukya,National Institute of Technology Warangal,CAIP (2),1,0.0,2021
+Virendra Singh,IIT Bombay,ISVLSI,1,0.0,2022
+Ansuman Banerjee,ISI Kolkata,ISVLSI,1,0.0,2011
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2019
+Madhav Rao,IIIT Bangalore,ISVLSI,5,0.0,2023
+Ansuman Banerjee,ISI Kolkata,ISVLSI,1,0.0,2008
+Madhav Rao,IIIT Bangalore,ISVLSI,1,0.0,2022
+Goutam Paul 0001,ISI Kolkata,ISVLSI,1,0.0,2014
+Madhav Rao,IIIT Bangalore,ISVLSI,1,0.0,2016
+Kanchan Manna,BITS Pilani-Goa,ISVLSI,1,0.0,2015
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2015
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2020
+Kanchan Manna,BITS Pilani-Goa,ISVLSI,2,0.0,2016
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2011
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2009
+Susmita Sur-Kolay,ISI Kolkata,ISVLSI,1,0.0,2013
+Virendra Singh,IIT Bombay,ISVLSI,1,0.0,2018
+Sharat Chandran,IIT Bombay,TRECVID,1,0.0,2006
+Sharat Chandran,IIT Bombay,TRECVID,1,0.0,2005
+Debrup Chakraborty,ISI Kolkata,GECCO,1,0.0,2008
+Rajat K. De,ISI Kolkata,GECCO,1,0.0,2005
+Swagatam Das,ISI Kolkata,GECCO,1,0.0,2007
+Swagatam Das,ISI Kolkata,GECCO (Companion),1,0.0,2011
+Swagatam Das,ISI Kolkata,GECCO (Companion),2,0.0,2010
+Swagatam Das,ISI Kolkata,GECCO,3,0.0,2005
+Swagatam Das,ISI Kolkata,GECCO,2,0.0,2008
+Sanghamitra Bandyopadhyay,ISI Kolkata,GECCO (Companion),1,0.0,2019
+Saket Saurabh 0001,IMSc,GECCO (Companion),1,0.0,2018
+Swagatam Das,ISI Kolkata,GECCO (Companion),2,0.0,2012
+Swagatam Das,ISI Kolkata,GECCO (Companion),1,0.0,2013
+Swagatam Das,ISI Kolkata,GECCO (Companion),2,0.0,2019
+Swagatam Das,ISI Kolkata,GECCO Companion,2,0.0,2020
+Pushpak Bhattacharya,IIT Bombay,GECCO,1,0.0,2022
+Swagatam Das,ISI Kolkata,GECCO,2,0.0,2013
+Swagatam Das,ISI Kolkata,GECCO,1,0.0,2010
+Aditya Kanade,IISc Bangalore,GECCO Companion,1,0.0,2021
+Abhishek Sinha,Tata Inst. of Fundamental Research,GECCO (Companion),1,0.0,2019
+Umesh Bellur,IIT Bombay,IC2E,1,0.0,2021
+Puru Kulkarni,IIT Bombay,IC2E,1,0.0,2021
+Umesh Bellur,IIT Bombay,IC2E,1,0.0,2018
+Puru Kulkarni,IIT Bombay,IC2E,1,0.0,2018
+S. Sudarshan 0001,IIT Bombay,ILPS,2,0.0,1993
+S. Sudarshan 0001,IIT Bombay,ISLP,1,0.0,1991
+S. Sudarshan 0001,IIT Bombay,ILPS,1,0.0,1994
+Shrisha Rao 0001,IIIT Bangalore,AAAI Spring Symposium: Game Theoretic and Decision Theoretic Agents,1,0.0,2007
+Pushpak Bhattacharya,IIT Bombay,AAAI Spring Symposium: MLPS,1,0.0,2021
+Malay Bhattacharyya 0001,ISI Kolkata,AAAI Spring Symposia,1,0.0,2016
+Partha P. Talukdar,IISc Bangalore,AAAI Spring Symposia,1,0.0,2015
+Malay Bhattacharyya 0001,ISI Kolkata,AAAI Spring Symposia,2,0.0,2017
+Sarbani Palit,ISI Kolkata,DIAL,1,0.0,2006
+Utpal Garain,ISI Kolkata,DIAL,1,0.0,2006
+Bhabatosh Chanda,ISI Kolkata,DIAL,1,0.0,2006
+Vinayak Naik,BITS Pilani-Goa,DCOSS,1,0.0,2005
+P. Vijay Kumar,IISc Bangalore,DCOSS,1,0.0,2008
+Ashutosh Bhatia,BITS Pilani,DCOSS,1,0.0,2014
+Pushpak Bhattacharya,IIT Bombay,TSD,2,0.0,2018
+Amit Dua,BITS Pilani,SITIS,1,0.0,2016
+U. Pal 0001,ISI Kolkata,SITIS,1,0.0,2012
+U. Pal 0001,ISI Kolkata,SITIS,1,0.0,2019
+Amit Chattopadhyay,IIIT Bangalore,TPCG,2,0.0,2014
+Sridhar Iyer,IIT Bombay,CompEd (2),4,0.0,2023
+Swaroop Joshi,BITS Pilani-Goa,CompEd (2),2,0.0,2023
+Madhavan Mukund,CMI,CompEd (2),1,0.0,2023
+Sujit Das,National Institute of Technology Warangal,CICBA,1,0.0,2021
+Sujit Das,National Institute of Technology Warangal,CICBA (2),1,0.0,2017
+Virendra Singh,IIT Bombay,SoCC,1,0.0,2011
+Susmita Sur-Kolay,ISI Kolkata,SOCC,1,0.0,2022
+R. Govindarajan,IISc Bangalore,SoCC,1,0.0,2008
+Susmita Sur-Kolay,ISI Kolkata,SoCC,1,0.0,2012
+Susmita Sur-Kolay,ISI Kolkata,SoCC,1,0.0,2016
+Chandrashekar Ramanathan,IIIT Bangalore,T4E,1,0.0,2010
+Sridhar Iyer,IIT Bombay,T4E,3,0.0,2014
+Chandrashekar Ramanathan,IIIT Bangalore,T4E,3,0.0,2011
+Sridhar Iyer,IIT Bombay,T4E,2,0.0,2012
+Sridhar Iyer,IIT Bombay,T4E,4,0.0,2013
+Kavi Arya,IIT Bombay,T4E,1,0.0,2016
+Sridhar Iyer,IIT Bombay,T4E,2,0.0,2011
+Chandrashekar Ramanathan,IIIT Bangalore,T4E,1,0.0,2014
+G. N. Srinivasa Prasanna,IIIT Bangalore,T4E,1,0.0,2012
+Kavi Arya,IIT Bombay,T4E,1,0.0,2014
+G. N. Srinivasa Prasanna,IIIT Bangalore,T4E,1,0.0,2014
+Sridhar Iyer,IIT Bombay,T4E,1,0.0,2019
+Chandrashekar Ramanathan,IIIT Bangalore,T4E,1,0.0,2016
+Sridhar Iyer,IIT Bombay,T4E,1,0.0,2015
+Sridhar Iyer,IIT Bombay,T4E,1,0.0,2010
+Kavi Arya,IIT Bombay,T4E,1,0.0,2019
+Vinod Ganapathy,IISc Bangalore,SoCC,1,0.0,2014
+Umesh Bellur,IIT Bombay,SoCC,1,0.0,2015
+Puru Kulkarni,IIT Bombay,SoCC,1,0.0,2015
+Mythili Vutukuru,IIT Bombay,SoCC,1,0.0,2018
+Umesh Bellur,IIT Bombay,SoCC,1,0.0,2021
+Puru Kulkarni,IIT Bombay,SoCC,1,0.0,2021
+Puru Kulkarni,IIT Bombay,SoCC,1,0.0,2014
+Umesh Bellur,IIT Bombay,SoCC,1,0.0,2016
+R. Govindarajan,IISc Bangalore,CC,2,0.0,2007
+Uday P. Khedker,IIT Bombay,CC,1,0.0,2019
+Amitabha Sanyal,IIT Bombay,CC,1,0.0,2019
+Uday Bondhugula,IISc Bangalore,CC,1,0.0,2008
+Uday P. Khedker,IIT Bombay,CC,1,0.0,2008
+R. Govindarajan,IISc Bangalore,CC,1,0.0,2014
+Uday Bondhugula,IISc Bangalore,CC,1,0.0,2022
+Uday Bondhugula,IISc Bangalore,CC,1,0.0,2013
+Amitabha Sanyal,IIT Bombay,CC,1,0.0,2014
+R. Govindarajan,IISc Bangalore,CC,1,0.0,1999
+Uday Bondhugula,IISc Bangalore,CC,1,0.0,2020
+Uday P. Khedker,IIT Bombay,CC,1,0.0,2018
+Shrisha Rao 0001,IIIT Bangalore,SAC,1,0.0,2013
+Umesh Bellur,IIT Bombay,SAC,2,0.0,2006
+Umesh Bellur,IIT Bombay,SAC,1,0.0,2008
+G. N. Srinivasa Prasanna,IIIT Bangalore,SAC,1,0.0,2022
+U. Pal 0001,ISI Kolkata,SAC,2,0.0,2010
+Srinath Srinivasa,IIIT Bangalore,SAC (1),1,0.0,2000
+Surjya Ghosh,BITS Pilani-Goa,SAC,1,0.0,2022
+Krithi Ramamritham,IIT Bombay,SAC,1,0.0,2017
+Sumana Ghosh,ISI Kolkata,SAC,1,0.0,2021
+Navneet Goyal,BITS Pilani,SAC,4,0.0,2023
+Sharat Chandran,IIT Bombay,SAC,1,0.0,2003
+Subhajit Sen,IIIT Bangalore,SAC,1,0.0,1992
+Rajesh Kumar 0012,BITS Pilani-Goa,SAC,1,0.0,2018
+Sangharatna Godboley,National Institute of Technology Warangal,SAC,1,0.0,2023
+Ravichandra Sadam,National Institute of Technology Warangal,SAC,1,0.0,2023
+Krithi Ramamritham,IIT Bombay,SAC,1,0.0,2012
+Biju K. Raveendran,BITS Pilani-Goa,SAC,1,0.0,2008
+Sundar Balasubramaniam,BITS Pilani,SAC,1,0.0,2008
+Bhabatosh Chanda,ISI Kolkata,SAC,1,0.0,2006
+G. N. Srinivasa Prasanna,IIIT Bangalore,SAC,1,0.0,2021
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2016
+Shalabh Bhatnagar,IISc Bangalore,ICML,1,0.0,2010
+Aditya Kanade,IISc Bangalore,ICML,1,0.0,2010
+Shivaram Kalyanakrishnan,IIT Bombay,ICML,1,0.0,2012
+Aditya Kanade,IISc Bangalore,ICML,1,0.0,2021
+Ganesh Ramakrishnan,IIT Bombay,ICML,1,0.0,2005
+Pushpak Bhattacharya,IIT Bombay,ICML,1,0.0,2005
+Aditya Kanade,IISc Bangalore,ICML,1,0.0,2018
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2020
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2014
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2014
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2015
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2008
+Suyash P. Awate,IIT Bombay,ICML (1),1,0.0,2013
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2006
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2020
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2018
+M. Narasimha Murty,IISc Bangalore,ICML,3,0.0,2007
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2023
+Partha P. Talukdar,IISc Bangalore,ICML,1,0.0,2008
+Siddharth Barman,IISc Bangalore,ICML,1,0.0,2018
+Shalabh Bhatnagar,IISc Bangalore,ICML,1,0.0,2009
+Aditya Kanade,IISc Bangalore,ICML (2),2,0.0,2013
+Ashwin Srinivasan 0001,BITS Pilani-Goa,ICML,1,0.0,2005
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2007
+Anand Louis,IISc Bangalore,ICML,1,0.0,2021
+Ajit A. Diwan,IIT Bombay,ICML,1,0.0,2007
+Sunita Sarawagi,IIT Bombay,ICML,1,0.0,2007
+Aditya Kanade,IISc Bangalore,ICML,2,0.0,2017
+Ganesh Ramakrishnan,IIT Bombay,ICML,1,0.0,2011
+Swagatam Das,ISI Kolkata,ICML,1,0.0,2023
+Abir De,IIT Bombay,ICML,1,0.0,2022
+Soumen Chakrabarti,IIT Bombay,ICML,1,0.0,2022
+Shivaram Kalyanakrishnan,IIT Bombay,ICML,1,0.0,2010
+Shishir Kolathaya,IISc Bangalore,ICML,1,0.0,2023
+Shalabh Bhatnagar,IISc Bangalore,ICML,1,0.0,2023
+Ganesh Ramakrishnan,IIT Bombay,ICML,2,0.0,2021
+Abir De,IIT Bombay,ICML,2,0.0,2021
+Ashwin Srinivasan 0001,BITS Pilani-Goa,ML,1,0.0,1992
+Ashwin Srinivasan 0001,BITS Pilani-Goa,ICML,2,0.0,2000
+Shivaram Kalyanakrishnan,IIT Bombay,ICML,1,0.0,2019
+Shirish K. Shevade,IISc Bangalore,ICML,1,0.0,2007
+M. Narasimha Murty,IISc Bangalore,ICML,1,0.0,2003
+Shivaram Kalyanakrishnan,IIT Bombay,ICML,1,0.0,2014
+Ganesh Ramakrishnan,IIT Bombay,ICML,1,0.0,2023
+Abir De,IIT Bombay,ICML,1,0.0,2023
+Soumen Chakrabarti,IIT Bombay,ICML,1,0.0,2007
+Shirish K. Shevade,IISc Bangalore,ICML,1,0.0,2002
+Sougata Sen,BITS Pilani-Goa,ICHI,1,0.0,2020
+C. R. Subramanian 0001,IMSc,AAIM,1,0.0,2007
+Sandip Das 0001,ISI Kolkata,AAIM,1,0.0,2014
+Subhas C. Nandy,ISI Kolkata,FAW-AAIM,1,0.0,2012
+Sasanka Roy,ISI Kolkata,FAW-AAIM,1,0.0,2012
+Sandip Das 0001,ISI Kolkata,FAW-AAIM,1,0.0,2013
+Subhas C. Nandy,ISI Kolkata,AAIM,1,0.0,2006
+Sandip Das 0001,ISI Kolkata,FAW-AAIM,1,0.0,2011
+Ansuman Banerjee,ISI Kolkata,ATVA,2,0.0,2008
+Santonu Sarkar,BITS Pilani-Goa,ATVA,1,0.0,2017
+Supratik Chakraborty,IIT Bombay,ATVA,1,0.0,2013
+Supratik Chakraborty,IIT Bombay,ATVA,1,0.0,2022
+Deepak D'Souza,IISc Bangalore,ATVA,1,0.0,2020
+Aditya Kanade,IISc Bangalore,ATVA,1,0.0,2006
+Krishna Shankara Narayanan,IIT Bombay,ATVA,1,0.0,2022
+Supratik Chakraborty,IIT Bombay,ATVA,1,0.0,2009
+Amitabha Sanyal,IIT Bombay,ATVA,1,0.0,2010
+Amitabha Sanyal,IIT Bombay,ATVA (1),1,0.0,2023
+S. Akshay 0001,IIT Bombay,ATVA (1),1,0.0,2023
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,ATVA,1,0.0,2012
+Kamal Lodaya,IMSc,ATVA,1,0.0,2010
+Madhavan Mukund,CMI,ATVA,1,0.0,2011
+K. Narayan Kumar,CMI,ATVA,1,0.0,2012
+B. Srivathsan,CMI,ATVA,1,0.0,2010
+Krishna Shankara Narayanan,IIT Bombay,ATVA,1,0.0,2017
+Madhavan Mukund,CMI,ATVA,1,0.0,2006
+Jagtap Pushpak,IISc Bangalore,ATVA,1,0.0,2018
+Raghavan Komondoor,IISc Bangalore,ATVA (1),1,0.0,2023
+Krishna Shankara Narayanan,IIT Bombay,ATVA,1,0.0,2020
+Aiswarya Cyriac,CMI,ATVA,1,0.0,2014
+K. Narayan Kumar,CMI,ATVA,1,0.0,2014
+Madhavan Mukund,CMI,ATVA,1,0.0,2015
+S. P. Suresh,CMI,ATVA,1,0.0,2015
+Madhavan Mukund,CMI,ATVA,1,0.0,2017
+S. P. Suresh,CMI,ATVA,1,0.0,2017
+Surjya Ghosh,BITS Pilani-Goa,CHI Extended Abstracts,2,0.0,2020
+G. N. Srinivasa Prasanna,IIIT Bangalore,CHI,1,0.0,2015
+Surjya Ghosh,BITS Pilani-Goa,CHI Extended Abstracts,1,0.0,2022
+Malay Bhattacharyya 0001,ISI Kolkata,CHI Extended Abstracts,1,0.0,2017
+G. N. Srinivasa Prasanna,IIIT Bangalore,CHI,1,0.0,2021
+Rahul Banerjee,BITS Pilani,CHI,1,0.0,2018
+Sougata Sen,BITS Pilani-Goa,CHI Extended Abstracts,1,0.0,2023
+G. N. Srinivasa Prasanna,IIIT Bangalore,CHI,1,0.0,2020
+Krithi Ramamritham,IIT Bombay,PDIS,1,0.0,1994
+S. Sudarshan 0001,IIT Bombay,PDIS,1,0.0,1996
+Swaroop Joshi,BITS Pilani-Goa,ICER,1,0.0,2021
+Sridhar Iyer,IIT Bombay,ICER,1,0.0,2020
+Sridhar Iyer,IIT Bombay,ICER,1,0.0,2013
+Aditya Kanade,IISc Bangalore,WABI,1,0.0,2002
+Sanghamitra Bandyopadhyay,ISI Kolkata,WABI,1,0.0,2012
+Vinayak Naik,BITS Pilani-Goa,MDM,1,0.0,2012
+Puru Kulkarni,IIT Bombay,Mobile Data Management,1,0.0,2003
+Krithi Ramamritham,IIT Bombay,Mobile Data Management,2,0.0,2003
+Sougata Sen,BITS Pilani-Goa,MDM (1),1,0.0,2014
+Durvasula V. L. N. Somayajulu,National Institute of Technology Warangal,MDM (2),1,0.0,2013
+P. Radha Krishna 0001,National Institute of Technology Warangal,MDM,1,0.0,2012
+Subhas C. Nandy,ISI Kolkata,CIAC,1,0.0,2000
+Anisur Rahaman Molla,ISI Kolkata,CIAC,1,0.0,2023
+Geevarghese Philip,CMI,CIAC,1,0.0,2019
+Saket Saurabh 0001,IMSc,CIAC,1,0.0,2019
+Arijit Bishnu,ISI Kolkata,CIAC,1,0.0,2003
+Sandip Das 0001,ISI Kolkata,CIAC,1,0.0,2003
+Subhas C. Nandy,ISI Kolkata,CIAC,1,0.0,2003
+Saket Saurabh 0001,IMSc,CIAC,1,0.0,2017
+Saket Saurabh 0001,IMSc,CIAC,1,0.0,2021
+Saket Saurabh 0001,IMSc,CIAC,1,0.0,2023
+Virendra Singh,IIT Bombay,HLDVT,1,0.0,2017
+Aditya Kanade,IISc Bangalore,MIKE,2,0.0,2015
+Ashish Ghosh,ISI Kolkata,MIKE,2,0.0,2017
+Aditya Kanade,IISc Bangalore,MIKE,1,0.0,2018
+Kuntal Ghosh,ISI Kolkata,MIKE,1,0.0,2017
+Durvasula V. L. N. Somayajulu,National Institute of Technology Warangal,MIKE,1,0.0,2019
+Aditya Kanade,IISc Bangalore,MIKE,1,0.0,2013
+Chapram Sudhakar,National Institute of Technology Warangal,MIKE,1,0.0,2019
+Krithi Ramamritham,IIT Bombay,1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery,1,0.0,1999
+S. Sudarshan 0001,IIT Bombay,1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery,1,0.0,1999
+Surya Narayana Raju Undi,National Institute of Technology Warangal,BigData Congress,2,0.0,2015
+Ansuman Banerjee,ISI Kolkata,ICSOC,1,0.0,2021
+Ansuman Banerjee,ISI Kolkata,ICSOC,1,0.0,2018
+Ansuman Banerjee,ISI Kolkata,ICSOC,1,0.0,2019
+Ansuman Banerjee,ISI Kolkata,ICSOC,1,0.0,2020
+Ansuman Banerjee,ISI Kolkata,ICSOC Workshops,1,0.0,2015
+Shalabh Bhatnagar,IISc Bangalore,ICSOC,1,0.0,2011
+Devashish Gosain,BITS Pilani-Goa,AsiaCCS,1,0.0,2021
+Vinod Ganapathy,IISc Bangalore,AsiaCCS,1,0.0,2021
+Arkaprava Basu,IISc Bangalore,AsiaCCS,1,0.0,2021
+Sridhar Iyer,IIT Bombay,ISWCS,1,0.0,2004
+U. Pal 0001,ISI Kolkata,ICFHR,7,0.0,2014
+Ujjwal Bhattacharya,ISI Kolkata,ICFHR,4,0.0,2014
+U. Pal 0001,ISI Kolkata,ICFHR,1,0.0,2020
+U. Pal 0001,ISI Kolkata,ICFHR,6,0.0,2018
+U. Pal 0001,ISI Kolkata,ICFHR,5,0.0,2016
+U. Pal 0001,ISI Kolkata,ICFHR,6,0.0,2010
+Ujjwal Bhattacharya,ISI Kolkata,ICFHR,3,0.0,2012
+Bhabatosh Chanda,ISI Kolkata,ICFHR,3,0.0,2010
+Ujjwal Bhattacharya,ISI Kolkata,ICFHR,2,0.0,2010
+Avinash Gautam,BITS Pilani,ICFHR,2,0.0,2022
+Dinesh Babu J.,IIIT Bangalore,ICFHR,1,0.0,2018
+Ujjwal Bhattacharya,ISI Kolkata,ICFHR,1,0.0,2016
+Ujjwal Bhattacharya,ISI Kolkata,IWFHR,1,0.0,2004
+Utpal Garain,ISI Kolkata,ICFHR,1,0.0,2012
+U. Pal 0001,ISI Kolkata,IWFHR,2,0.0,2004
+U. Pal 0001,ISI Kolkata,ICFHR,5,0.0,2012
+Utpal Garain,ISI Kolkata,ICFHR,1,0.0,2014
+Utpal Garain,ISI Kolkata,ICFHR,1,0.0,2016
+U. Pal 0001,ISI Kolkata,ICFHR,1,0.0,2022
+Biju K. Raveendran,BITS Pilani-Goa,DS-RT,1,0.0,2019
+Shrisha Rao 0001,IIIT Bangalore,DS-RT,2,0.0,2018
+Biju K. Raveendran,BITS Pilani-Goa,DS-RT,1,0.0,2021
+Biju K. Raveendran,BITS Pilani-Goa,DS-RT,1,0.0,2018
+Biswa,IIT Bombay,CF,1,0.0,2022
+Partha P. Talukdar,IISc Bangalore,SDM,2,0.0,2014
+Aditya Kanade,IISc Bangalore,SDM,1,0.0,2011
+Manish Gupta 0001,IIIT Bangalore,SDM,1,0.0,2012
+Aditya Kanade,IISc Bangalore,SDM,2,0.0,2015
+Partha P. Talukdar,IISc Bangalore,SDM,2,0.0,2017
+Aditya Kanade,IISc Bangalore,SDM,1,0.0,2007
+Partha P. Talukdar,IISc Bangalore,SDM,1,0.0,2015
+Arindam Khan 0001,IISc Bangalore,SDM,1,0.0,2011
+Aditya Kanade,IISc Bangalore,SDM,1,0.0,2016
+Shirish K. Shevade,IISc Bangalore,SDM,1,0.0,2013
+Manish Gupta 0001,IIIT Bangalore,SDM,1,0.0,2014
+Shirish K. Shevade,IISc Bangalore,SDM,1,0.0,2011
+Shirish K. Shevade,IISc Bangalore,SDM,1,0.0,2016
+Shirish K. Shevade,IISc Bangalore,SDM,1,0.0,2017
+Saket Saurabh 0001,IMSc,ISAIM,1,0.0,2022
+Sougata Sen,BITS Pilani-Goa,WISEC,1,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,2,0.0,2008
+Aditya Kanade,IISc Bangalore,SODA,1,0.0,2022
+Kamal Lodaya,IMSc,SODA,1,0.0,2004
+Geevarghese Philip,CMI,SODA,1,0.0,2020
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2004
+Saket Saurabh 0001,IMSc,SODA,2,0.0,2010
+Saket Saurabh 0001,IMSc,SODA,5,0.0,2018
+Arindam Khan 0001,IISc Bangalore,SODA,1,0.0,2014
+Prahladh Harsha,Tata Inst. of Fundamental Research,SODA,2,0.0,2019
+Saket Saurabh 0001,IMSc,SODA,4,0.0,2021
+Prahladh Harsha,Tata Inst. of Fundamental Research,SODA,1,0.0,2008
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SODA,2,0.0,2008
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,2,0.0,2020
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2014
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2007
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2017
+Sourav Chakraborty 0001,ISI Kolkata,SODA,1,0.0,2011
+Supratik Chakraborty,IIT Bombay,SODA,1,0.0,2010
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,SODA,1,0.0,2012
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2017
+Aditya Kanade,IISc Bangalore,SODA,1,0.0,2020
+Kamal Lodaya,IMSc,SODA,1,0.0,2002
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,SODA,1,0.0,2016
+Sundar Vishwanathan,IIT Bombay,SODA,1,0.0,2000
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2022
+Soumen Chakrabarti,IIT Bombay,SODA,1,0.0,1998
+Milind A. Sohoni,IIT Bombay,SODA,1,0.0,2013
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2019
+Meena Mahajan,IMSc,SODA,1,0.0,1997
+Arindam Khan 0001,IISc Bangalore,SODA,1,0.0,2022
+Abhiram G. Ranade,IIT Bombay,SODA,1,0.0,2000
+Sourav Chakraborty 0001,ISI Kolkata,SODA,1,0.0,2012
+Saket Saurabh 0001,IMSc,SODA,2,0.0,2023
+Saladi Rahul,IISc Bangalore,SODA,1,0.0,2023
+Anand Louis,IISc Bangalore,SODA,1,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,2,0.0,2005
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SODA,1,0.0,2009
+C. R. Subramanian 0001,IMSc,SODA,1,0.0,1999
+Arindam Khan 0001,IISc Bangalore,SODA,1,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,2,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2015
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,2,0.0,2012
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,3,0.0,2019
+Sundar Vishwanathan,IIT Bombay,SODA,1,0.0,1997
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,4,0.0,2023
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2018
+Sundar Vishwanathan,IIT Bombay,SODA,1,0.0,2012
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,SODA,1,0.0,2023
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,SODA,1,0.0,2018
+Saket Saurabh 0001,IMSc,SODA,2,0.0,2012
+Sundar Vishwanathan,IIT Bombay,SODA,1,0.0,1990
+Chandan Saha 0001,IISc Bangalore,SODA,1,0.0,2006
+Chandan Saha 0001,IISc Bangalore,SODA,1,0.0,2023
+Siddharth Barman,IISc Bangalore,SODA,1,0.0,2012
+Kamal Lodaya,IMSc,SODA,1,0.0,2001
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2011
+Saket Saurabh 0001,IMSc,SODA,1,0.0,2009
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2013
+Sundar Vishwanathan,IIT Bombay,SODA,1,0.0,1996
+Siddharth Barman,IISc Bangalore,SODA,1,0.0,2009
+Siddharth Barman,IISc Bangalore,SODA,1,0.0,2019
+Geevarghese Philip,CMI,SODA,1,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2009
+Abhiram G. Ranade,IIT Bombay,SODA,1,0.0,1999
+Saladi Rahul,IISc Bangalore,SODA,1,0.0,2015
+Siddharth Barman,IISc Bangalore,SODA,1,0.0,2010
+Prahladh Harsha,Tata Inst. of Fundamental Research,SODA,1,0.0,2023
+Kamal Lodaya,IMSc,SODA,1,0.0,2011
+Saket Saurabh 0001,IMSc,SODA,3,0.0,2011
+Kamal Lodaya,IMSc,SODA,1,0.0,2014
+Anand Louis,IISc Bangalore,SODA,1,0.0,2014
+Geevarghese Philip,CMI,SODA,1,0.0,2014
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SODA,1,0.0,2015
+Arkadev Chattopadhyay,Tata Inst. of Fundamental Research,SODA,1,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,SODA,1,0.0,2022
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SODA,1,0.0,2005
+Soumen Chakrabarti,IIT Bombay,SODA,1,0.0,2005
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,SODA,1,0.0,2015
+Arkadev Chattopadhyay,Tata Inst. of Fundamental Research,SODA,1,0.0,2012
+Saket Saurabh 0001,IMSc,SODA,1,0.0,2015
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SODA,1,0.0,2003
+Kamal Lodaya,IMSc,RP,1,0.0,2009
+S. Akshay 0001,IIT Bombay,RP,1,0.0,2012
+Hariharan Narayanan,Tata Inst. of Fundamental Research,RP,1,0.0,2017
+Debabrata Das,IIIT Bangalore,IEEE ANTS,1,0.0,2014
+Amit Dua,BITS Pilani,ANTS,2,0.0,2019
+G. N. Srinivasa Prasanna,IIIT Bangalore,ANTS,2,0.0,2019
+Debabrata Das,IIIT Bangalore,ANTS,3,0.0,2019
+Rashmi Ranjan Rout,National Institute of Technology Warangal,IEEE ANTS,1,0.0,2012
+G. N. Srinivasa Prasanna,IIIT Bangalore,ANTS,1,0.0,2018
+Debabrata Das,IIIT Bangalore,ANTS,1,0.0,2018
+Sanghamitra Bandyopadhyay,ISI Kolkata,ANTS,1,0.0,2016
+Debabrata Das,IIIT Bangalore,ANTS,1,0.0,2016
+Debabrata Das,IIIT Bangalore,IEEE ANTS,1,0.0,2013
+Ashutosh Bhatia,BITS Pilani,ANTS,2,0.0,2019
+Bala Prakasa Rao Killi,National Institute of Technology Warangal,ANTS,1,0.0,2016
+Tricha Anjali,IIIT Bangalore,IEEE ANTS,1,0.0,2020
+Virendra Singh,IIT Bombay,ANTS,1,0.0,2021
+Vinti Agarwal,BITS Pilani,ANTS,1,0.0,2019
+G. N. Srinivasa Prasanna,IIIT Bangalore,ANTS,1,0.0,2021
+Debabrata Das,IIIT Bangalore,ANTS,1,0.0,2021
+Ashutosh Bhatia,BITS Pilani,IEEE ANTS,1,0.0,2020
+Sundar Balasubramaniam,BITS Pilani,IEEE ANTS,1,0.0,2015
+Ashutosh Bhatia,BITS Pilani,ANTS,1,0.0,2016
+Tricha Anjali,IIIT Bangalore,ANTS,1,0.0,2017
+Mandar Mitra,ISI Kolkata,NTCIR,1,0.0,2008
+Mandar Mitra,ISI Kolkata,EVIA@NTCIR,1,0.0,2007
+Pushpak Bhattacharya,IIT Bombay,EVIA@NTCIR,1,0.0,2007
+Mandar Mitra,ISI Kolkata,EVIA@NTCIR,1,0.0,2010
+Mandar Mitra,ISI Kolkata,EVIA@NTCIR,1,0.0,2008
+S. Akshay 0001,IIT Bombay,FMCAD,1,0.0,2019
+Supratik Chakraborty,IIT Bombay,FMCAD,1,0.0,2019
+Krishna Shankara Narayanan,IIT Bombay,FMCAD,1,0.0,2019
+Supratik Chakraborty,IIT Bombay,FMCAD,1,0.0,2018
+Amitabha Sanyal,IIT Bombay,FMCAD,1,0.0,2009
+Deepak D'Souza,IISc Bangalore,FMCAD,1,0.0,2023
+Supratik Chakraborty,IIT Bombay,FMCAD,1,0.0,2015
+S. Akshay 0001,IIT Bombay,FMCAD,1,0.0,2015
+Supratik Chakraborty,IIT Bombay,FMCAD,1,0.0,2021
+S. Akshay 0001,IIT Bombay,FMCAD,1,0.0,2021
+Sourav Chakraborty 0001,ISI Kolkata,FMCAD,1,0.0,2021
+Amit Dua,BITS Pilani,CSCWD,1,0.0,2015
+Kuldeep Kumar,BITS Pilani,AMCIS,1,0.0,2015
+Nikhil R. Pal,ISI Kolkata,iFUZZY,1,0.0,2020
+Preethi Jyothi,IIT Bombay,SLTU,1,0.0,2016
+Pushpak Bhattacharya,IIT Bombay,SLTU,1,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,SLTU,1,0.0,2010
+Pushpak Bhattacharya,IIT Bombay,SLTU-CCURL@LREC,1,0.0,2020
+Devashish Gosain,BITS Pilani-Goa,PAM (2),1,0.0,2024
+Devashish Gosain,BITS Pilani-Goa,PAM,1,0.0,2023
+Kameswari Chebrolu,IIT Bombay,PAM,1,0.0,2017
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO,1,0.0,2011
+Bhavana Kanukurthi,IISc Bangalore,CRYPTO (1),1,0.0,2022
+Arpita Patra,IISc Bangalore,CRYPTO (4),2,0.0,2022
+Chaya Ganesh,IISc Bangalore,CRYPTO (3),1,0.0,2018
+Palash Sarkar 0001,ISI Kolkata,CRYPTO,1,0.0,2002
+Bhavana Kanukurthi,IISc Bangalore,CRYPTO (3),1,0.0,2021
+Mridul Nandi,ISI Kolkata,CRYPTO (1),2,0.0,2018
+Mridul Nandi,ISI Kolkata,CRYPTO (2),1,0.0,2018
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO (2),1,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,CRYPTO (2),1,0.0,2021
+Bhavana Kanukurthi,IISc Bangalore,CRYPTO,1,0.0,2011
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO,1,0.0,2010
+Arpita Patra,IISc Bangalore,CRYPTO (2),1,0.0,2021
+Chaya Ganesh,IISc Bangalore,CRYPTO (1),1,0.0,2019
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO (2),1,0.0,2014
+Hariharan Narayanan,Tata Inst. of Fundamental Research,CRYPTO (2),1,0.0,2014
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO,1,0.0,2007
+Arpita Patra,IISc Bangalore,CRYPTO (2),1,0.0,2018
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO (2),1,0.0,2016
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO,1,0.0,2012
+Palash Sarkar 0001,ISI Kolkata,CRYPTO,1,0.0,2000
+Subhamoy Maitra,ISI Kolkata,CRYPTO,1,0.0,2000
+Arpita Patra,IISc Bangalore,CRYPTO,1,0.0,2009
+Ashish Choudhary,IIIT Bangalore,CRYPTO,1,0.0,2009
+Chaya Ganesh,IISc Bangalore,CRYPTO (3),1,0.0,2016
+Arpita Patra,IISc Bangalore,CRYPTO (1),1,0.0,2017
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO,2,0.0,2008
+Subhamoy Maitra,ISI Kolkata,CRYPTO,1,0.0,1999
+Palash Sarkar 0001,ISI Kolkata,CRYPTO,1,0.0,1999
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO (1),1,0.0,2015
+Manoj M. Prabhakaran,IIT Bombay,CRYPTO (1),1,0.0,2013
+Amit Dua,BITS Pilani,VG/PBG@SIGGRAPH,1,0.0,2008
+Amit Dua,BITS Pilani,SDS,1,0.0,2017
+Abhishek Mishra,BITS Pilani,ICA3PP (1),1,0.0,2020
+Ansuman Banerjee,ISI Kolkata,FACS,1,0.0,2013
+M. Narasimha Murty,IISc Bangalore,IDA,1,0.0,2011
+Arindam Khan 0001,IISc Bangalore,COSN,1,0.0,2014
+Meena Mahajan,IMSc,CSR,2,0.0,2007
+Samir Datta,CMI,CSR,1,0.0,2007
+Kamal Lodaya,IMSc,CSR,1,0.0,2022
+Saket Saurabh 0001,IMSc,CSR,3,0.0,2022
+Saket Saurabh 0001,IMSc,CSR,2,0.0,2020
+Sourav Chakraborty 0001,ISI Kolkata,CSR,2,0.0,2014
+Kamal Lodaya,IMSc,CSR,1,0.0,2006
+Kamal Lodaya,IMSc,CSR,2,0.0,2018
+Meena Mahajan,IMSc,CSR,2,0.0,2016
+Saket Saurabh 0001,IMSc,CSR,2,0.0,2019
+Geevarghese Philip,CMI,CSR,1,0.0,2020
+Kamal Lodaya,IMSc,CSR,1,0.0,2019
+Samir Datta,CMI,CSR,1,0.0,2021
+Pradeesha Ashok,IIIT Bangalore,CSR,1,0.0,2022
+Meena Mahajan,IMSc,CSR,1,0.0,2008
+Saket Saurabh 0001,IMSc,CSR,1,0.0,2018
+Kamal Lodaya,IMSc,CSR,1,0.0,2014
+Kamal Lodaya,IMSc,CSR,1,0.0,2009
+Saket Saurabh 0001,IMSc,CSR,1,0.0,2009
+Samir Datta,CMI,CSR,1,0.0,2020
+Kamal Lodaya,IMSc,CSR,1,0.0,2008
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,CSR,1,0.0,2019
+Partha Mukhopadhyay,CMI,CSR,1,0.0,2016
+Arkadev Chattopadhyay,Tata Inst. of Fundamental Research,CSR,1,0.0,2011
+Ansuman Banerjee,ISI Kolkata,MedInfo,1,0.0,2015
+Bhaskaran Raman,IIT Bombay,Pervasive,1,0.0,2002
+Subhamoy Maitra,ISI Kolkata,CT-RSA,1,0.0,2010
+Chaya Ganesh,IISc Bangalore,CT-RSA,1,0.0,2021
+Mridul Nandi,ISI Kolkata,CT-RSA,1,0.0,2017
+Manoj M. Prabhakaran,IIT Bombay,CT-RSA,1,0.0,2009
+Manoj M. Prabhakaran,IIT Bombay,CT-RSA,1,0.0,2011
+Mridul Nandi,ISI Kolkata,CT-RSA,1,0.0,2016
+Sanjit Chatterjee,IISc Bangalore,CT-RSA,1,0.0,2019
+Kamal Lodaya,IMSc,ESSLLI,1,0.0,2011
+M. Narasimha Murty,IISc Bangalore,SEAL,1,0.0,2010
+Swagatam Das,ISI Kolkata,SEAL,2,0.0,2010
+N. Raja,Tata Inst. of Fundamental Research,Ershov Memorial Conference,1,0.0,1996
+Shrisha Rao 0001,IIIT Bangalore,CCIS,1,0.0,2011
+Aditya Kanade,IISc Bangalore,ICRA,2,0.0,2002
+N. Viswanadham,IISc Bangalore,ICRA,1,0.0,1986
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,2021
+N. Viswanadham,IISc Bangalore,ICRA,2,0.0,1987
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,2003
+Shalabh Bhatnagar,IISc Bangalore,ICRA,1,0.0,2022
+Shishir Kolathaya,IISc Bangalore,ICRA,1,0.0,2022
+Shishir Kolathaya,IISc Bangalore,ICRA,1,0.0,2023
+Krithi Ramamritham,IIT Bombay,ICRA,1,0.0,2003
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,2000
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,1987
+Madhav Rao,IIIT Bangalore,ICRA,1,0.0,2021
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,1998
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,1994
+Aditya Kanade,IISc Bangalore,ICRA,1,0.0,1995
+Shishir Kolathaya,IISc Bangalore,ICRA,2,0.0,2014
+Shalabh Bhatnagar,IISc Bangalore,ICRA,1,0.0,2019
+Shishir Kolathaya,IISc Bangalore,ICRA,1,0.0,2019
+Shrisha Rao 0001,IIIT Bangalore,ICRA,1,0.0,2021
+Ansuman Banerjee,ISI Kolkata,MEMOCODE,1,0.0,2006
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,MEMOCODE,1,0.0,2019
+Aditya Kanade,IISc Bangalore,MEMOCODE,1,0.0,2016
+Ansuman Banerjee,ISI Kolkata,MEMOCODE,2,0.0,2023
+Ansuman Banerjee,ISI Kolkata,MEMOCODE,1,0.0,2019
+Sumana Ghosh,ISI Kolkata,MEMOCODE,1,0.0,2023
+Ansuman Banerjee,ISI Kolkata,MEMOCODE,1,0.0,2004
+Deepak D'Souza,IISc Bangalore,MEMOCODE,1,0.0,2014
+Ansuman Banerjee,ISI Kolkata,MEMOCODE,1,0.0,2020
+Mridul Nandi,ISI Kolkata,EUROCRYPT (4),1,0.0,2023
+Mridul Nandi,ISI Kolkata,EUROCRYPT (1),1,0.0,2018
+Bhavana Kanukurthi,IISc Bangalore,EUROCRYPT (3),1,0.0,2018
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT,1,0.0,2011
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (1),1,0.0,2023
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT (3),1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,EUROCRYPT (3),1,0.0,2022
+Mridul Nandi,ISI Kolkata,EUROCRYPT (1),1,0.0,2019
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT,1,0.0,2004
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT (1),1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,EUROCRYPT (2),1,0.0,2023
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT,1,0.0,2006
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (2),1,0.0,2022
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT (2),1,0.0,2016
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (1),1,0.0,2019
+Mridul Nandi,ISI Kolkata,EUROCRYPT (1),1,0.0,2020
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT (2),1,0.0,2019
+Palash Sarkar 0001,ISI Kolkata,EUROCRYPT,1,0.0,2000
+Subhamoy Maitra,ISI Kolkata,EUROCRYPT,1,0.0,2000
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT,1,0.0,2014
+Arpita Patra,IISc Bangalore,EUROCRYPT (2),1,0.0,2023
+Bhavana Kanukurthi,IISc Bangalore,EUROCRYPT,1,0.0,2009
+Palash Sarkar 0001,ISI Kolkata,EUROCRYPT (1),1,0.0,2016
+Manoj M. Prabhakaran,IIT Bombay,EUROCRYPT (2),1,0.0,2015
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (1),1,0.0,2015
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (3),1,0.0,2017
+Chaya Ganesh,IISc Bangalore,EUROCRYPT (2),1,0.0,2023
+Pushpak Bhattacharya,IIT Bombay,ALR@COLING,1,0.0,2012
+Pushpak Bhattacharya,IIT Bombay,ALR@IJCNLP,1,0.0,2008
+Kamal Lodaya,IMSc,CIAA,2,0.0,2000
+Kamal Lodaya,IMSc,CIAA,1,0.0,2019
+S. P. Suresh,CMI,CIAA,1,0.0,2019
+Goutam Paul 0001,ISI Kolkata,RC,1,0.0,2017
+Susmita Sur-Kolay,ISI Kolkata,RC,1,0.0,2017
+Rushikesh Joshi,IIT Bombay,OTM,1,0.0,2002
+Srinath Srinivasa,IIIT Bangalore,CoopIS,1,0.0,1999
+Pushpak Bhattacharya,IIT Bombay,Sanskrit Computational Linguistics,1,0.0,2010
+Pushpak Bhattacharya,IIT Bombay,Sanskrit Computational Linguistics,1,0.0,2008
+Shrisha Rao 0001,IIIT Bangalore,Sanskrit Computational Linguistics,1,0.0,2010
+Swati Agarwal 0001,BITS Pilani-Goa,TRIDENTCOM,1,0.0,2019
+Tricha Anjali,IIIT Bangalore,TRIDENTCOM,1,0.0,2010
+Amit Dua,BITS Pilani,ISWPC,1,0.0,2013
+Manish Gupta 0001,IIIT Bangalore,ASONAM,2,0.0,2011
+Manish Gupta 0001,IIIT Bangalore,ASONAM,1,0.0,2021
+Manish Gupta 0001,IIIT Bangalore,ASONAM,4,0.0,2017
+Kuntal Ghosh,ISI Kolkata,ASONAM,1,0.0,2021
+Kuntal Ghosh,ISI Kolkata,ASONAM,1,0.0,2023
+Manish Gupta 0001,IIIT Bangalore,ASONAM,1,0.0,2010
+Manish Gupta 0001,IIIT Bangalore,ASONAM,1,0.0,2013
+Manish Gupta 0001,IIIT Bangalore,ASONAM,1,0.0,2015
+Vinti Agarwal,BITS Pilani,ASONAM,1,0.0,2012
+Yashvardhan Sharma,BITS Pilani,ASONAM,1,0.0,2017
+Rushikesh Joshi,IIT Bombay,ICSA Companion,1,0.0,2018
+Neena Goveas,BITS Pilani-Goa,ICSA-C,1,0.0,2023
+G. N. Srinivasa Prasanna,IIIT Bangalore,VSS,2,0.0,2012
+G. N. Srinivasa Prasanna,IIIT Bangalore,VSS,1,0.0,2018
+Utpal Garain,ISI Kolkata,eHealth 360°,1,0.0,2016
+Raghavan Komondoor,IISc Bangalore,SANER,1,0.0,2015
+Raghavan Komondoor,IISc Bangalore,WCRE,1,0.0,2013
+Deepak D'Souza,IISc Bangalore,WCRE,1,0.0,2013
+Raghavan Komondoor,IISc Bangalore,WCRE,2,0.0,2007
+Raghavan Komondoor,IISc Bangalore,SANER,1,0.0,2023
+Aditya Kanade,IISc Bangalore,International Conference on Computational Science (3),1,0.0,2006
+Hemant Rathore,BITS Pilani-Goa,ICCS (5),1,0.0,2023
+Sanjay K. Sahay,BITS Pilani-Goa,ICCS (5),1,0.0,2023
+G. N. Srinivasa Prasanna,IIIT Bangalore,International Conference on Computational Science,1,0.0,2004
+Vijay Natarajan,IISc Bangalore,ICCS (2),1,0.0,2020
+Hemant Rathore,BITS Pilani-Goa,ICCS (2),1,0.0,2023
+Sanjay K. Sahay,BITS Pilani-Goa,ICCS (2),1,0.0,2023
+Santonu Sarkar,BITS Pilani-Goa,ICCS,1,0.0,2014
+Umesh Bellur,IIT Bombay,ICCS,1,0.0,2014
+Varsha Apte,IIT Bombay,ICPE Companion,1,0.0,2016
+Varsha Apte,IIT Bombay,WOSP,1,0.0,2007
+Umesh Bellur,IIT Bombay,WOSP,1,0.0,2004
+Varsha Apte,IIT Bombay,ICPE Companion,1,0.0,2019
+Varsha Apte,IIT Bombay,ICPE Companion,1,0.0,2017
+Varsha Apte,IIT Bombay,WOSP,1,0.0,2008
+Varsha Apte,IIT Bombay,ICPE,1,0.0,2014
+Varsha Apte,IIT Bombay,ICPE,1,0.0,2017
+Vinay J. Ribeiro,IIT Bombay,ICPE,1,0.0,2021
+Umesh Bellur,IIT Bombay,ICPE,1,0.0,2021
+Puru Kulkarni,IIT Bombay,ICPE,1,0.0,2013
+Umesh Bellur,IIT Bombay,ICPE,1,0.0,2013
+R. Govindarajan,IISc Bangalore,ICPE,1,0.0,2015
+Puru Kulkarni,IIT Bombay,ICPE,1,0.0,2021
+Sangharatna Godboley,National Institute of Technology Warangal,ENASE,1,0.0,2021
+Sangharatna Godboley,National Institute of Technology Warangal,ENASE,3,0.0,2023
+P. Radha Krishna 0001,National Institute of Technology Warangal,ENASE,1,0.0,2023
+Sangharatna Godboley,National Institute of Technology Warangal,ENASE,1,0.0,2022
+B. B. Amberker,National Institute of Technology Warangal,ICDP,1,0.0,2013
+Sanjay K. Sahay,BITS Pilani-Goa,EANN,1,0.0,2020
+Krithi Ramamritham,IIT Bombay,Symposium on Reliability in Distributed Software and Database Systems,1,0.0,1983
+Om P. Damani,IIT Bombay,SRDS,1,0.0,1999
+Sasthi C. Ghosh 0001,ISI Kolkata,ICWN,2,0.0,2009
+Biju K. Raveendran,BITS Pilani-Goa,Asia-Pacific Computer Systems Architecture Conference,1,0.0,2006
+Sundar Balasubramaniam,BITS Pilani,Asia-Pacific Computer Systems Architecture Conference,1,0.0,2006
+Biswa,IIT Bombay,SEED,1,0.0,2022
+Srinath Srinivasa,IIIT Bangalore,AACC,1,0.0,2004
+Debabrata Das,IIIT Bangalore,AACC,1,0.0,2004
+G. N. Srinivasa Prasanna,IIIT Bangalore,CCTA,2,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,CCTA,1,0.0,2019
+Krithi Ramamritham,IIT Bombay,MobiDE,1,0.0,2005
+Krithi Ramamritham,IIT Bombay,MobiDE,1,0.0,1999
+Vinayak Naik,BITS Pilani-Goa,NSDR,1,0.0,2010
+Vinayak Naik,BITS Pilani-Goa,NSDR,1,0.0,2011
+Debabrata Das,IIIT Bangalore,NSDR,1,0.0,2007
+Bhaskaran Raman,IIT Bombay,NSDR,1,0.0,2011
+Bhaskaran Raman,IIT Bombay,NSDR,1,0.0,2012
+Kameswari Chebrolu,IIT Bombay,NSDR,1,0.0,2007
+Bhaskaran Raman,IIT Bombay,NSDR,1,0.0,2007
+Nikhil R. Pal,ISI Kolkata,EUSFLAT/IWIFSGN (2),1,0.0,2017
+Nikhil R. Pal,ISI Kolkata,IFSA-EUSFLAT,1,0.0,2015
+Sasthi C. Ghosh 0001,ISI Kolkata,Mobility Conference,1,0.0,2008
+Kamal Lodaya,IMSc,CASC,1,0.0,2016
+Aditya Kanade,IISc Bangalore,CASC,1,0.0,2012
+Aditya Kanade,IISc Bangalore,CASC,1,0.0,2010
+B. B. Amberker,National Institute of Technology Warangal,SSCC,1,0.0,2015
+B. B. Amberker,National Institute of Technology Warangal,SSCC,2,0.0,2013
+Ilaiah Kavati,National Institute of Technology Warangal,SSCC,2,0.0,2013
+Kamlesh Tiwari,BITS Pilani,SSCC,1,0.0,2015
+Mandar Mitra,ISI Kolkata,ICDS,1,0.0,2007
+Hariharan Narayanan,Tata Inst. of Fundamental Research,EMSOFT,1,0.0,2016
+Aditya Kanade,IISc Bangalore,EMSOFT,1,0.0,2008
+Krithi Ramamritham,IIT Bombay,EMSOFT,1,0.0,2004
+Partha P. Talukdar,IISc Bangalore,SSW,1,0.0,2004
+Sasthi C. Ghosh 0001,ISI Kolkata,ICMC,1,0.0,2021
+Om P. Damani,IIT Bombay,Workshop on Parallel and Distributed Simulation,1,0.0,1997
+Om P. Damani,IIT Bombay,Workshop on Parallel and Distributed Simulation,1,0.0,1998
+Shishir Kolathaya,IISc Bangalore,ECC,1,0.0,2022
+Jagtap Pushpak,IISc Bangalore,ECC,1,0.0,2023
+G. N. Srinivasa Prasanna,IIIT Bangalore,ECC,1,0.0,2021
+Shrisha Rao 0001,IIIT Bangalore,ECC,1,0.0,2021
+Bhabatosh Chanda,ISI Kolkata,ISMM,1,0.0,2013
+Sravan Danda,BITS Pilani-Goa,ISMM,1,0.0,2017
+Aditya Challa,BITS Pilani-Goa,ISMM,1,0.0,2017
+U. Pal 0001,ISI Kolkata,SACH,1,0.0,2006
+M. Praveen,CMI,MFCS,1,0.0,2010
+Meena Mahajan,IMSc,MFCS (2),1,0.0,2015
+Arindam Khan 0001,IISc Bangalore,MFCS,1,0.0,2020
+Saket Saurabh 0001,IMSc,MFCS,2,0.0,2023
+Kamal Lodaya,IMSc,MFCS,1,0.0,1993
+Pranab Sen,Tata Inst. of Fundamental Research,MFCS,1,0.0,2003
+Saket Saurabh 0001,IMSc,MFCS,2,0.0,2022
+Kamal Lodaya,IMSc,MFCS,2,0.0,2010
+S. P. Suresh,CMI,MFCS,1,0.0,2010
+Kamal Lodaya,IMSc,MFCS,2,0.0,2012
+Chandan Saha 0001,IISc Bangalore,MFCS,1,0.0,2019
+Hariharan Narayanan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2019
+Madhavan Mukund,CMI,MFCS,1,0.0,2000
+K. Narayan Kumar,CMI,MFCS,1,0.0,2000
+Samir Datta,CMI,MFCS,2,0.0,2021
+Partha Mukhopadhyay,CMI,MFCS,1,0.0,2012
+Prajakta Nimbhorkar,CMI,MFCS,1,0.0,2012
+Samir Datta,CMI,MFCS,2,0.0,2016
+Madhavan Mukund,CMI,MFCS,1,0.0,2003
+K. Narayan Kumar,CMI,MFCS,1,0.0,2003
+Arijit Ghosh,ISI Kolkata,MFCS,1,0.0,2017
+Kamal Lodaya,IMSc,MFCS,1,0.0,2021
+Partha Mukhopadhyay,CMI,MFCS,1,0.0,2021
+Saket Saurabh 0001,IMSc,MFCS,1,0.0,2018
+Kamal Lodaya,IMSc,MFCS,1,0.0,2023
+Hariharan Narayanan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2021
+Samir Datta,CMI,MFCS,1,0.0,2011
+Meena Mahajan,IMSc,MFCS,1,0.0,2011
+Saket Saurabh 0001,IMSc,MFCS (2),1,0.0,2014
+Meena Mahajan,IMSc,MFCS,1,0.0,2013
+Kamal Lodaya,IMSc,MFCS,2,0.0,2016
+Saket Saurabh 0001,IMSc,MFCS,1,0.0,2016
+Saket Saurabh 0001,IMSc,MFCS,1,0.0,2008
+Kamal Lodaya,IMSc,MFCS,1,0.0,2006
+Kamal Lodaya,IMSc,MFCS,1,0.0,2009
+Saket Saurabh 0001,IMSc,MFCS,1,0.0,2012
+Saket Saurabh 0001,IMSc,MFCS,3,0.0,2020
+Arkadev Chattopadhyay,Tata Inst. of Fundamental Research,MFCS,1,0.0,2023
+Meena Mahajan,IMSc,MFCS,1,0.0,2023
+Saket Saurabh 0001,IMSc,MFCS,2,0.0,2019
+S. Akshay 0001,IIT Bombay,MFCS,1,0.0,2016
+Krishna Shankara Narayanan,IIT Bombay,MFCS,1,0.0,2016
+Meena Mahajan,IMSc,MFCS,1,0.0,2008
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2020
+Kamal Lodaya,IMSc,MFCS (2),2,0.0,2015
+Aiswarya Cyriac,CMI,MFCS,1,0.0,2011
+Saket Saurabh 0001,IMSc,MFCS,2,0.0,2017
+Supratik Chakraborty,IIT Bombay,MFCS,1,0.0,2022
+S. Akshay 0001,IIT Bombay,MFCS,1,0.0,2022
+Kamal Lodaya,IMSc,MFCS,1,0.0,2022
+Krishna Shankara Narayanan,IIT Bombay,MFCS,1,0.0,2019
+Hariharan Narayanan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2018
+Kamal Lodaya,IMSc,MFCS,1,0.0,2017
+Partha Mukhopadhyay,CMI,MFCS,1,0.0,2017
+Geevarghese Philip,CMI,MFCS,1,0.0,2011
+Chandan Saha 0001,IISc Bangalore,MFCS,1,0.0,2020
+Meena Mahajan,IMSc,MFCS,1,0.0,2017
+Prajakta Nimbhorkar,CMI,MFCS,1,0.0,2017
+Kamal Lodaya,IMSc,MFCS,2,0.0,2020
+Partha Mukhopadhyay,CMI,MFCS,1,0.0,2020
+Kamal Lodaya,IMSc,MFCS,1,0.0,2019
+Partha Mukhopadhyay,CMI,MFCS (2),1,0.0,2014
+Samir Datta,CMI,MFCS,1,0.0,2023
+Geevarghese Philip,CMI,MFCS (2),1,0.0,2015
+Saket Saurabh 0001,IMSc,MFCS (2),1,0.0,2015
+Krishna Shankara Narayanan,IIT Bombay,MFCS,1,0.0,2017
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,MFCS,1,0.0,2017
+S. Akshay 0001,IIT Bombay,MFCS,1,0.0,2017
+Samir Datta,CMI,MFCS (2),1,0.0,2014
+Samir Datta,CMI,MFCS,1,0.0,2010
+Meena Mahajan,IMSc,MFCS,1,0.0,2010
+Geevarghese Philip,CMI,MFCS,1,0.0,2020
+Saket Saurabh 0001,IMSc,MFCS,1,0.0,2013
+Madhavan Mukund,CMI,MFCS,1,0.0,1996
+Sasanka Roy,ISI Kolkata,MFCS,1,0.0,2006
+Sandip Das 0001,ISI Kolkata,MFCS,1,0.0,2006
+Subhas C. Nandy,ISI Kolkata,MFCS,1,0.0,2006
+Meena Mahajan,IMSc,MFCS,1,0.0,2012
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,MFCS,1,0.0,2003
+Bharat Adsul,IIT Bombay,MFCS (1),1,0.0,2014
+Supratik Chakraborty,IIT Bombay,MFCS (1),1,0.0,2014
+Sandeep Juneja,Tata Inst. of Fundamental Research,VALUETOOLS,2,0.0,2012
+Shishir Kolathaya,IISc Bangalore,VALUETOOLS,1,0.0,2023
+Gugan Thoppe,IISc Bangalore,VALUETOOLS,1,0.0,2023
+Gugan Thoppe,IISc Bangalore,VALUETOOLS,1,0.0,2020
+Amitabha Sanyal,IIT Bombay,VALUETOOLS,1,0.0,2008
+Sandeep Juneja,Tata Inst. of Fundamental Research,VALUETOOLS,1,0.0,2009
+Varsha Apte,IIT Bombay,VALUETOOLS,1,0.0,2014
+Preethi Jyothi,IIT Bombay,ICPhS,1,0.0,2015
+Mythili Vutukuru,IIT Bombay,SOSR,1,0.0,2022
+Mythili Vutukuru,IIT Bombay,SOSR,1,0.0,2020
+Puru Kulkarni,IIT Bombay,SOSR,1,0.0,2020
+Rajat K. De,ISI Kolkata,BCB,1,0.0,2011
+Krishna Shankara Narayanan,IIT Bombay,IFM,1,0.0,2013
+Om P. Damani,IIT Bombay,IFM,1,0.0,2014
+Mandar Mitra,ISI Kolkata,CIRCLE,1,0.0,2022
+Sujith Thomas,BITS Pilani-Goa,CogSci,2,0.0,2020
+Sujith Thomas,BITS Pilani-Goa,CogSci,1,0.0,2016
+Goutam Paul 0001,ISI Kolkata,AAECC,1,0.0,2007
+Subhamoy Maitra,ISI Kolkata,AAECC,2,0.0,2007
+Subhamoy Maitra,ISI Kolkata,AAECC,1,0.0,2009
+Goutam Paul 0001,ISI Kolkata,AAECC,1,0.0,2009
+P. Vijay Kumar,IISc Bangalore,AAECC,1,0.0,1993
+Kuldeep Kumar,BITS Pilani,FedCSIS,1,0.0,2016
+Sangharatna Godboley,National Institute of Technology Warangal,FedCSIS,1,0.0,2016
+Sushmita Mitra,ISI Kolkata,FedCSIS (Position Papers),1,0.0,2023
+Madhav Rao,IIIT Bangalore,BHI,1,0.0,2022
+Rahul Banerjee,BITS Pilani,BHI,1,0.0,2012
+Ashish Ghosh,ISI Kolkata,ECMS,1,0.0,2011
+Kishan Chand Gupta,ISI Kolkata,ICICS,1,0.0,2001
+Subhamoy Maitra,ISI Kolkata,ICICS,1,0.0,2001
+Subhamoy Maitra,ISI Kolkata,ICICS,2,0.0,2002
+Palash Sarkar 0001,ISI Kolkata,ICICS,1,0.0,2004
+Dipti Prasad Mukherjee,ISI Kolkata,MICCAI (2),1,0.0,2015
+Suyash P. Awate,IIT Bombay,MICCAI (1),1,0.0,2016
+Suyash P. Awate,IIT Bombay,MICCAI (1),3,0.0,2009
+Suyash P. Awate,IIT Bombay,MBIA,1,0.0,2012
+Suyash P. Awate,IIT Bombay,MICCAI (2),1,0.0,2011
+Suyash P. Awate,IIT Bombay,MICCAI (1),2,0.0,2018
+Suyash P. Awate,IIT Bombay,MICCAI (2),1,0.0,2005
+Ashwin Srinivasan 0001,BITS Pilani-Goa,TIA@MICCAI,1,0.0,2020
+Ashwin Srinivasan 0001,BITS Pilani-Goa,iMIMIC/MIL3ID/LABELS@MICCAI,1,0.0,2020
+Suyash P. Awate,IIT Bombay,MICCAI (1),2,0.0,2007
+Suyash P. Awate,IIT Bombay,MLMI,1,0.0,2011
+Sharat Chandran,IIT Bombay,MICCAI (1),1,0.0,2009
+Ganesh Ramakrishnan,IIT Bombay,MILLanD@MICCAI,2,0.0,2022
+Utpal Garain,ISI Kolkata,MICCAI (2),1,0.0,2018
+Suyash P. Awate,IIT Bombay,MICCAI (1),1,0.0,2008
+Suyash P. Awate,IIT Bombay,MICCAI (5),1,0.0,2019
+Sushmita Mitra,ISI Kolkata,BrainLes@MICCAI (2),1,0.0,2018
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2012
+Utpal Garain,ISI Kolkata,OR 2.0/CARE/CLIP/ISIC@MICCAI,1,0.0,2018
+Dipti Prasad Mukherjee,ISI Kolkata,MICCAI (1),1,0.0,2013
+Ajit Rajwade 0001,IIT Bombay,MICCAI (3),1,0.0,2017
+Sharat Chandran,IIT Bombay,MICCAI (3),1,0.0,2017
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2017
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2016
+Pradipta Maji,ISI Kolkata,BrainLes@MICCAI,1,0.0,2017
+Kuldeep Kumar,BITS Pilani,MLMI,1,0.0,2015
+Sushmita Mitra,ISI Kolkata,BrainLes@MICCAI (1),1,0.0,2018
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2019
+Kuldeep Kumar,BITS Pilani,GRAIL/MFCA/MICGen@MICCAI,1,0.0,2017
+Suyash P. Awate,IIT Bombay,MICCAI (4),1,0.0,2018
+Suyash P. Awate,IIT Bombay,MBIA,1,0.0,2013
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2014
+Suyash P. Awate,IIT Bombay,MICCAI (3),1,0.0,2015
+Krithi Ramamritham,IIT Bombay,EWSN,1,0.0,2008
+Puru Kulkarni,IIT Bombay,EWSN,1,0.0,2008
+Puru Kulkarni,IIT Bombay,EWSN,1,0.0,2007
+Lavika Goel,BITS Pilani,IC3,1,0.0,2013
+Lavika Goel,BITS Pilani,IC3,1,0.0,2016
+G. N. Srinivasa Prasanna,IIIT Bangalore,IC3,1,0.0,2014
+Vinayak Naik,BITS Pilani-Goa,IC3,1,0.0,2014
+Mukesh Kumar Rohil,BITS Pilani,IC3,1,0.0,2012
+Sanjaya K. Panda,National Institute of Technology Warangal,IC3,3,0.0,2022
+Amit Dua,BITS Pilani,IC3,1,0.0,2019
+Lavika Goel,BITS Pilani,IC3,1,0.0,2012
+Sanjaya K. Panda,National Institute of Technology Warangal,IC3,1,0.0,2014
+Swagatam Das,ISI Kolkata,IC3,1,0.0,2011
+Amit Dua,BITS Pilani,IC3,1,0.0,2015
+Avinash Gautam,BITS Pilani,IC3,1,0.0,2013
+Sudeept Mohan,BITS Pilani,IC3,1,0.0,2013
+Amit Dua,BITS Pilani,IC3,1,0.0,2013
+J. P. Misra,BITS Pilani,IC3,1,0.0,2016
+Sudeept Mohan,BITS Pilani,IC3,2,0.0,2014
+Navneet Goyal,BITS Pilani,IC3,2,0.0,2011
+B. B. Amberker,National Institute of Technology Warangal,IC3,1,0.0,2009
+Avinash Gautam,BITS Pilani,IC3,1,0.0,2014
+Utpal Garain,ISI Kolkata,Diagrams,1,0.0,2008
+Pushpak Bhattacharya,IIT Bombay,MTSummit,1,0.0,2005
+Pushpak Bhattacharya,IIT Bombay,MTSummit (1),4,0.0,2021
+Pushpak Bhattacharya,IIT Bombay,MTSummit (1),1,0.0,2017
+Pushpak Bhattacharya,IIT Bombay,MTSummit,1,0.0,2007
+Om P. Damani,IIT Bombay,MTSummit,1,0.0,2007
+Mythili Vutukuru,IIT Bombay,NFV-SDN,2,0.0,2016
+Mythili Vutukuru,IIT Bombay,NFV-SDN,2,0.0,2017
+Vinod Ganapathy,IISc Bangalore,CCS,2,0.0,2005
+B. B. Amberker,National Institute of Technology Warangal,AsiaPKC@AsiaCCS,1,0.0,2013
+Goutam Paul 0001,ISI Kolkata,ASHES@CCS,1,0.0,2022
+Arpita Patra,IISc Bangalore,CCS,1,0.0,2019
+Arpita Patra,IISc Bangalore,CCS,1,0.0,2018
+Vinod Ganapathy,IISc Bangalore,CCSW,1,0.0,2012
+Vinod Ganapathy,IISc Bangalore,CCS,2,0.0,2012
+Vinod Ganapathy,IISc Bangalore,PLAS@CCS,1,0.0,2017
+Arpita Patra,IISc Bangalore,CCS,3,0.0,2022
+Ashish Choudhary,IIIT Bangalore,CCSW,1,0.0,2019
+Arpita Patra,IISc Bangalore,CCSW,1,0.0,2019
+Palash Sarkar 0001,ISI Kolkata,AsiaCCS,1,0.0,2009
+Rashmi Ranjan Rout,National Institute of Technology Warangal,AsiaCCS,1,0.0,2020
+Durvasula V. L. N. Somayajulu,National Institute of Technology Warangal,AsiaCCS,1,0.0,2020
+Goutam Paul 0001,ISI Kolkata,ASHES@CCS,1,0.0,2020
+Devashish Gosain,BITS Pilani-Goa,CCS,1,1.0,2022
+Manoj M. Prabhakaran,IIT Bombay,CCS,1,0.0,2014
+Arpita Patra,IISc Bangalore,AsiaCCS,1,0.0,2009
+Ashish Choudhary,IIIT Bangalore,AsiaCCS,1,0.0,2009
+Vinod Ganapathy,IISc Bangalore,CCS,1,0.0,2020
+Arijit Bishnu,ISI Kolkata,AsiaCCS,1,0.0,2019
+Vinod Ganapathy,IISc Bangalore,CCS,1,0.0,2008
+Vinod Ganapathy,IISc Bangalore,SPSM@CCS,1,0.0,2012
+Sumana Ghosh,ISI Kolkata,CPSIOTSEC@CCS,1,0.0,2020
+Chaya Ganesh,IISc Bangalore,CCS,1,0.0,2022
+Bhavana Kanukurthi,IISc Bangalore,CCS,1,0.0,2022
+Vinod Ganapathy,IISc Bangalore,CCS,1,0.0,2003
+Vinod Ganapathy,IISc Bangalore,CCS,1,0.0,2023
+Navneet Goyal,BITS Pilani,DSAA,4,0.0,2023
+Ashwin Srinivasan 0001,BITS Pilani-Goa,DSAA,1,0.0,2015
+Sundar Balasubramaniam,BITS Pilani,DSAA,1,0.0,2019
+Navneet Goyal,BITS Pilani,DSAA,2,0.0,2019
+Swati Agarwal 0001,BITS Pilani-Goa,DSAA,1,0.0,2022
+Navneet Goyal,BITS Pilani,DSAA,2,0.0,2016
+Sundar Balasubramaniam,BITS Pilani,DSAA,1,0.0,2016
+Sundar Balasubramaniam,BITS Pilani,DSAA,1,0.0,2018
+Navneet Goyal,BITS Pilani,DSAA,2,0.0,2018
+Ganesh Ramakrishnan,IIT Bombay,LaTiCE,1,0.0,2015
+Sridhar Iyer,IIT Bombay,LaTiCE,2,0.0,2016
+Sridhar Iyer,IIT Bombay,LaTiCE,1,0.0,2015
+Kavi Arya,IIT Bombay,LaTiCE,1,0.0,2016
+Deepak D'Souza,IISc Bangalore,SPIN,1,0.0,2003
+Madhavan Mukund,CMI,SPIN,1,0.0,2003
+Aditya Kanade,IISc Bangalore,SPIN,1,0.0,2001
+Madhavan Mukund,CMI,SPIN,1,0.0,2005
+S. P. Suresh,CMI,SPIN,1,0.0,2005
+Sanghamitra Bandyopadhyay,ISI Kolkata,FLAIRS,1,0.0,2002
+Swagatam Das,ISI Kolkata,CISIS,1,0.0,2009
+G. N. Srinivasa Prasanna,IIIT Bangalore,CISIS-ICEUTE,1,0.0,2021
+Debabrata Das,IIIT Bangalore,CISIS-ICEUTE,1,0.0,2021
+P. Vijay Kumar,IISc Bangalore,ITW,1,0.0,2002
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2013
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,3,0.0,2014
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW Fall,1,0.0,2015
+P. Vijay Kumar,IISc Bangalore,ITW,1,0.0,2015
+P. Vijay Kumar,IISc Bangalore,ITW,3,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,3,0.0,2009
+Abhishek Sinha,Tata Inst. of Fundamental Research,ITW,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,2,0.0,2019
+Manoj M. Prabhakaran,IIT Bombay,ITW,1,0.0,2012
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,2,0.0,2012
+Subhamoy Maitra,ISI Kolkata,ITW,1,0.0,2002
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2021
+Aditya Kanade,IISc Bangalore,ITW,1,0.0,2013
+Arijit Bishnu,ISI Kolkata,ITW,1,0.0,2002
+Pranab Sen,Tata Inst. of Fundamental Research,ITW,1,0.0,2021
+Arijit Bishnu,ISI Kolkata,ITW,1,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2018
+Arijit Bishnu,ISI Kolkata,ITW,1,0.0,2013
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2011
+P. Vijay Kumar,IISc Bangalore,ITW,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ITW,1,0.0,2015
+Shrisha Rao 0001,IIIT Bangalore,SOLI,1,0.0,2017
+Vinod Ganapathy,IISc Bangalore,SecureComm,1,0.0,2011
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SecureComm,1,0.0,2008
+Devashish Gosain,BITS Pilani-Goa,SecureComm,1,0.0,2017
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,SecureComm,1,0.0,2006
+Swagatam Das,ISI Kolkata,ICHSA,1,0.0,2017
+Vijay Natarajan,IISc Bangalore,SMI,1,0.0,2005
+Vijay Natarajan,IISc Bangalore,SMI,1,0.0,2006
+Nikhil R. Pal,ISI Kolkata,AIPR,1,0.0,2010
+Kuntal Ghosh,ISI Kolkata,WAPCV,1,0.0,2007
+Aditya Kanade,IISc Bangalore,ARES,1,0.0,2006
+Sanjay K. Sahay,BITS Pilani-Goa,ARES,1,0.0,2018
+Hemant Rathore,BITS Pilani-Goa,ARES,1,0.0,2018
+Kishan Chand Gupta,ISI Kolkata,CD-ARES Workshops,1,0.0,2013
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,ARES,1,0.0,2006
+Swagatam Das,ISI Kolkata,NaBIC,6,0.0,2009
+Ashish Ghosh,ISI Kolkata,NaBIC,2,0.0,2009
+Swagatam Das,ISI Kolkata,NaBIC,1,0.0,2010
+Arijit Ghosh,ISI Kolkata,NaBIC,1,0.0,2009
+Arijit Bishnu,ISI Kolkata,NaBIC,1,0.0,2009
+Lavika Goel,BITS Pilani,NaBIC,1,0.0,2012
+G. Sivakumar,IIT Bombay,ALP,1,0.0,1990
+Debrup Chakraborty,ISI Kolkata,IFSA (1),1,0.0,2007
+Nikhil R. Pal,ISI Kolkata,IFSA (1),1,0.0,2007
+Madhavan Mukund,CMI,Partial Order Methods in Verification,1,0.0,1996
+Chandrashekar Ramanathan,IIIT Bangalore,MLDM,1,0.0,2014
+G. N. Srinivasa Prasanna,IIIT Bangalore,MLDM,2,0.0,2016
+V. N. Muralidhara,IIIT Bangalore,MLDM,2,0.0,2016
+Aditya Kanade,IISc Bangalore,MLDM,1,0.0,2016
+M. Narasimha Murty,IISc Bangalore,MLDM,1,0.0,2013
+Sanjay K. Sahay,BITS Pilani-Goa,MLDM,1,0.0,2015
+G. N. Srinivasa Prasanna,IIIT Bangalore,MLDM,1,0.0,2014
+Sanghamitra Bandyopadhyay,ISI Kolkata,MLDM,1,0.0,2012
+G. N. Srinivasa Prasanna,IIIT Bangalore,SemREC@ISWC,1,0.0,2021
+Ganesh Ramakrishnan,IIT Bombay,ISWC (Posters & Demos),1,0.0,2013
+Srinath Srinivasa,IIIT Bangalore,"ISWC (Posters, Demos & Industry Tracks)",1,0.0,2017
+Ganesh Ramakrishnan,IIT Bombay,ISWC (1),1,0.0,2019
+Ganesh Ramakrishnan,IIT Bombay,ISWC (1),1,0.0,2016
+Srinath Srinivasa,IIIT Bangalore,WebSci,1,0.0,2015
+Manish Gupta 0001,IIIT Bangalore,WebSci,1,0.0,2019
+Srinath Srinivasa,IIIT Bangalore,WebSci (Companion),1,0.0,2021
+Manish Gupta 0001,IIIT Bangalore,WebSci,1,0.0,2018
+Manish Gupta 0001,IIIT Bangalore,WebSci,1,0.0,2021
+Srikanth T. K,IIIT Bangalore,WebSci (Companion),2,0.0,2021
+Nikhil R. Pal,ISI Kolkata,ICAISC (1),1,0.0,2014
+Mridul Nandi,ISI Kolkata,FSE,1,0.0,2005
+Subhamoy Maitra,ISI Kolkata,FSE,1,0.0,2014
+Goutam Paul 0001,ISI Kolkata,FSE,1,0.0,2014
+Subhamoy Maitra,ISI Kolkata,FSE,2,0.0,2004
+Palash Sarkar 0001,ISI Kolkata,FSE,1,0.0,2004
+Debrup Chakraborty,ISI Kolkata,FSE,1,0.0,2006
+Palash Sarkar 0001,ISI Kolkata,FSE,1,0.0,2006
+Goutam Paul 0001,ISI Kolkata,FSE,1,0.0,2016
+Kishan Chand Gupta,ISI Kolkata,FSE,1,0.0,2005
+Subhamoy Maitra,ISI Kolkata,FSE,1,0.0,2005
+Mridul Nandi,ISI Kolkata,FSE,2,0.0,2010
+Pinakpani Pal,ISI Kolkata,FSE,1,0.0,2003
+Palash Sarkar 0001,ISI Kolkata,FSE,1,0.0,2003
+Subhamoy Maitra,ISI Kolkata,FSE,1,0.0,2008
+Goutam Paul 0001,ISI Kolkata,FSE,1,0.0,2008
+Mridul Nandi,ISI Kolkata,FSE,1,0.0,2009
+Kishan Chand Gupta,ISI Kolkata,FSE,1,0.0,2006
+Mridul Nandi,ISI Kolkata,FSE,1,0.0,2014
+Subhamoy Maitra,ISI Kolkata,FSE,1,0.0,2011
+Goutam Paul 0001,ISI Kolkata,FSE,1,0.0,2011
+Debrup Chakraborty,ISI Kolkata,FSE,1,0.0,2008
+Mridul Nandi,ISI Kolkata,FSE,2,0.0,2008
+Mridul Nandi,ISI Kolkata,FSE,1,0.0,2011
+Sougata Sen,BITS Pilani-Goa,PerCom Workshops,2,0.0,2015
+G. N. Srinivasa Prasanna,IIIT Bangalore,PerCom Workshops,1,0.0,2004
+Krithi Ramamritham,IIT Bombay,PerCom Workshops,1,0.0,2004
+Vinayak Naik,BITS Pilani-Goa,PerCom Workshops,2,0.0,2013
+Surjya Ghosh,BITS Pilani-Goa,PerCom,1,0.0,2020
+Hemant Rathore,BITS Pilani-Goa,PerCom Workshops,1,0.0,2021
+Sanjay K. Sahay,BITS Pilani-Goa,PerCom Workshops,1,0.0,2021
+Sanjay K. Sahay,BITS Pilani-Goa,PerCom Workshops,1,0.0,2022
+Hemant Rathore,BITS Pilani-Goa,PerCom Workshops,1,0.0,2022
+Sougata Sen,BITS Pilani-Goa,PerCom Workshops,3,0.0,2022
+Sougata Sen,BITS Pilani-Goa,PerCom,1,0.0,2015
+Pratik Narang,BITS Pilani,PerCom Workshops,1,0.0,2023
+Surjya Ghosh,BITS Pilani-Goa,PerCom Workshops,1,0.0,2022
+Sougata Sen,BITS Pilani-Goa,PerCom Workshops,1,0.0,2017
+Sougata Sen,BITS Pilani-Goa,PerCom Workshops,1,0.0,2016
+Vinayak Naik,BITS Pilani-Goa,PerCom Workshops,1,0.0,2021
+Sougata Sen,BITS Pilani-Goa,PerCom,1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,PerCom Workshops,1,0.0,2005
+Dinesh Babu J.,IIIT Bangalore,GazeIn@ICMI,1,0.0,2013
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2022
+Dinesh Babu J.,IIIT Bangalore,MIE@ICMI,2,0.0,2017
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2020
+Dinesh Babu J.,IIIT Bangalore,ICMI,2,0.0,2008
+Dinesh Babu J.,IIIT Bangalore,ICMI,2,0.0,2012
+Dinesh Babu J.,IIIT Bangalore,ICMI Companion,1,0.0,2022
+Dinesh Babu J.,IIIT Bangalore,ICMI Companion,2,0.0,2021
+U. Pal 0001,ISI Kolkata,ICMI,1,0.0,2000
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2009
+Sougata Sen,BITS Pilani-Goa,ICMI,1,0.0,2022
+Surjya Ghosh,BITS Pilani-Goa,ICMI,1,0.0,2022
+Pushpak Bhattacharya,IIT Bombay,ICMI,1,0.0,2021
+Preethi Jyothi,IIT Bombay,ICMI,1,0.0,2021
+Ganesh Ramakrishnan,IIT Bombay,ICMI,1,0.0,2021
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2017
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2016
+Dinesh Babu J.,IIIT Bangalore,ICMI,1,0.0,2018
+G. N. Srinivasa Prasanna,IIIT Bangalore,ICT,1,0.0,2004
+Chapram Sudhakar,National Institute of Technology Warangal,ICT,1,0.0,2010
+Swagatam Das,ISI Kolkata,SEMCCO,9,0.0,2010
+Swagatam Das,ISI Kolkata,SEMCCO (1),11,0.0,2013
+Swagatam Das,ISI Kolkata,SEMCCO,1,0.0,2014
+Swagatam Das,ISI Kolkata,SEMCCO (2),5,0.0,2011
+Swagatam Das,ISI Kolkata,SEMCCO,15,0.0,2012
+Swagatam Das,ISI Kolkata,SEMCCO (2),2,0.0,2013
+Pradipta Maji,ISI Kolkata,SEMCCO (1),1,0.0,2011
+Aditya Kanade,IISc Bangalore,SEMCCO (1),2,0.0,2013
+Swagatam Das,ISI Kolkata,SEMCCO (1),7,0.0,2011
+Swagatam Das,ISI Kolkata,SEMCCO/FANCCO,1,0.0,2019
+Sriram G. Sanjeevi,National Institute of Technology Warangal,SEMCCO (1),1,0.0,2011
+Pradipta Maji,ISI Kolkata,SEMCCO (2),1,0.0,2013
+Ashish Ghosh,ISI Kolkata,SEMCCO,1,0.0,2012
+Kuntal Ghosh,ISI Kolkata,SEMCCO (1),1,0.0,2011
+Dinesh Babu J.,IIIT Bangalore,CRV,1,0.0,2023
+K. Narayan Kumar,CMI,NETYS,1,0.0,2022
+Aiswarya Cyriac,CMI,NETYS,1,0.0,2020
+Anisur Rahaman Molla,ISI Kolkata,NETYS,1,0.0,2021
+K. Narayan Kumar,CMI,NETYS,1,0.0,2017
+Aiswarya Cyriac,CMI,NETYS,1,0.0,2015
+Madhavan Mukund,CMI,NETYS,1,0.0,2018
+Sharat Chandran,IIT Bombay,EC,1,0.0,2019
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,TACAS,1,0.0,2005
+Supratik Chakraborty,IIT Bombay,TACAS,1,0.0,2005
+Krishna Shankara Narayanan,IIT Bombay,TACAS (1),2,0.0,2023
+Amitabha Sanyal,IIT Bombay,TACAS,1,0.0,2009
+K. Narayan Kumar,CMI,TACAS,1,0.0,2016
+Raghavan Komondoor,IISc Bangalore,TACAS,1,0.0,2005
+Supratik Chakraborty,IIT Bombay,TACAS,1,0.0,2013
+Supratik Chakraborty,IIT Bombay,TACAS,1,0.0,2015
+Amitabha Sanyal,IIT Bombay,TACAS (1),1,0.0,2018
+Supratik Chakraborty,IIT Bombay,TACAS,1,0.0,2006
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,TACAS,1,0.0,2006
+S. Akshay 0001,IIT Bombay,TACAS (1),1,0.0,2017
+Supratik Chakraborty,IIT Bombay,TACAS (1),1,0.0,2017
+K. Narayan Kumar,CMI,TACAS,1,0.0,2002
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,TACAS,1,0.0,2001
+Supratik Chakraborty,IIT Bombay,TACAS (2),1,0.0,2023
+Supratik Chakraborty,IIT Bombay,TACAS (1),1,0.0,2020
+Amitabha Sanyal,IIT Bombay,TACAS (1),1,0.0,2020
+K. Narayan Kumar,CMI,TACAS,1,0.0,2000
+Supratik Chakraborty,IIT Bombay,TACAS,1,0.0,2008
+Aditya Kanade,IISc Bangalore,TACAS,1,0.0,2016
+Amitabha Sanyal,IIT Bombay,TACAS,1,0.0,2012
+Amitabha Sanyal,IIT Bombay,TACAS,2,0.0,2015
+Uday P. Khedker,IIT Bombay,TACAS,1,0.0,2015
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,TACAS,1,0.0,2007
+Krishna Shankara Narayanan,IIT Bombay,TACAS,1,0.0,2007
+S. Akshay 0001,IIT Bombay,TACAS (1),1,0.0,2020
+Krishna Shankara Narayanan,IIT Bombay,TACAS (1),1,0.0,2020
+Supratik Chakraborty,IIT Bombay,TACAS (2),1,0.0,2020
+Amitabha Sanyal,IIT Bombay,TACAS (2),1,0.0,2020
+Pushpak Bhattacharya,IIT Bombay,VR Workshops,1,0.0,2021
+Bhabatosh Chanda,ISI Kolkata,iCAST,1,0.0,2019
+Rushikesh Joshi,IIT Bombay,ECSA,2,0.0,2010
+Ajit Rajwade 0001,IIT Bombay,DGCI,1,0.0,2016
+Sharat Chandran,IIT Bombay,DGCI,1,0.0,2016
+Bhabatosh Chanda,ISI Kolkata,DGCI,1,0.0,2019
+Aditya Challa,BITS Pilani-Goa,DGCI,1,0.0,2017
+Sravan Danda,BITS Pilani-Goa,DGCI,1,0.0,2017
+Umesh Bellur,IIT Bombay,SERVICES,2,0.0,2017
+P. Radha Krishna 0001,National Institute of Technology Warangal,SERVICES,1,0.0,2019
+Ajit Rajwade 0001,IIT Bombay,MMSP,1,0.0,2015
+Shalabh Bhatnagar,IISc Bangalore,MMSP,1,0.0,2008
+G. N. Srinivasa Prasanna,IIIT Bangalore,MMSP,1,0.0,2008
+Aditya Kanade,IISc Bangalore,ECCV Workshops (6),1,0.0,2022
+Dipti Prasad Mukherjee,ISI Kolkata,ECCV (10),1,0.0,2018
+Suyash P. Awate,IIT Bombay,ECCV (2),1,0.0,2006
+Pratik Narang,BITS Pilani,ECCV Workshops (4),1,0.0,2020
+Siddhartha Chaudhuri,IIT Bombay,ECCV (3),2,0.0,2022
+Neelam Sinha,IIIT Bangalore,ECCV Workshops (6),1,0.0,2022
+Tanmay T. Verlekar,BITS Pilani-Goa,ECCV Workshops (5),1,0.0,2022
+Siddhartha Chaudhuri,IIT Bombay,ECCV (7),1,0.0,2020
+U. Pal 0001,ISI Kolkata,ECCV (28),1,0.0,2022
+Abhishek Sinha,Tata Inst. of Fundamental Research,ECCV (27),1,0.0,2020
+Ganesh Ramakrishnan,IIT Bombay,ECCV Workshops (5),1,0.0,2020
+Pratik Narang,BITS Pilani,ECCV Workshops (3),1,0.0,2020
+U. Pal 0001,ISI Kolkata,ECCV (38),1,0.0,2022
+U. Pal 0001,ISI Kolkata,ECCV Workshops (3),1,0.0,2020
+Aditya Kanade,IISc Bangalore,IES,1,0.0,2015
+Sanghamitra Bandyopadhyay,ISI Kolkata,ISMIS,1,0.0,2005
+Nikhil R. Pal,ISI Kolkata,ICARCV,1,0.0,2006
+Abhishek Mishra,BITS Pilani,ICARCV,1,0.0,2014
+Kavi Arya,IIT Bombay,ICETM,1,0.0,2020
+Mulagala Sandhya,National Institute of Technology Warangal,SIRS,2,0.0,2015
+Jayant R. Haritsa,IISc Bangalore,SIGMETRICS,1,0.0,1993
+Vinay J. Ribeiro,IIT Bombay,SIGMETRICS,1,0.0,2004
+Siddharth Barman,IISc Bangalore,SIGMETRICS,1,0.0,2013
+R. Govindarajan,IISc Bangalore,SIGMETRICS,1,0.0,2014
+Vinay J. Ribeiro,IIT Bombay,SIGMETRICS,1,0.0,1999
+Krithi Ramamritham,IIT Bombay,SIGMETRICS,1,0.0,2000
+Vinay J. Ribeiro,IIT Bombay,SIGMETRICS (Abstracts),1,0.0,2022
+Umesh Bellur,IIT Bombay,SIGMETRICS (Abstracts),1,0.0,2022
+Abhishek Sinha,Tata Inst. of Fundamental Research,SIGMETRICS (Abstracts),1,0.0,2023
+Aditya Kanade,IISc Bangalore,SIGMETRICS,1,0.0,2012
+Abhishek Sinha,Tata Inst. of Fundamental Research,SIGMETRICS (Abstracts),1,0.0,2020
+Siddharth Barman,IISc Bangalore,SIGMETRICS,1,0.0,2015
+Deepak D'Souza,IISc Bangalore,ESOP,1,0.0,2011
+Deepak D'Souza,IISc Bangalore,ESOP,1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,ESOP,1,0.0,2022
+Deepak D'Souza,IISc Bangalore,ESOP,1,0.0,2019
+Krishna Shankara Narayanan,IIT Bombay,ESOP,1,0.0,2022
+Raghavan Komondoor,IISc Bangalore,ESOP,1,0.0,2021
+K. Narayan Kumar,CMI,ESOP,1,0.0,2021
+Krishna Shankara Narayanan,IIT Bombay,ESOP,1,0.0,2021
+Raghavan Komondoor,IISc Bangalore,ESOP,1,0.0,2001
+Vinayak Naik,BITS Pilani-Goa,Middleware (Industry Track),1,0.0,2014
+Umesh Bellur,IIT Bombay,MW4SOC,1,0.0,2010
+Puru Kulkarni,IIT Bombay,Middleware,1,0.0,2017
+Umesh Bellur,IIT Bombay,Middleware,1,0.0,2020
+Puru Kulkarni,IIT Bombay,Middleware,1,0.0,2020
+Umesh Bellur,IIT Bombay,MPAC,1,0.0,2005
+Umesh Bellur,IIT Bombay,ARM@Middleware,1,0.0,2006
+Ansuman Banerjee,ISI Kolkata,MCS@Middleware,1,0.0,2013
+C. R. Subramanian 0001,IMSc,ANALCO,1,0.0,2018
+Siddhartha Chaudhuri,IIT Bombay,ANALCO,1,0.0,2007
+Kavi Arya,IIT Bombay,FIE,2,0.0,2014
+Swaroop Joshi,BITS Pilani-Goa,FIE,1,0.0,2016
+G. N. Srinivasa Prasanna,IIIT Bangalore,FIE,1,0.0,2014
+Chandrashekar Ramanathan,IIIT Bangalore,FIE,2,0.0,2015
+G. N. Srinivasa Prasanna,IIIT Bangalore,FIE,1,0.0,2015
+Swaroop Joshi,BITS Pilani-Goa,FIE,1,0.0,2018
+Surya Narayana Raju Undi,National Institute of Technology Warangal,BigMM,1,0.0,2015
+Debapriyo Majumdar,ISI Kolkata,BigMM,1,0.0,2020
+Surya Narayana Raju Undi,National Institute of Technology Warangal,BigMM,1,0.0,2016
+Sharat Chandran,IIT Bombay,WSCG,1,0.0,2001
+Pushpak Bhattacharya,IIT Bombay,ISMIR,1,0.0,2017
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2007
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2012
+Aditya Kanade,IISc Bangalore,ISSAC,1,0.0,2011
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2020
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2017
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2015
+Arkadev Chattopadhyay,Tata Inst. of Fundamental Research,ISSAC,1,0.0,2013
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2006
+Kamal Lodaya,IMSc,ISSAC,1,0.0,2016
+Umesh Bellur,IIT Bombay,IASTED Conf. on Software Engineering,1,0.0,2005
+Debabrata Das,IIIT Bangalore,APCC,1,0.0,2011
+Sanjay K. Sahay,BITS Pilani-Goa,APCC,1,0.0,2021
+Hemant Rathore,BITS Pilani-Goa,APCC,1,0.0,2021
+Sasanka Roy,ISI Kolkata,WALCOM,1,0.0,2007
+Sandip Das 0001,ISI Kolkata,WALCOM,1,0.0,2007
+Subhas C. Nandy,ISI Kolkata,WALCOM,1,0.0,2007
+Kamal Lodaya,IMSc,WALCOM,1,0.0,2016
+Sasanka Roy,ISI Kolkata,WALCOM,1,0.0,2008
+Sandip Das 0001,ISI Kolkata,WALCOM,1,0.0,2008
+Arijit Bishnu,ISI Kolkata,WALCOM,2,0.0,2010
+Sandip Das 0001,ISI Kolkata,WALCOM,2,0.0,2010
+Anisur Rahaman Molla,ISI Kolkata,WALCOM,1,0.0,2020
+Saladi Rahul,IISc Bangalore,WALCOM,2,0.0,2011
+Geevarghese Philip,CMI,WALCOM,1,0.0,2010
+Kamal Lodaya,IMSc,WALCOM,1,0.0,2010
+Saket Saurabh 0001,IMSc,WALCOM,1,0.0,2010
+Subhas C. Nandy,ISI Kolkata,WALCOM,1,0.0,2021
+Subhas C. Nandy,ISI Kolkata,WALCOM,2,0.0,2009
+Krishnendu Mukhopadhyaya,ISI Kolkata,WALCOM,1,0.0,2015
+Subhas C. Nandy,ISI Kolkata,WALCOM,1,0.0,2010
+Sasanka Roy,ISI Kolkata,WALCOM,1,0.0,2020
+Sandip Das 0001,ISI Kolkata,WALCOM,1,0.0,2011
+Saket Saurabh 0001,IMSc,WALCOM,1,0.0,2019
+Kamal Lodaya,IMSc,WALCOM,1,0.0,2022
+Kamal Lodaya,IMSc,WALCOM,2,0.0,2013
+Saket Saurabh 0001,IMSc,WALCOM,1,0.0,2013
+Krishnendu Mukhopadhyaya,ISI Kolkata,WALCOM,1,0.0,2017
+Krishnendu Mukhopadhyaya,ISI Kolkata,WALCOM,2,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,WALCOM,1,0.0,2011
+Saket Saurabh 0001,IMSc,WALCOM,1,0.0,2011
+V. N. Muralidhara,IIIT Bangalore,WALCOM,1,0.0,2010
+Sandip Das 0001,ISI Kolkata,WALCOM,1,0.0,2013
+Meena Mahajan,IMSc,WALCOM,1,0.0,2009
+Prajakta Nimbhorkar,CMI,WALCOM,1,0.0,2009
+Samir Datta,CMI,WALCOM,1,0.0,2014
+Swagatam Das,ISI Kolkata,APSIPA ASC,1,0.0,2023
+Dinesh Babu J.,IIIT Bangalore,iWOAR,1,0.0,2018
+G. N. Srinivasa Prasanna,IIIT Bangalore,ICARA,1,0.0,2023
+Surjya Ghosh,BITS Pilani-Goa,MobileHCI,1,0.0,2017
+Malay Bhattacharyya 0001,ISI Kolkata,MobileHCI Adjunct,1,0.0,2016
+Sujith Thomas,BITS Pilani-Goa,VL/HCC,1,0.0,2006
+Amit Dua,BITS Pilani,CITS,1,0.0,2016
+Aditya Kanade,IISc Bangalore,FAST,2,0.0,2010
+P. Vijay Kumar,IISc Bangalore,FAST,1,0.0,2018
+Arnab K. Paul,BITS Pilani-Goa,FAST,1,1.0,2023
+Aditya Kanade,IISc Bangalore,ISSTA,1,0.0,2016
+Raghavan Komondoor,IISc Bangalore,ISSTA,1,0.0,2017
+Aditya Kanade,IISc Bangalore,ISSTA,1,0.0,2017
+Varsha Apte,IIT Bombay,QUDOS@ISSTA,1,0.0,2016
+Sangharatna Godboley,National Institute of Technology Warangal,ISSTA,1,0.0,2021
+Ashish Ghosh,ISI Kolkata,ANZIIS,2,0.0,1996
+Pushpak Bhattacharya,IIT Bombay,ALTA,1,0.0,2016
+Jayant R. Haritsa,IISc Bangalore,DNIS,1,0.0,2000
+Swati Agarwal 0001,BITS Pilani-Goa,DNIS,1,0.0,2015
+Krithi Ramamritham,IIT Bombay,DNIS,1,0.0,2007
+Krithi Ramamritham,IIT Bombay,DNIS,1,0.0,2000
+Manoj M. Prabhakaran,IIT Bombay,TCC (2),1,0.0,2023
+Arpita Patra,IISc Bangalore,TCC (1),1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,TCC (1),1,0.0,2018
+Manoj M. Prabhakaran,IIT Bombay,TCC,1,0.0,2005
+Manoj M. Prabhakaran,IIT Bombay,TCC,1,0.0,2006
+Manoj M. Prabhakaran,IIT Bombay,TCC (B2),1,0.0,2016
+Bhavana Kanukurthi,IISc Bangalore,TCC (2),1,0.0,2017
+Manoj M. Prabhakaran,IIT Bombay,TCC (2),1,0.0,2021
+Manoj M. Prabhakaran,IIT Bombay,TCC,2,0.0,2009
+Manoj M. Prabhakaran,IIT Bombay,TCC (3),1,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,TCC (3),1,0.0,2020
+Manoj M. Prabhakaran,IIT Bombay,TCC (2),2,0.0,2022
+Arpita Patra,IISc Bangalore,TCC (2),3,0.0,2022
+Manoj M. Prabhakaran,IIT Bombay,TCC (3),1,0.0,2022
+Ashish Choudhary,IIIT Bangalore,TCC (2),1,0.0,2023
+Manoj M. Prabhakaran,IIT Bombay,TCC,2,0.0,2014
+Manoj M. Prabhakaran,IIT Bombay,TCC,1,0.0,2011
+Arpita Patra,IISc Bangalore,TCC (2),1,0.0,2020
+Arpita Patra,IISc Bangalore,TCC,1,0.0,2014
+Manoj M. Prabhakaran,IIT Bombay,TCC (A2),1,0.0,2016
+Bhavana Kanukurthi,IISc Bangalore,TCC (A2),1,0.0,2016
+Manoj M. Prabhakaran,IIT Bombay,TCC (2),1,0.0,2015
+Bhavana Kanukurthi,IISc Bangalore,TCC,1,0.0,2014
+Manoj M. Prabhakaran,IIT Bombay,TCC (1),1,0.0,2015
+Sarbani Palit,ISI Kolkata,ISPA,1,0.0,2017
+Sarbani Palit,ISI Kolkata,ISPA,1,0.0,2011
+Utpal Garain,ISI Kolkata,IWCF,1,0.0,2014
+V. N. Muralidhara,IIIT Bangalore,ICCE,1,0.0,2023
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,2,0.0,2019
+Kuldeep Kumar,BITS Pilani,ISEC,1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2024
+Rushikesh Joshi,IIT Bombay,ISEC,2,0.0,2014
+Raghavan Komondoor,IISc Bangalore,ISEC,1,0.0,2020
+Santonu Sarkar,BITS Pilani-Goa,ISEC,1,0.0,2015
+Ansuman Banerjee,ISI Kolkata,ISEC,1,0.0,2012
+Sasthi C. Ghosh 0001,ISI Kolkata,ISEC,1,0.0,2012
+Kamal Lodaya,IMSc,DIAS/EDUDM@ISEC,1,0.0,2017
+Santonu Sarkar,BITS Pilani-Goa,ISEC,3,0.0,2012
+G. Sivakumar,IIT Bombay,ISEC,1,0.0,2021
+Sangharatna Godboley,National Institute of Technology Warangal,ISEC,1,0.0,2024
+P. Radha Krishna 0001,National Institute of Technology Warangal,ISEC,1,0.0,2024
+Raghavan Komondoor,IISc Bangalore,ISEC,2,0.0,2012
+Ansuman Banerjee,ISI Kolkata,ISEC,1,0.0,2024
+Kavi Arya,IIT Bombay,ISEC,1,0.0,2016
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2010
+G. N. Srinivasa Prasanna,IIIT Bangalore,ModSym+SAAAS@ISEC,1,0.0,2016
+Santonu Sarkar,BITS Pilani-Goa,ISEC,1,0.0,2010
+Vinayak Naik,BITS Pilani-Goa,ISEC,1,0.0,2019
+Rushikesh Joshi,IIT Bombay,ISEC,2,0.0,2019
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2008
+Sangharatna Godboley,National Institute of Technology Warangal,ISEC,2,0.0,2023
+Aditya Kanade,IISc Bangalore,ISEC,1,0.0,2022
+Sangharatna Godboley,National Institute of Technology Warangal,ISEC,1,0.0,2019
+Santonu Sarkar,BITS Pilani-Goa,ISEC,1,0.0,2008
+Rushikesh Joshi,IIT Bombay,ISEC,1,0.0,2020
+Deepak D'Souza,IISc Bangalore,ISEC,1,0.0,2010
+Santonu Sarkar,BITS Pilani-Goa,ISEC,1,0.0,2019
+Swaroop Joshi,BITS Pilani-Goa,ISEC,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2020
+Pushpak Bhattacharya,IIT Bombay,ISEC,1,0.0,2014
+Aditya Kanade,IISc Bangalore,ISEC,1,0.0,2024
+Shirish K. Shevade,IISc Bangalore,ISEC,1,0.0,2024
+Ansuman Banerjee,ISI Kolkata,ISEC,1,0.0,2020
+Rushikesh Joshi,IIT Bombay,ISEC,1,0.0,2023
+Rushikesh Joshi,IIT Bombay,ISEC,1,0.0,2022
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2009
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2017
+Santonu Sarkar,BITS Pilani-Goa,ISEC,1,0.0,2020
+G. N. Srinivasa Prasanna,IIIT Bangalore,ISEC,1,0.0,2016
+Rushikesh Joshi,IIT Bombay,ISEC,1,0.0,2016
+U. Pal 0001,ISI Kolkata,S+SSPR,1,0.0,2016
+U. Pal 0001,ISI Kolkata,S+SSPR,1,0.0,2014
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2012
+P. Vijay Kumar,IISc Bangalore,ISIT,3,0.0,2013
+P. Vijay Kumar,IISc Bangalore,ISIT,1,0.0,2020
+P. Vijay Kumar,IISc Bangalore,ISIT,4,0.0,2017
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2022
+P. Vijay Kumar,IISc Bangalore,ISIT,6,0.0,2004
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,3,0.0,2018
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,2,0.0,2007
+P. Vijay Kumar,IISc Bangalore,ISIT,3,0.0,2019
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,4,0.0,2010
+P. Vijay Kumar,IISc Bangalore,ISIT,4,0.0,2005
+Aditya Kanade,IISc Bangalore,ISIT,1,0.0,2013
+Aditya Kanade,IISc Bangalore,ISIT,2,0.0,2012
+Shalabh Bhatnagar,IISc Bangalore,ISIT,1,0.0,2012
+P. Vijay Kumar,IISc Bangalore,ISIT,4,0.0,2006
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2014
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,2,0.0,2019
+Pranab Sen,Tata Inst. of Fundamental Research,ISIT,2,0.0,2021
+P. Vijay Kumar,IISc Bangalore,ISIT,3,0.0,2021
+P. Vijay Kumar,IISc Bangalore,ISIT,4,0.0,2008
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2017
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2011
+Manoj M. Prabhakaran,IIT Bombay,ISIT,1,0.0,2011
+Arijit Bishnu,ISI Kolkata,ISIT,1,0.0,2022
+Siddharth Barman,IISc Bangalore,ISIT,1,0.0,2016
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2009
+Pranab Sen,Tata Inst. of Fundamental Research,ISIT,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,4,0.0,2008
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,3,0.0,2009
+P. Vijay Kumar,IISc Bangalore,ISIT,3,0.0,2015
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,4,0.0,2014
+Arijit Bishnu,ISI Kolkata,ISIT,3,0.0,2018
+P. Vijay Kumar,IISc Bangalore,ISIT,4,0.0,2018
+Aditya Kanade,IISc Bangalore,ISIT,1,0.0,2018
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,4,0.0,2020
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,5,0.0,2021
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,3,0.0,2016
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,2,0.0,2004
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,3,0.0,2013
+Arijit Bishnu,ISI Kolkata,ISIT,2,0.0,2016
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2007
+Abhishek Sinha,Tata Inst. of Fundamental Research,ISIT,1,0.0,2020
+Swagatam Das,ISI Kolkata,ISIT,1,0.0,2021
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2016
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2023
+Subhamoy Maitra,ISI Kolkata,ISIT,1,0.0,2006
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2006
+L. Sunil Chandran,IISc Bangalore,ISIT,1,0.0,2007
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,3,0.0,2015
+P. Vijay Kumar,IISc Bangalore,ISIT,2,0.0,2010
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,2,0.0,2012
+P. Vijay Kumar,IISc Bangalore,ISIT,1,0.0,2011
+Pranab Sen,Tata Inst. of Fundamental Research,ISIT,1,0.0,2012
+Aditya Kanade,IISc Bangalore,ISIT,1,0.0,2023
+Hariharan Narayanan,Tata Inst. of Fundamental Research,ISIT,2,0.0,2023
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2018
+Abhishek Mishra,BITS Pilani,ISIT,1,0.0,2013
+Aditya Kanade,IISc Bangalore,ISIT,1,0.0,2005
+M. Narasimha Murty,IISc Bangalore,ISIT,1,0.0,2005
+Shalabh Bhatnagar,IISc Bangalore,ISIT,1,0.0,2005
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,ISIT,1,0.0,2017
+Manoj M. Prabhakaran,IIT Bombay,ISIT,1,0.0,2023
+Aditya Kanade,IISc Bangalore,ISIT,1,0.0,2009
+Arijit Bishnu,ISI Kolkata,ISIT,1,0.0,2013
+Abhishek Sinha,Tata Inst. of Fundamental Research,ISIT,1,0.0,2021
+Manoj M. Prabhakaran,IIT Bombay,ISIT,1,0.0,2010
+Ansuman Banerjee,ISI Kolkata,DATE,1,0.0,2016
+Sumit K. Mandal,IISc Bangalore,DATE,2,0.0,2023
+Arijit Ghosh,ISI Kolkata,DATE,1,0.0,2005
+Srinath R. Naidu,IIIT Bangalore,DATE,1,0.0,2007
+Arijit Ghosh,ISI Kolkata,DATE,1,0.0,2003
+Virendra Singh,IIT Bombay,DATE,1,0.0,2010
+Virendra Singh,IIT Bombay,DATE,1,0.0,2018
+Biswa,IIT Bombay,DATE,1,0.0,2014
+Ansuman Banerjee,ISI Kolkata,DATE,2,0.0,2012
+Susmita Sur-Kolay,ISI Kolkata,DATE,1,0.0,2004
+Biswa,IIT Bombay,DATE,1,0.0,2021
+Srinath R. Naidu,IIIT Bangalore,DATE,1,0.0,2001
+Ansuman Banerjee,ISI Kolkata,DATE,1,0.0,2017
+Virendra Singh,IIT Bombay,DATE,1,0.0,2009
+Krithi Ramamritham,IIT Bombay,FTRTFT,1,0.0,1992
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,FTRTFT,2,0.0,1994
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,FTRTFT,1,0.0,1996
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,FTRTFT,2,0.0,1998
+Deepak D'Souza,IISc Bangalore,FTRTFT,1,0.0,2000
+Manjubala Bisi,National Institute of Technology Warangal,ICCCNT,1,0.0,2022
+Yashvardhan Sharma,BITS Pilani,ICCCNT,1,0.0,2023
+Ashutosh Bhatia,BITS Pilani,ICCCNT,1,0.0,2023
+Kamlesh Tiwari,BITS Pilani,ICCCNT,1,0.0,2023
+M. Praveen,CMI,ICCCNT,1,0.0,2023
+Sanjaya K. Panda,National Institute of Technology Warangal,ICCCNT,2,0.0,2023
+Debabrata Das,IIIT Bangalore,ICCCNT,1,0.0,2020
+Sridhar Iyer,IIT Bombay,ICCCNT,1,0.0,2023
+Earnest Paul Ijjina,National Institute of Technology Warangal,ICCCNT,2,0.0,2021
+Ravichandra Sadam,National Institute of Technology Warangal,ICCCNT,1,0.0,2018
+Manjubala Bisi,National Institute of Technology Warangal,ICCCNT,2,0.0,2023
+M. Srinivas,National Institute of Technology Warangal,ICCCNT,1,0.0,2022
+Goutam Paul 0001,ISI Kolkata,ICCCNT,1,0.0,2021
+M. Srinivas,National Institute of Technology Warangal,ICCCNT,1,0.0,2021
+Earnest Paul Ijjina,National Institute of Technology Warangal,ICCCNT,3,0.0,2020
+Abhishek Mishra,BITS Pilani,ICCCNT,1,0.0,2018
+Rashmi Ranjan Rout,National Institute of Technology Warangal,ICCCNT,2,0.0,2020
+Rashmi Ranjan Rout,National Institute of Technology Warangal,ICCCNT,1,0.0,2019
+Durvasula V. L. N. Somayajulu,National Institute of Technology Warangal,ICCCNT,1,0.0,2019
+G. N. Srinivasa Prasanna,IIIT Bangalore,ICCCNT,1,0.0,2019
+Manjubala Bisi,National Institute of Technology Warangal,ICCCNT,2,0.0,2021
+Kuldeep Kumar,BITS Pilani,ICCCNT,1,0.0,2023
+Earnest Paul Ijjina,National Institute of Technology Warangal,ICCCNT,2,0.0,2019
+Biswa,IIT Bombay,WOOT @ USENIX Security Symposium,1,0.0,2019
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,UAI,1,0.0,2016
+Anand Louis,IISc Bangalore,UAI,1,0.0,2022
+Siddharth Barman,IISc Bangalore,UAI,1,0.0,2023
+Sandeep Juneja,Tata Inst. of Fundamental Research,UAI,1,0.0,2023
+Abir De,IIT Bombay,UAI,1,0.0,2020
+Jaikumar Radhakrishnan,Tata Inst. of Fundamental Research,UAI,1,0.0,2021
+Amitabha Sanyal,IIT Bombay,UAI,1,0.0,2011
+Aditya Kanade,IISc Bangalore,UAI,1,0.0,2011
+Prahladh Harsha,Tata Inst. of Fundamental Research,UAI,1,0.0,2008
+Piyush Srivastava 0001,Tata Inst. of Fundamental Research,UAI,1,0.0,2021
+Shivaram Kalyanakrishnan,IIT Bombay,UAI,1,0.0,2019
+Anand Louis,IISc Bangalore,UAI,1,0.0,2019
+Gugan Thoppe,IISc Bangalore,UAI,1,0.0,2023
+Aditya Kanade,IISc Bangalore,UAI,1,0.0,2017
+Shirish K. Shevade,IISc Bangalore,UAI,1,0.0,2012
+Aditya Kanade,IISc Bangalore,UAI,1,0.0,2019
+Shivaram Kalyanakrishnan,IIT Bombay,UAI,1,0.0,2018
+Om P. Damani,IIT Bombay,LOPSTR,1,0.0,2015
+Uday P. Khedker,IIT Bombay,LOPSTR,1,0.0,2016
+Siddhartha Chaudhuri,IIT Bombay,SIGGRAPH Asia,1,0.0,2023
+Pradipta Maji,ISI Kolkata,PerMIn,1,0.0,2012
+Sushmita Mitra,ISI Kolkata,PerMIn,1,0.0,2012
+Kuntal Ghosh,ISI Kolkata,PerMIn,1,0.0,2012
+M. Srinivas,National Institute of Technology Warangal,PerMIn,1,0.0,2015
+Nikhil R. Pal,ISI Kolkata,PerMIn,1,0.0,2012
+Ashish Ghosh,ISI Kolkata,PerMIn,1,0.0,2012
+Rajat K. De,ISI Kolkata,PerMIn,1,0.0,2012
+Bhabatosh Chanda,ISI Kolkata,PerMIn,1,0.0,2012
+Utpal Garain,ISI Kolkata,GREC,1,0.0,2013
+U. Pal 0001,ISI Kolkata,GREC,1,0.0,2007
+U. Pal 0001,ISI Kolkata,GREC,1,0.0,2013
+U. Pal 0001,ISI Kolkata,GREC,1,0.0,2011
+U. Pal 0001,ISI Kolkata,GREC,1,0.0,2009
+Surjya Ghosh,BITS Pilani-Goa,IUI,1,0.0,2019
+Surjya Ghosh,BITS Pilani-Goa,IUI,1,0.0,2021
+Neelam Sinha,IIIT Bangalore,"Medical Imaging: Biomedical Applications in Molecular, Structural, and Functional Imaging",1,0.0,2018
+Neelam Sinha,IIIT Bangalore,"Medical Imaging: Biomedical Applications in Molecular, Structural, and Functional Imaging",1,0.0,2017
+Tanmay T. Verlekar,BITS Pilani-Goa,ACCV (Workshops),1,0.0,2022
+Bhabatosh Chanda,ISI Kolkata,ACCV (3),1,0.0,2012
+Dipti Prasad Mukherjee,ISI Kolkata,ACCV (1),1,0.0,2010
+Earnest Paul Ijjina,National Institute of Technology Warangal,ACCV Workshops (1),2,0.0,2014
+U. Pal 0001,ISI Kolkata,ACCV (2),1,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,ACCV (1),1,0.0,1998
+Ashwin Srinivasan 0001,BITS Pilani-Goa,ACCV Workshops,1,0.0,2018
+Bhabatosh Chanda,ISI Kolkata,ACCV Workshops (2),1,0.0,2014
+Sharat Chandran,IIT Bombay,ACCV (2),1,0.0,2006
+Rajesh Kumar 0012,BITS Pilani-Goa,SAFECOMP Workshops,1,0.0,2015
+B. B. Amberker,National Institute of Technology Warangal,SNDS,2,0.0,2012
+Ilaiah Kavati,National Institute of Technology Warangal,SNDS,1,0.0,2014
+Devashish Gosain,BITS Pilani-Goa,LCN,1,0.0,2021
+P. Vijay Kumar,IISc Bangalore,LCN Workshops,1,0.0,2016
+Sanjay K. Sahay,BITS Pilani-Goa,LCN,1,0.0,2021
+Hemant Rathore,BITS Pilani-Goa,LCN,1,0.0,2021
+Devashish Gosain,BITS Pilani-Goa,LCN,1,0.0,2017
+Sasthi C. Ghosh 0001,ISI Kolkata,LCN,2,0.0,2015
+Sasthi C. Ghosh 0001,ISI Kolkata,LCN,1,0.0,2017
+Devashish Gosain,BITS Pilani-Goa,LCN Symposium,1,0.0,2020
+P. Vijay Kumar,IISc Bangalore,LCN Workshops,1,0.0,2017
+Tricha Anjali,IIIT Bangalore,LCN,1,0.0,2010
+G. Sivakumar,IIT Bombay,LCN,1,0.0,2007
+Varsha Apte,IIT Bombay,LCN,1,0.0,2009
+Sasthi C. Ghosh 0001,ISI Kolkata,LCN,1,0.0,2019
+P. Radha Krishna 0001,National Institute of Technology Warangal,ISI,1,0.0,2005
+Swati Agarwal 0001,BITS Pilani-Goa,JISIC,1,0.0,2014
+Arijit Bishnu,ISI Kolkata,WiMob,1,0.0,2013
+Neena Goveas,BITS Pilani-Goa,MILCOM,1,0.0,2023
+Rashmi Ranjan Rout,National Institute of Technology Warangal,CyberSA,1,0.0,2021
+U. Pal 0001,ISI Kolkata,DICTA,1,0.0,2017
+U. Pal 0001,ISI Kolkata,DICTA,1,0.0,2011
+Sharat Chandran,IIT Bombay,DICTA,1,0.0,2017
+Ajit Rajwade 0001,IIT Bombay,DICTA,1,0.0,2017
+U. Pal 0001,ISI Kolkata,DICTA,2,0.0,2016
+Suyash P. Awate,IIT Bombay,DICTA,1,0.0,2023
+U. Pal 0001,ISI Kolkata,DICTA,1,0.0,2012
+Krithi Ramamritham,IIT Bombay,IHSI,1,0.0,2019
+Tricha Anjali,IIIT Bangalore,ISNCC,1,0.0,2021
+Shubhangi K. Gawali,BITS Pilani-Goa,ISNCC,1,0.0,2023
+Neena Goveas,BITS Pilani-Goa,ISNCC,1,0.0,2023
+Virendra Singh,IIT Bombay,Asian Test Symposium,2,0.0,2011
+Ansuman Banerjee,ISI Kolkata,Asian Test Symposium,1,0.0,2011
+Virendra Singh,IIT Bombay,Asian Test Symposium,1,0.0,2010
+Virendra Singh,IIT Bombay,Asian Test Symposium,1,0.0,2003
+Virendra Singh,IIT Bombay,ATS,3,0.0,2015
+Ansuman Banerjee,ISI Kolkata,Asian Test Symposium,1,0.0,2012
+Virendra Singh,IIT Bombay,ATS,1,0.0,2017
+Ansuman Banerjee,ISI Kolkata,ATS,1,0.0,2016
+Virendra Singh,IIT Bombay,Asian Test Symposium,2,0.0,2009
+Virendra Singh,IIT Bombay,ATS,1,0.0,2023
+Virendra Singh,IIT Bombay,ATS,2,0.0,2019
+Susmita Sur-Kolay,ISI Kolkata,Asian Test Symposium,1,0.0,2000
+Susmita Sur-Kolay,ISI Kolkata,ATS,1,0.0,2019
+Ansuman Banerjee,ISI Kolkata,ATS,1,0.0,2015
+Virendra Singh,IIT Bombay,ATS,1,0.0,2020
+R. Govindarajan,IISc Bangalore,SPDP,1,0.0,1992
+Abhiram G. Ranade,IIT Bombay,SPDP,1,0.0,1990
+R. Govindarajan,IISc Bangalore,SPDP,1,0.0,1993
+S. Sudarshan 0001,IIT Bombay,SPDP,1,0.0,1995
+Abhiram G. Ranade,IIT Bombay,SPDP,1,0.0,1994
+Tricha Anjali,IIIT Bangalore,EIT,3,0.0,2008
+Tricha Anjali,IIIT Bangalore,EIT,1,0.0,2014
+Tricha Anjali,IIIT Bangalore,EIT,2,0.0,2012
+Tricha Anjali,IIIT Bangalore,EIT,1,0.0,2009
+Rajesh Kumar 0012,BITS Pilani-Goa,HASE,1,0.0,2017
+Kamal Lodaya,IMSc,REX Workshop,2,0.0,1988
+Paritosh K. Pandya,Tata Inst. of Fundamental Research,REX Workshop,1,0.0,1989
+Amitabha Sanyal,IIT Bombay,ODBIS,1,0.0,2006
+Uday Bondhugula,IISc Bangalore,PLDI,1,0.0,2007
+Uday Bondhugula,IISc Bangalore,PLDI,1,0.0,2008
+R. Govindarajan,IISc Bangalore,PLDI,1,0.0,1995
+Aditya Kanade,IISc Bangalore,PLDI,1,0.0,2017
+S. Sudarshan 0001,IIT Bombay,SOAP@PLDI,1,0.0,2012
+Vinod Ganapathy,IISc Bangalore,PLAS,1,0.0,2010
+R. Govindarajan,IISc Bangalore,PLDI,1,0.0,2011
+Uday Bondhugula,IISc Bangalore,PLDI,1,0.0,2018
+Deepak D'Souza,IISc Bangalore,PLDI,1,0.0,2021
+Amitabha Sanyal,IIT Bombay,PLDI,1,0.0,1992
+Soumen Chakrabarti,IIT Bombay,PLDI,1,0.0,1996
+Aditya Kanade,IISc Bangalore,PLDI,1,0.0,2014
+Uday P. Khedker,IIT Bombay,SOAP@PLDI,1,0.0,2013
+Krishna Shankara Narayanan,IIT Bombay,PLDI,1,0.0,2019
+Santonu Sarkar,BITS Pilani-Goa,ARRAY@PLDI,1,0.0,2016
+Debrup Chakraborty,ISI Kolkata,CCE,1,0.0,2010
+Abhishek Mishra,BITS Pilani,ICCMS,1,0.0,2023
+Ansuman Banerjee,ISI Kolkata,BioCAS,1,0.0,2015
+Abhishek Mishra,BITS Pilani,BioCAS,1,0.0,2014
+Susmita Sur-Kolay,ISI Kolkata,ISMVL,1,0.0,2014
+Subhamoy Maitra,ISI Kolkata,ISMVL,1,0.0,2013
+Susmita Sur-Kolay,ISI Kolkata,ISMVL,1,0.0,2011
+Susmita Sur-Kolay,ISI Kolkata,ISMVL,1,0.0,2020
+Venkateswara Rao Kagita,National Institute of Technology Warangal,SMC,1,0.0,2014
+Neena Goveas,BITS Pilani-Goa,SMC,1,0.0,2023
+Shubhangi K. Gawali,BITS Pilani-Goa,SMC,1,0.0,2023
+Shrisha Rao 0001,IIIT Bangalore,SMC,2,0.0,2018
+Sanghamitra Bandyopadhyay,ISI Kolkata,SMC,1,0.0,2007
+Sanghamitra Bandyopadhyay,ISI Kolkata,SMC,1,0.0,2006
+Basabdatta B. Sen,BITS Pilani-Goa,SMC,1,0.0,2018
+Avinash Gautam,BITS Pilani,SMC,1,0.0,2019
+Amit Dua,BITS Pilani,SMC,1,0.0,2019
+Sudeept Mohan,BITS Pilani,SMC,1,0.0,2019
+Santonu Sarkar,BITS Pilani-Goa,SMC,2,0.0,2020
+Shalabh Bhatnagar,IISc Bangalore,SMC,1,0.0,2022
+Ashish Ghosh,ISI Kolkata,SMC,1,0.0,2010
+R. Govindarajan,IISc Bangalore,SMC,1,0.0,1998
+Swagatam Das,ISI Kolkata,SMC,2,0.0,2010
+Swagatam Das,ISI Kolkata,SMC,1,0.0,2009
+Pushpak Bhattacharya,IIT Bombay,SMC,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,SMC,1,0.0,1989
+M. Narasimha Murty,IISc Bangalore,SMC,1,0.0,1989
+Avinash Gautam,BITS Pilani,SMC,1,0.0,2015
+Sudeept Mohan,BITS Pilani,SMC,1,0.0,2015
+Aditya Kanade,IISc Bangalore,SMC,1,0.0,2003
+Amit Dua,BITS Pilani,SMC,1,0.0,2022
+Avinash Gautam,BITS Pilani,SMC,1,0.0,2022
+Srinath Srinivasa,IIIT Bangalore,SMC,1,0.0,2009
+Pushpak Bhattacharya,IIT Bombay,GWC,9,0.0,2016
+Pushpak Bhattacharya,IIT Bombay,GWC,5,0.0,2014
+Preethi Jyothi,IIT Bombay,GWC,2,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,GWC,5,0.0,2018
+Pushpak Bhattacharya,IIT Bombay,GWC,1,0.0,2019
+Krithi Ramamritham,IIT Bombay,DMDW,1,0.0,1999
+Pushpak Bhattacharya,IIT Bombay,ECIR,1,0.0,2010
+Soumen Chakrabarti,IIT Bombay,ECIR (1),1,0.0,2019
+Manish Gupta 0001,IIIT Bangalore,ECIR,4,0.0,2018
+Manish Gupta 0001,IIIT Bangalore,ECIR,2,0.0,2014
+Manish Gupta 0001,IIIT Bangalore,NewsIR@ECIR,1,0.0,2018
+Manish Gupta 0001,IIIT Bangalore,ECIR (1),1,0.0,2023
+Manish Gupta 0001,IIIT Bangalore,ECIR,1,0.0,2017
+Soumen Chakrabarti,IIT Bombay,ECIR (1),1,0.0,2021
+Pushpak Bhattacharya,IIT Bombay,ECIR (2),1,0.0,2023
+Manish Gupta 0001,IIIT Bangalore,ECIR (2),1,0.0,2019
+Pushpak Bhattacharya,IIT Bombay,ECIR (2),1,0.0,2022
+Debapriyo Majumdar,ISI Kolkata,ECIR,1,0.0,2016
+Aditya Kanade,IISc Bangalore,ECIR,1,0.0,2012
+Shirish K. Shevade,IISc Bangalore,ECIR,1,0.0,2012
+Mandar Mitra,ISI Kolkata,ECIR (1),1,0.0,2022
+Manish Gupta 0001,IIIT Bangalore,ECIR (3),1,0.0,2023
+Mandar Mitra,ISI Kolkata,QPP++@ECIR,1,0.0,2023
+Pushpak Bhattacharya,IIT Bombay,ECIR (3),1,0.0,2024
+S. Sudarshan 0001,IIT Bombay,Workshop on Deductive Databases,1,0.0,1990
+S. Sudarshan 0001,IIT Bombay,"Workshop on Programming with Logic Databases (Informal Proceedings), ILPS",1,0.0,1993
+S. Sudarshan 0001,IIT Bombay,"Workshop on Deductive Databases, JICSLP",1,0.0,1992
+B. B. Amberker,National Institute of Technology Warangal,ICYCS,1,0.0,2008
+Dinesh Babu J.,IIIT Bangalore,IPTA,1,0.0,2017
+Arijit Bishnu,ISI Kolkata,IWSEC,1,0.0,2021
+Subhamoy Maitra,ISI Kolkata,IWSEC,1,0.0,2010
+Goutam Paul 0001,ISI Kolkata,IWSEC,1,0.0,2011
+Subhamoy Maitra,ISI Kolkata,IWSEC,1,0.0,2011
+Palash Sarkar 0001,ISI Kolkata,IWSEC,1,0.0,2006
+Sanjit Chatterjee,IISc Bangalore,IWSEC,1,0.0,2014
+Goutam Paul 0001,ISI Kolkata,IWSEC,1,0.0,2014
+Mridul Nandi,ISI Kolkata,IWSEC,1,0.0,2014
+Anisur Rahaman Molla,ISI Kolkata,OPODIS,2,0.0,2015
+Arpita Patra,IISc Bangalore,OPODIS,1,0.0,2011
+Madhavan Mukund,CMI,SETTA,1,0.0,2016
+Rajesh Kumar 0012,BITS Pilani-Goa,SETTA,1,0.0,2017
+Amitabha Sanyal,IIT Bombay,HCSE,1,0.0,2010
+Aditya Kanade,IISc Bangalore,AAMAS,7,0.0,2015
+Aditya Kanade,IISc Bangalore,AAMAS,4,0.0,2014
+Siddharth Barman,IISc Bangalore,AAMAS,1,0.0,2018
+Srinath Srinivasa,IIIT Bangalore,AAMAS,1,0.0,2015
+Aditya Kanade,IISc Bangalore,AAMAS,1,0.0,2018
+Saket Saurabh 0001,IMSc,AAMAS,1,0.0,2018
+Aditya Kanade,IISc Bangalore,AAMAS (3),1,0.0,2008
+Siddharth Barman,IISc Bangalore,AAMAS,1,0.0,2019
+Shalabh Bhatnagar,IISc Bangalore,AAMAS,1,0.0,2015
+Shalabh Bhatnagar,IISc Bangalore,AAMAS,1,0.0,2019
+G. N. Srinivasa Prasanna,IIIT Bangalore,AAMAS,1,0.0,2021
+Shrisha Rao 0001,IIIT Bangalore,AAMAS,1,0.0,2021
+G. N. Srinivasa Prasanna,IIIT Bangalore,AAMAS,1,0.0,2020
+Aditya Kanade,IISc Bangalore,AAMAS,4,0.0,2017
+Venkateswara Rao Kagita,National Institute of Technology Warangal,AAMAS,1,0.0,2021
+Shivaram Kalyanakrishnan,IIT Bombay,AAMAS (2),2,0.0,2009
+Shrisha Rao 0001,IIIT Bangalore,AAMAS,1,0.0,2017
+Shrisha Rao 0001,IIIT Bangalore,AAMAS,1,0.0,2020
+Amitabha Sanyal,IIT Bombay,AAMAS,1,0.0,2023
+Aditya Kanade,IISc Bangalore,AAMAS,2,0.0,2016
+Aditya Kanade,IISc Bangalore,AAMAS,4,0.0,2020
+Siddharth Barman,IISc Bangalore,AAMAS,1,0.0,2023
+Shivaram Kalyanakrishnan,IIT Bombay,AAMAS,1,0.0,2007
+Aditya Kanade,IISc Bangalore,AAMAS,1,0.0,2023
+Amitabha Sanyal,IIT Bombay,AAMAS,2,0.0,2014
+Aditya Kanade,IISc Bangalore,AAMAS,1,0.0,2011
+Srinath Srinivasa,IIIT Bangalore,AAMAS,1,0.0,2023
+Shivaram Kalyanakrishnan,IIT Bombay,AAMAS,1,0.0,2011
+Amitabha Sanyal,IIT Bombay,AAMAS,1,0.0,2019
+Shalabh Bhatnagar,IISc Bangalore,AAMAS,1,0.0,2013
+Abir De,IIT Bombay,AAMAS,1,0.0,2018
+Ashwin Srinivasan 0001,BITS Pilani-Goa,AAMAS,1,0.0,2019
+Aditya Kanade,IISc Bangalore,AAMAS,1,0.0,2022
+Hariharan Narayanan,Tata Inst. of Fundamental Research,AAMAS,1,0.0,2018
+Shalabh Bhatnagar,IISc Bangalore,AAMAS,1,0.0,2021
+B. Srivathsan,CMI,AAMAS,1,0.0,2020
+Abhishek Sinha,Tata Inst. of Fundamental Research,AAMAS,1,0.0,2022
+Arindam Khan 0001,IISc Bangalore,AAMAS,1,0.0,2021
+Anand Louis,IISc Bangalore,AAMAS,1,0.0,2021
+Aditya Kanade,IISc Bangalore,AAMAS,1,0.0,2013
+Siddharth Barman,IISc Bangalore,AAMAS,1,0.0,2021
+Saket Saurabh 0001,IMSc,AAMAS,1,0.0,2019
+Hariharan Narayanan,Tata Inst. of Fundamental Research,AAMAS,1,0.0,2023
+Krishna Shankara Narayanan,IIT Bombay,AAMAS,1,0.0,2023
+Shirish K. Shevade,IISc Bangalore,AAMAS,1,0.0,2017
+Shrisha Rao 0001,IIIT Bangalore,AAMAS,1,0.0,2019
+Sharat Chandran,IIT Bombay,VRST,1,0.0,2005
+Kavi Arya,IIT Bombay,TALE,2,0.0,2019
+Yashvardhan Sharma,BITS Pilani,TALE,1,0.0,2018
+Krithi Ramamritham,IIT Bombay,SIGMOD Conference,1,0.0,2002
+Soumen Chakrabarti,IIT Bombay,SIGMOD Conference,1,0.0,1998
+Sunita Sarawagi,IIT Bombay,SIGMOD Conference,1,0.0,2001
+Jayant R. Haritsa,IISc Bangalore,SIGMOD Conference,1,0.0,2021
+Sunita Sarawagi,IIT Bombay,SIGMOD Conference,1,0.0,1998
+Jayant R. Haritsa,IISc Bangalore,SIGMOD Conference,1,0.0,1997
+Krithi Ramamritham,IIT Bombay,SIGMOD Conference,1,0.0,1997
+Jayant R. Haritsa,IISc Bangalore,SIGMOD Conference,1,0.0,2002
