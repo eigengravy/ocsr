@@ -1,5 +1,52 @@
 import { SetStateAction, useEffect, useState } from "react";
-import { cloneDeep } from "lodash";
+import { cloneDeep, range } from "lodash";
+import InsitutionItem from "./components/InstitutionItem";
+import AuthorList from "./components/AuthorList";
+
+import {
+  Table,
+  TableBody,
+  TableHead,
+  TableHeader,
+  TableRow,
+} from "@/components/ui/table";
+
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
+
+import { Switch } from "@/components/ui/switch";
+import { Label } from "@/components/ui/label";
+import { ScrollArea } from "@/components/ui/scroll-area";
+
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+
+const displayNames = {
+  all: "All Areas",
+  systems: "Systems",
+  ai: "Artificial Intelligence",
+  security: "Security",
+  hpc: "High Performance Computing",
+  ml: "Machine Learning",
+  ccs: "CCS",
+  ndss: "NDSS",
+  sc: "SC",
+  hpdc: "HPDC",
+  nips: "NIPS",
+  kdd: "KDD",
+  icml: "ICML",
+};
 
 const transform = (data, parent) => {
   return Object.keys(data).map((key) => {
@@ -112,7 +159,7 @@ const NestedCheckbox = ({ data, setAreas }) => {
 const NestedCheckboxHelper = ({ nodes, ancestors, onBoxChecked }) => {
   const prefix = ancestors.join(".");
   return (
-    <ul>
+    <ol className="list-inside">
       {nodes.map(({ label, checked, childrenNodes }) => {
         const id = `${prefix}.${label}`;
         let children = null;
@@ -127,7 +174,7 @@ const NestedCheckboxHelper = ({ nodes, ancestors, onBoxChecked }) => {
         }
 
         return (
-          <li key={id}>
+          <li key={id} className="ml-5">
             <input
               type="checkbox"
               name={id}
@@ -135,12 +182,14 @@ const NestedCheckboxHelper = ({ nodes, ancestors, onBoxChecked }) => {
               checked={checked}
               onChange={(e) => onBoxChecked(e, ancestors)}
             />
-            <label htmlFor={id}>{label}</label>
+            <label htmlFor={id} className="text-lg pl-2">
+              {displayNames[label]}
+            </label>
             {children}
           </li>
         );
       })}
-    </ul>
+    </ol>
   );
 };
 
@@ -151,24 +200,27 @@ function App() {
   const [startYear, setStartYear] = useState(2020);
   const [endYear, setEndYear] = useState(2024);
   const [areas, setAreas] = useState<any>({
-    systems: {
-      security: {
-        ccs: false,
-        ndss: false,
+    all: {
+      systems: {
+        security: {
+          ccs: false,
+          ndss: false,
+        },
+        hpc: {
+          sc: false,
+          hpdc: true,
+        },
       },
-      hpc: {
-        sc: false,
-        hpdc: true,
-      },
-    },
-    ai: {
-      ml: {
-        nips: false,
-        kdd: false,
-        icml: false,
+      ai: {
+        ml: {
+          nips: false,
+          kdd: false,
+          icml: false,
+        },
       },
     },
   });
+
   const [confs, setConfs] = useState<any[]>([]);
   const [loadingData, setLoadingData] = useState(true);
 
@@ -182,10 +234,10 @@ function App() {
 
   useEffect(() => {
     let activeConfs: SetStateAction<any[]> = [];
-    Object.keys(areas).forEach((area) => {
-      Object.keys(areas[area]).forEach((subarea) => {
-        Object.keys(areas[area][subarea]).forEach((conf) => {
-          if (areas[area][subarea][conf]) {
+    Object.keys(areas["all"]).forEach((area) => {
+      Object.keys(areas["all"][area]).forEach((subarea) => {
+        Object.keys(areas["all"][area][subarea]).forEach((conf) => {
+          if (areas["all"][area][subarea][conf]) {
             activeConfs.push(conf);
           }
         });
@@ -198,23 +250,6 @@ function App() {
     console.log("Loading user data");
 
     (async () => {
-      // const dblpAliases = (
-      //   await (
-      //     await fetch(
-      //       "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/dblp-aliases.csv"
-      //     )
-      //   ).text()
-      // )
-      //   .trim()
-      //   .split("\n")
-      //   .slice(1);
-
-      // const dblpAliasesMap = new Map<string, string>(
-      //   dblpAliases.map((line) => [line.split(",")[0], line.split(",")[1]])
-      // );
-
-      // console.log(dblpAliasesMap);
-
       setGeneratedAuthorInfo(
         (
           await (
@@ -238,34 +273,6 @@ function App() {
             };
           })
       );
-
-      // const authorInfo: any = {};
-
-      // generatedAuthorInfo.forEach((line) => {
-      //   let [name, dept, area, count, adjcount, year] = line.split(",");
-      // name = dblpAliasesMap.get(name) || name;
-
-      // if (dblpAliasesMap.get(name)) {
-      //   console.log("Found alias");
-      //   console.log(name, dept, count, adjcount, year);
-      //   console.log(
-      //     authorInfo[dept].find(
-      //       (author: any) => author.name === dblpAliasesMap.get(name)
-      //     )
-      //   );
-      // }
-      //   if (!authorInfo[dept]) {
-      //     authorInfo[dept] = [];
-      //   }
-
-      //   authorInfo[dept].push({
-      //     name,
-      //     area,
-      //     count,
-      //     adjcount,
-      //     year,
-      //   });
-      // });
     })();
   }, []);
 
@@ -328,109 +335,153 @@ function App() {
   }, [generatedAuthorInfo, startYear, endYear, confs]);
 
   return (
-    <>
-      <h1>Open CS Rankings 🇮🇳</h1>
-      {loadingData ? (
-        <p>Loading data...</p>
-      ) : (
-        <div>
-          <p>Loaded data! {authors.length}</p>
+    <div className="flex flex-col p-2">
+      <div className="text-5xl w-full pl-5">Open CS Rankings 🇮🇳</div>
+      {!loadingData && (
+        <div className="flex flex-row w-full justify-between">
+          <div className="flex flex-col gap-5 w-100 pt-5 pl-5">
+            <div className="flex flex-row gap-5 align-bottom">
+              <Switch
+                id="toggleGroupByInstitution"
+                checked={toggleGroupByInstitution}
+                onCheckedChange={() =>
+                  setToggleGroupByInstitution(!toggleGroupByInstitution)
+                }
+              />
+              <p>
+                {toggleGroupByInstitution
+                  ? "List Institutions"
+                  : "List Authors"}
+              </p>
+            </div>
 
-          <NestedCheckbox data={areas} setAreas={setAreas} />
-
-          <button
-            onClick={() =>
-              setToggleGroupByInstitution(!toggleGroupByInstitution)
-            }
-          >
-            Toggle Group By Insitutions
-          </button>
-
-          <input
-            type="number"
-            value={startYear}
-            onChange={(e) => setStartYear(parseInt(e.target.value))}
-          />
-
-          <input
-            type="number"
-            value={endYear}
-            onChange={(e) => setEndYear(parseInt(e.target.value))}
-          />
-
-          {!toggleGroupByInstitution && (
-            <select
-              value={sortInstitutionsBy}
-              onChange={(e) => setSortInstitutionsBy(e.target.value)}
-            >
-              <option value="size">Size</option>
-              <option value="pubs">Pubs</option>
-              <option value="adjPubs">Adj Pubs</option>
-            </select>
-          )}
-
-          {toggleGroupByInstitution && (
-            <select
-              value={sortAuthorsBy}
-              onChange={(e) => setSortAuthorsBy(e.target.value)}
-            >
-              <option value="count">Count</option>
-              <option value="adj">Adj</option>
-            </select>
-          )}
-
-          {/* {generatedAuthorInfo &&
-            Object.keys(generatedAuthorInfo).map((dept) => (
-              <div key={dept}>
-                <h2>{dept}</h2>
-                {generatedAuthorInfo[dept].map((author: any) => (
-                  <p>
-                    {author.name} | {author.conf} | {author.count} |{" "}
-                    {author.adjcount} | {author.year}
-                  </p>
-                ))}
+            {!toggleGroupByInstitution && (
+              <div className="flex flex-row gap-3 w-full justify-between align-bottom">
+                <Select
+                  value={sortInstitutionsBy}
+                  onValueChange={(e) => setSortInstitutionsBy(e)}
+                >
+                  <SelectTrigger className="w-[180px]">
+                    <SelectValue placeholder="" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="size">Count</SelectItem>
+                    <SelectItem value="pubs">Pubs</SelectItem>
+                    <SelectItem value="adjPubs">Adj Pubs</SelectItem>
+                  </SelectContent>
+                </Select>
+                <p className="align-middle">Sort Authors By</p>
               </div>
-            ))} */}
+            )}
 
-          {authors &&
-            toggleGroupByInstitution &&
-            authors.map((author: any, i) => {
-              return (
-                <p>
-                  #{i + 1} | {author.name} | {author.count} | {author.adj} |{" "}
-                  {author.dept}
-                </p>
-              );
-            })}
+            {toggleGroupByInstitution && (
+              <div className="flex flex-row gap-3 w-full justify-between align-bottom">
+                <Select
+                  value={sortAuthorsBy}
+                  onValueChange={(e) => setSortAuthorsBy(e)}
+                >
+                  <SelectTrigger className="w-[180px]">
+                    <SelectValue placeholder={endYear} />
+                  </SelectTrigger>
+                  <SelectContent>
+                    <SelectItem value="count">Count</SelectItem>
+                    <SelectItem value="adj">Adj</SelectItem>
+                  </SelectContent>
+                </Select>
+                <p className="align-middle">Sort Institutions By</p>
+              </div>
+            )}
 
-          {institutions &&
-            !toggleGroupByInstitution &&
-            Object.keys(institutions)
-              .sort(
-                (a: any, b: any) =>
-                  institutions[b][sortInstitutionsBy] -
-                  institutions[a][sortInstitutionsBy]
-              )
-              .map((dept, i) => {
-                return (
-                  <div>
-                    <h2>
-                      #{i + 1} | {dept} | Faculty Count:{" "}
-                      {institutions[dept]["size"]} | Pubs Count:{" "}
-                      {institutions[dept]["pubs"]} | Adj Pubs Count:{" "}
-                      {institutions[dept]["adjPubs"]}
-                    </h2>
-                    {institutions[dept]["faculty"].map((author: any) => (
-                      <p>
-                        {author.name} | {author.count}
-                      </p>
-                    ))}
-                  </div>
-                );
-              })}
+            <div className="flex flex-row gap-3 w-full  justify-start align-bottom">
+              <p>Start Year</p>
+              <Select
+                value={startYear.toString()}
+                onValueChange={(e) => setStartYear(parseInt(e))}
+                defaultValue="2014"
+              >
+                <SelectTrigger className="w-[180px]">
+                  <SelectValue placeholder={startYear} />
+                </SelectTrigger>
+                <SelectContent>
+                  {range(1970, new Date().getFullYear() + 1).map((year) => (
+                    <SelectItem value={year.toString()}>{year}</SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+
+            <div className="flex flex-row gap-3 justify-start align-bottom">
+              <p>End Year</p>
+              <Select
+                value={endYear.toString()}
+                onValueChange={(e) => setStartYear(parseInt(e))}
+                defaultValue="2024"
+              >
+                <SelectTrigger className="w-[180px]">
+                  <SelectValue placeholder={endYear} />
+                </SelectTrigger>
+                <SelectContent>
+                  {range(1980, new Date().getFullYear() + 1).map((year) => (
+                    <SelectItem value={year.toString()}>{year}</SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+            </div>
+
+            <div>
+              <p className="text-2xl pb-3">Domains</p>
+              <NestedCheckbox data={areas} setAreas={setAreas} />
+            </div>
+          </div>
+
+          <div>
+            {authors && toggleGroupByInstitution && (
+              <ScrollArea className="h-[85vh] w-[50vw] rounded-md border p-4">
+                <AuthorList authors={authors} />
+              </ScrollArea>
+            )}
+
+            {institutions && !toggleGroupByInstitution && (
+              <ScrollArea className="h-[85vh] w-[50vw] rounded-md border p-4">
+                <Table>
+                  <TableHeader>
+                    <TableRow>
+                      <TableHead>Rank</TableHead>
+                      <TableHead>Name</TableHead>
+                      <TableHead>Count</TableHead>
+                      <TableHead>Pubs</TableHead>
+                      <TableHead>Adj Pubs</TableHead>
+                    </TableRow>
+                  </TableHeader>
+                  <TableBody>
+                    {Object.keys(institutions)
+                      .sort(
+                        (a: any, b: any) =>
+                          institutions[b][sortInstitutionsBy] -
+                          institutions[a][sortInstitutionsBy]
+                      )
+                      .map((dept, i) => (
+                        <InsitutionItem
+                          rank={i + 1}
+                          name={dept}
+                          size={institutions[dept]["size"]}
+                          pubs={institutions[dept]["pubs"]}
+                          adjPubs={institutions[dept]["adjPubs"]}
+                          faculty={institutions[dept]["faculty"]}
+                        />
+                      ))}
+                  </TableBody>
+                </Table>
+              </ScrollArea>
+            )}
+          </div>
         </div>
       )}
-    </>
+
+      <footer className="w-full text-sm text-gray-500 text-center dark:text-gray-400 mt-6">
+        2024, Open CS Rankings
+      </footer>
+    </div>
   );
 }
 
