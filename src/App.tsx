@@ -336,7 +336,7 @@ function App() {
       const affiliations = (
         await (
           await fetch(
-            import.meta.env.AFFILIATIONS ||
+            import.meta.env.VITE_AFFILIATIONS ||
               "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/csrankings.csv"
           )
         ).text()
@@ -360,7 +360,7 @@ function App() {
         (
           await (
             await fetch(
-              import.meta.env.DBLP ||
+              import.meta.env.VITE_DBLP ||
                 "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/generated-author-info.csv"
             )
           ).text()
