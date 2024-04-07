@@ -333,11 +333,34 @@ function App() {
     console.log("Loading user data");
 
     (async () => {
+      const affiliations = (
+        await (
+          await fetch(
+            import.meta.env.AFFILIATIONS ||
+              "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/csrankings.csv"
+          )
+        ).text()
+      )
+        .trim()
+        .split("\n")
+        .slice(1)
+        .map((line) => line.split(","))
+        .reduce((acc, [name, dept, homepage, scholar]) => {
+          acc[name] = {
+            dept,
+            homepage,
+            scholar,
+          };
+          return acc;
+        }, {});
+
+      console.log(affiliations);
+
       setGeneratedAuthorInfo(
         (
           await (
             await fetch(
-              import.meta.env.DB ||
+              import.meta.env.DBLP ||
                 "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/generated-author-info.csv"
             )
           ).text()
@@ -354,6 +377,8 @@ function App() {
               count: parseInt(count),
               adj: parseFloat(adj),
               year: parseInt(year),
+              homepage: affiliations[name]?.homepage,
+              scholar: affiliations[name]?.scholar,
             };
           })
       );
@@ -376,6 +401,8 @@ function App() {
             processedAuthors[author.name] = {
               name: author.name,
               dept: author.dept,
+              homepage: author.homepage,
+              scholar: author.scholar,
               count: 0,
               adj: 0,
             };

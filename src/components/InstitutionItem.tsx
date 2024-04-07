@@ -21,6 +21,7 @@ import {
 } from "@/components/ui/collapsible";
 
 import { useState } from "react";
+import { Badge } from "@/components/ui/badge";
 
 const InsitutionItem = ({ rank, name, size, pubs, adjPubs, faculty }) => {
   const [hidden, setHidden] = useState(true);
@@ -56,7 +57,25 @@ const InsitutionItem = ({ rank, name, size, pubs, adjPubs, faculty }) => {
                     {faculty.map((author: any, i) => (
                       <TableRow>
                         <TableCell>{i + 1}</TableCell>
-                        <TableCell>{author.name}</TableCell>
+                        <TableCell>
+                          <div className="flex flex-row gap-1">
+                            <p>{author.name}</p>
+
+                            <Badge variant="outline">
+                              <a href={author.homepage}>🌐</a>
+                            </Badge>
+                            <Badge variant="outline">
+                              <a
+                                href={
+                                  "https://scholar.google.com/citations?user=" +
+                                  author.scholar
+                                }
+                              >
+                                🎓
+                              </a>
+                            </Badge>
+                          </div>
+                        </TableCell>
                         <TableCell>{author.count}</TableCell>
                         <TableCell>{author.adj.toFixed(1)}</TableCell>
                       </TableRow>
