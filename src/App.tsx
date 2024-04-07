@@ -382,7 +382,7 @@ function App() {
 
   return (
     <div className="flex flex-col pl-20 pr-20 pt-5">
-      <div className="text-5xl w-full">Open CS Rankings 🇮🇳</div>
+      <div className="text-5xl w-full">Open CS Rankings</div>
       {!loadingData && (
         <div className="flex flex-row w-full justify-between">
           <div className="flex flex-col gap-5 w-100 pt-5 pl-5">
@@ -487,13 +487,13 @@ function App() {
             </div>
 
             {authors && toggleGroupByInstitution && (
-              <ScrollArea className="h-[85vh] w-[50vw] rounded-md border p-4">
+              <ScrollArea className="h-[100vh] w-[50vw] rounded-md border p-4">
                 <AuthorList authors={authors} />
               </ScrollArea>
             )}
 
             {institutions && !toggleGroupByInstitution && (
-              <ScrollArea className="h-[85vh] w-[50vw] rounded-md border p-4">
+              <ScrollArea className="h-[100vh] w-[50vw] rounded-md border p-4">
                 <Table>
                   <TableHeader>
                     <TableRow>
@@ -530,7 +530,11 @@ function App() {
       )}
 
       <footer className="w-full text-sm text-gray-500 text-center dark:text-gray-400 m-6">
-        2024, Open CS Rankings
+        © {new Date().getFullYear()},{" "}
+        <a className="underline" href="https://github.com/eigengravy/ocsr">
+          Open CS Rankings
+        </a>
+        . Made with ❤️ in 🇮🇳.
       </footer>
     </div>
   );
