@@ -1,3 +1,14 @@
+"""
+This Python script processes a gzipped XML file containing publication data 
+(dblp.xml.gz) to count the number of publications by author and area (publication venue) 
+over the years. It leverages a separate table of aliases (aliases.py) to disambiguate author names. 
+The script first reads the alias table and then iterates through the publication data, identifying authors, 
+their affiliations (departments), publication years, and areas. It keeps track of publication counts and 
+calculates adjusted publication counts (inverse of author count per publication) for each author-year-area entry. 
+Finally, it saves the results to a CSV file (output-generated-authors.csv).
+"""
+
+
 import gzip
 import sys
 
@@ -12,10 +23,10 @@ import time
 import aliases
 from constants import AUTHORS, PUBLICATION_VENUES
 
-DEBUG = True
-
-count = 0
+DEBUG = True # DEBUG mode enabled / disabled
 limit = 10 # time limit in minutes
+
+count = 0 # Internal count variable
 
 # Generate aliases
 df_aliases = aliases.start_gen()
