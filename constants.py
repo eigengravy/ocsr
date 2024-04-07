@@ -294,7 +294,6 @@ PUBLICATION_VENUES = {  # (long_name: short_name)
     "ACM International Conference on Mobile Computing and Networking": "mobicom",
     "ACM International Conference on Research and Development in Information Retrieval": "sigir",
     "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)": "fse",
-    "FSE": "fse",
     "ACM International Symposium on Computer Architecture": "isca",
     "ACM SIG International Conference on Computer Graphics and Interactive Techniques": "siggraph",
     "ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems": "pods",
