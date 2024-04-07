@@ -1,11 +1,11 @@
 import gzip
 import sys
-
 from pprint import pprint
 from typing import List
 
 import pandas as pd
 import xmltodict
+from progress.spinner import PixelSpinner
 
 # User scripts
 import aliases
@@ -94,6 +94,7 @@ def process_single_author(author_entity: str | dict, year: int, area: str):
 
 def xml_print(key, val):
     global count, df
+    spinner.next()
 
     item_type = key[1][0]
 
@@ -175,9 +176,14 @@ def xml_print(key, val):
     return True
 
 
+spinner = PixelSpinner("Processing")
+spinner.start()
+
 xmltodict.parse(
     gzip.GzipFile("./resources/dblp.xml.gz"), item_depth=2, item_callback=xml_print
 )
+
+spinner.finish()
 
 print(f"Total records found: {count}")
 print(df.head())
