@@ -263,44 +263,44 @@ function App() {
   const [toggleGroupByInstitution, setToggleGroupByInstitution] =
     useState(false);
 
-  const [startYear, setStartYear] = useState(2020);
+  const [startYear, setStartYear] = useState(2014);
   const [endYear, setEndYear] = useState(2024);
   const [areas, setAreas] = useState<any>({
     all: {
       ai: {
         ml: true,
-        ai: false,
-        cv: false,
-        nlp: false,
-        web: false,
+        ai: true,
+        cv: true,
+        nlp: true,
+        web: true,
       },
       systems: {
-        arch: false,
-        networks: false,
+        arch: true,
+        networks: true,
         security: true,
-        db: false,
-        eda: false,
-        embedded: false,
-        hpc: false,
-        mobile: false,
-        measurement: false,
-        os: false,
-        proglang: false,
-        software: false,
+        db: true,
+        eda: true,
+        embedded: true,
+        hpc: true,
+        mobile: true,
+        measurement: true,
+        os: true,
+        proglang: true,
+        software: true,
       },
       theory: {
-        algo: false,
-        crypto: false,
-        logic: false,
+        algo: true,
+        crypto: true,
+        logic: true,
       },
       inter: {
-        bio: false,
-        graphics: false,
-        edu: false,
-        ecocomp: false,
-        hci: false,
-        robotics: false,
-        visualisation: false,
+        bio: true,
+        graphics: true,
+        edu: true,
+        ecocomp: true,
+        hci: true,
+        robotics: true,
+        visualisation: true,
       },
     },
   });
