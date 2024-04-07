@@ -46,34 +46,71 @@ const displayNames = {
   theory: "Theory",
   arch: "Computer Architecture",
   networks: "Computer Networks",
-  databases: "Databases",
-  design: "Design Automation",
+  db: "Databases",
+  eda: "Design Automation",
   embedded: "Embedded & Real-Time Systems",
   mobile: "Mobile Computing",
   measurement: "Measurement & Performance Analysis",
   os: "Operating Systems",
-  languages: "Programming Languages",
+  proglang: "Programming Languages",
   software: "Software Engineering",
-  algorithms: "Algorithms & Complexity",
+  algo: "Algorithms & Complexity",
   crypto: "Cryptography",
   logic: "Logic & Verification",
   graphics: "Computer Graphics",
   inter: "Interdisciplinary Area",
   bio: "Computational Biology & Bioinformatics",
-  education: "Computer Science Education",
-  econ: "Economics & Computation",
+  edu: "Computer Science Education",
+  ecocomp: "Economics & Computation",
   hci: "Human-Computer Interaction",
   robotics: "Robotics",
-  vis: "Visualization",
+  visualisation: "Visualization",
 };
 
 const confsByArea = {
   systems: {
-    security: ["ccs", "ndss"],
-    hpc: ["sc", "hpdc"],
+    arch: ["asplos", "hpca", "isca", "micro"],
+    security: ["ccs", "ndss", "oakland", "usenixsec", "pets", "tifs", "tdsc"],
+    hpc: ["sc", "hpdc", "ics", "tpds", "podc"],
+    db: ["vldb", "sigmod", "icde", "pods"],
+    eda: ["dac", "iccad"],
+    embedded: ["emsoft", "rtas", "rtss"],
+    measurement: ["imc", "sigmetrics"],
+    mobile: ["mobicom", "mobisys", "sensys", "tmc"],
+    networks: [
+      "sigcomm",
+      "nsdi",
+      "tcns",
+      "tnsm",
+      "tgc",
+      "tnse",
+      "infocom",
+      "tsipn",
+    ],
+    os: ["sosp", "osdi", "eurosys", "fast", "usenixatc"],
+    proglang: ["pldi", "popl", "oopsla", "icfp"],
+    software: ["fse", "icse", "ase", "issta", "tse"],
   },
   ai: {
-    ml: ["nips", "kdd", "icml"],
+    ml: ["nips", "kdd", "icml", "iclr", "tnnls", "colt"],
+    nlp: ["acl", "emnlp", "naacl"],
+    web: ["www", "sigir", "icdm"],
+    ai: ["aaai", "ijcai", "tai", "aamas"],
+    cv: ["cvpr", "eccv", "iccv"],
+  },
+  inter: {
+    bio: ["ismb", "recomb"],
+    ecocomp: ["ec", "wine"],
+    edu: ["sigcse"],
+    graphics: ["siggraph", "eurographics", "siggraph-asia"],
+    hci: ["chiconf", "uist", "ubicomp", "tcss", "taffc", "percom"],
+    robotics: ["icra", "iros", "rss", "trob"],
+    visualisation: ["vis", "vr"],
+  },
+  theory: {
+    algo: ["focs", "soda", "stoc"],
+    crypto: ["crypto", "eurocrypt"],
+    logic: ["lics", "cav"],
   },
 };
 
@@ -241,29 +278,29 @@ function App() {
         arch: false,
         networks: false,
         security: true,
-        databases: false,
-        design: false,
+        db: false,
+        eda: false,
         embedded: false,
         hpc: false,
         mobile: false,
         measurement: false,
         os: false,
-        languages: false,
+        proglang: false,
         software: false,
       },
       theory: {
-        algorithms: false,
+        algo: false,
         crypto: false,
         logic: false,
       },
       inter: {
         bio: false,
         graphics: false,
-        education: false,
-        econ: false,
+        edu: false,
+        ecocomp: false,
         hci: false,
         robotics: false,
-        vis: false,
+        visualisation: false,
       },
     },
   });
@@ -300,7 +337,8 @@ function App() {
         (
           await (
             await fetch(
-              "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/generated-author-info.csv"
+              import.meta.env.DB ||
+                "https://raw.githubusercontent.com/emeryberger/CSrankings/gh-pages/generated-author-info.csv"
             )
           ).text()
         )
