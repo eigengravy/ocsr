@@ -24,7 +24,7 @@ import aliases
 from constants import AUTHORS, PUBLICATION_VENUES
 
 DEBUG = True # DEBUG mode enabled / disabled
-limit = 10 # time limit in minutes
+limit = 1 # time limit in minutes
 
 count = 0 # Internal count variable
 
@@ -121,9 +121,14 @@ def xml_print(key, val):
         authors = val.get("author")
         author_count = None
         area = conference_name or journal_title or None
-
+        if area in PUBLICATION_VENUES:
+            area = PUBLICATION_VENUES.get(area)
+        else:
+            return True
+        
         if area is None:  # Skip if no area
             return True
+        
 
         if authors is None:  # Skip if no authors
             return True        
