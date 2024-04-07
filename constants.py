@@ -269,6 +269,8 @@ PUBLICATION_VENUES = {  # (long_name: short_name)
     #
     "LICS": "lics",
     "CSL-LICS": "lics",
+    ## IEEE Transactions
+    ##
 }
 
 
