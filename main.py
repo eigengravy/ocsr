@@ -24,7 +24,7 @@ import aliases
 from constants import AUTHORS, PUBLICATION_VENUES
 
 DEBUG = True # DEBUG mode enabled / disabled
-limit = 5 # time limit in minutes
+limit = 180 # time limit in minutes
 
 count = 0 # Internal count variable
 
@@ -38,11 +38,15 @@ df = pd.DataFrame(columns=["name", "dept", "area", "count", "adjustedcount", "ye
 
 def process_multiple_authors(authors: list, year: int, area: str) -> [str]:
     processed_authors: List[str] = []
+    author_count = 0
     for author in authors:
-        single_author = process_single_author(author, year, area)
-        if single_author is not None:
-            processed_authors += single_author
-    return processed_authors
+        single_author, _ = process_single_author(author, year, area)
+        if single_author is []:
+            continue
+        
+        processed_authors += single_author
+        author_count += 1
+    return processed_authors, author_count
 
 
 def process_single_author(author_entity: str | dict, year: int, area: str):
@@ -60,14 +64,14 @@ def process_single_author(author_entity: str | dict, year: int, area: str):
         #if x in AUTHORS and area in PUBLICATION_VENUES:
     # Procure the name of the author and university from the alias table
     if not (
-        df_aliases.loc[df_aliases["alias"] == x].empty
+        df_aliases.loc[df_aliases["name"] == x].empty
         and df_aliases.loc[df_aliases["dept"] == x].empty
     ):
-        x = df_aliases.loc[df_aliases["alias"] == x, ["name"]].values[0][0]
-        dept = df_aliases.loc[df_aliases["alias"] == x, ["dept"]].values[0][0]
-        print("Author found in alias table: ", x)
+        x = df_aliases.loc[df_aliases["name"] == x, ["name"]].values[0][0]
+        dept = df_aliases.loc[df_aliases["name"] == x, ["dept"]].values[0][0]
+        print("Author found in alias table ", x , " || dept: ", dept)
     else:  # This case should never happen ideally
-        return None
+        return [], 1
 
     # Increase the count of the author in df for that year (if exists, if not, initialize to 1)
     if df.loc[
@@ -82,7 +86,9 @@ def process_single_author(author_entity: str | dict, year: int, area: str):
                 "Count for author "
                 + x
                 + " for year "
-                + year
+                + year +
+                " in area "
+                + area 
                 + " has been set to 1."
             )
     else:
@@ -104,7 +110,7 @@ def process_single_author(author_entity: str | dict, year: int, area: str):
             ].values[0][0],
         )
 
-    return [x]
+    return [x], 1
 
 
 def xml_print(key, val):
@@ -131,17 +137,18 @@ def xml_print(key, val):
         
 
         if authors is None:  # Skip if no authors
-            return True        
+            return True     
+        
 
         if isinstance(authors, list):  # multiple authors
-            processed_authors = process_multiple_authors(authors, year, area)
+            processed_authors, author_count = process_multiple_authors(authors, year, area)
         else:  # single author
-            processed_authors = process_single_author(authors, year, area)
-            
-        if processed_authors is None:
+            processed_authors, author_count = process_single_author(authors, year, area)
+        
+        if processed_authors == []:
             return True
-
-        author_count = len(processed_authors)
+        
+        pprint(processed_authors)
 
         # x = key[1]
         x = val.get("author")
@@ -149,24 +156,6 @@ def xml_print(key, val):
         if(time.time() - startTime > limit*60):
             df.to_csv("output-generated-authors.csv", index=False)
             sys.exit(0)
-
-        # DEBUG ONLY
-        if DEBUG:
-            # if not (journal_title is not None):
-            #     return True
-            if not (
-                area in PUBLICATION_VENUES
-            ):  # Skip if conference/journal not in list
-                return True
-            if not (
-                any(author in processed_authors for author in AUTHORS)
-            ):  # Skip if no author in list
-                return True
-
-            count += 1
-
-            print(PUBLICATION_VENUES.get(area))
-            pprint(processed_authors)
 
         # Increase the adjusted count of the author in df by adding the inverse of the author count
         for author in processed_authors:
@@ -193,6 +182,24 @@ def xml_print(key, val):
                     ["adjustedcount"],
                 ].values[0][0],
             )
+        
+        # DEBUG ONLY
+        if DEBUG:
+            # if not (journal_title is not None):
+            #     return True
+            if not (
+                area in PUBLICATION_VENUES
+            ):  # Skip if conference/journal not in list
+                return True
+            if not (
+                any(author in processed_authors for author in AUTHORS)
+            ):  # Skip if no author in list
+                return True
+
+            count += 1
+
+            print(PUBLICATION_VENUES.get(area))
+            pprint(processed_authors)
 
         print(author_count)
         print()

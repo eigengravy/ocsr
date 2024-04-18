@@ -17,18 +17,39 @@ def read_affliations():
     return pd.read_csv("./examples/affiliations.csv")
 
 # def read_ind_affliations():
-#     indian_inst = [
-#         "BITS Pilani",
-#         "BITS Pilani-Goa",
-#         "CMI",
-#         "IIIT Bangalore",
-#         "IISc Bangalore",
-#         "IIT Bombay",
-#         "IMSc",
-#         "ISI Kolkata",
-#         "National Institute of Technology Warangal",
-#         "Tata Inst. of Fundamental Research",
-#     ]
+#     indian_inst = ['BITS Pilani', 
+#                    'BITS Pilani-Goa', 
+#                    'CMI', 
+#                    'DAIICT', 
+#                    'IIIT Bangalore', 
+#                    'IIIT Delhi', 
+#                    'IIIT Hyderabad', 
+#                    'IISc Bangalore', 
+#                    'IIT (BHU) Varanasi', 
+#                    'IIT Bhubaneswar', 
+#                    'IIT Bombay', 
+#                    'IIT Delhi', 
+#                    'IIT Gandhinagar', 
+#                    'IIT Goa', 
+#                    'IIT Guwahati', 
+#                    'IIT Hyderabad', 
+#                    'IIT Indore', 
+#                    'IIT Jammu', 
+#                    'IIT Jodhpur', 
+#                    'IIT Kanpur', 
+#                    'IIT Kharagpur', 
+#                    'IIT Madras', 
+#                    'IIT Mandi', 
+#                    'IIT Patna', 
+#                    'IIT Roorkee', 
+#                    'IIT Ropar', 
+#                    'IMSc', 
+#                    'ISI Kolkata', 
+#                    'Jadavpur University', 
+#                    'NISER', 
+#                    'National Institute of Technology Silchar', 
+#                    'National Institute of Technology Warangal', 
+#                    'South Asian University', 'Tata Inst. of Fundamental Research']
     
 #     for index, row in df_affiliation.iterrows():
 #         if row["affiliation"] in indian_inst:
